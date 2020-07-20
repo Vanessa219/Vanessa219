@@ -1,0 +1,22 @@
+name: Update events
+
+on:
+  watch:
+    types: started
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - uses: actions/setup-go@v2
+    - name: Fetch events
+      run: go run main.go
+    - name: Commit and push
+      run: |-
+        git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+        git diff
+        git add . && git commit -m ":memo: 更新自述" || exit 0
+        git push
