@@ -34,7 +34,8 @@ func main() {
 
 	buf := &bytes.Buffer{}
 	buf.WriteString("\n\n")
-	updated := time.Now().Format("2006-01-02 15:04:05")
+	cstSh, _ := time.LoadLocation("Asia/Shanghai")
+	updated := time.Now().In(cstSh).Format("2006-01-02 15:04:05")
 	buf.WriteString("我的近期动态（点个 [Star](https://github.com/" + githubUserName + "/" + githubUserName + ") 将触发自动刷新，最近更新时间：`" + updated + "`）：\n\n")
 	for _, event := range result["data"].([]interface{}) {
 		evt := event.(map[string]interface{})
