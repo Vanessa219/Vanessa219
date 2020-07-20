@@ -41,11 +41,54 @@ func main() {
 		evt := event.(map[string]interface{})
 		operation := evt["operation"].(string)
 		title := evt["title"].(string)
+		typ := evt["type"].(string)
+		var emoji string
+		switch typ {
+		case "article":
+			emoji = "📝"
+		case "comment":
+			emoji = "💬"
+		case "comment2":
+			emoji = "🗣"
+		case "breezemoon":
+			emoji = "🌙"
+			title = operation
+		case "vote-article":
+			emoji = "👍📝"
+		case "vote-comment":
+			emoji = "👍💬"
+		case "vote-comment2":
+			emoji = "👍🗣"
+		case "vote-breezemoon":
+			emoji = "👍🌙"
+			title = operation
+		case "reward-article":
+			emoji = "💰📝"
+		case "thank-article":
+			emoji = "💗📝"
+		case "thank-comment":
+			emoji = "💗💬"
+		case "accept-comment":
+			emoji = "✅💬"
+		case "thank-comment2":
+			emoji = "💗🗣"
+		case "thank-breezemoon":
+			emoji = "💗🌙"
+			title = operation
+		case "follow-user":
+			emoji = "⭐️👨‍💻"
+		case "follow-tag":
+			emoji = "⭐️🏷️"
+		case "collect-article":
+			emoji = "🗃📝"
+		}
+
 		url := evt["url"].(string)
 		content := evt["content"].(string)
-		buf.WriteString("* [" + operation + "](" + url + ")：（" + title + "）" + content + "\n")
+		buf.WriteString("* " + emoji + " [" + title + "](" + url + ")\n\n" + "  > " + content + "\n")
 	}
-	buf.WriteString("\n")
+	buf.WriteString("\n📝 帖子 ｜ 💬 评论 ｜ 🗣 回帖 ｜ 🌙 清月 ｜ 👨‍💻 用户 ｜ 🏷️ 标签  \n⭐️ 关注 ｜ 👍 赞同 ｜ 💗 感谢 ｜ 💰 打赏 ｜ 🗃 收藏")
+	buf.WriteString("\n\n")
 
 	fmt.Println(buf.String())
 
