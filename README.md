@@ -2,15 +2,12 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Vanessa219&show_icons=true)
 
-<a title="Hits" target="_blank" href="https://github.com/Vanessa219/Vanessa219"><img src="https://hits.b3log.org/Vanessa219/Vanessa219.svg"></a>
-
 <!--events start -->
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-> ⭐️ [Star](https://github.com/Vanessa219/Vanessa219) 后会自动刷新，最近更新时间：`2020-07-20 23:43:42`
->
-> 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
+⭐️ [Star](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-07-20 23:43:42`
+📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595251305548#comments)
 
@@ -38,3 +35,5 @@
   > 我用的 IDEA，看提示是让你装最新版的 VS 吧。你脱离 IDE 编译看看。
 
 <!--events end -->
+
+<a title="Hits" target="_blank" href="https://github.com/Vanessa219/Vanessa219"><img src="https://hits.b3log.org/Vanessa219/Vanessa219.svg"></a>
