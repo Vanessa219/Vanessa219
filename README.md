@@ -6,10 +6,16 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-07-21 08:52:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-07-21 10:36:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1595294778975#comments)
+
+  > 搞了一个 [图片]
+* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595294713929#comments)
+
+  > 哦。我也好难受
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595251305548#comments)
 
   > 不错，已经用上，就是排版有点丑 [图片]
@@ -28,12 +34,6 @@
 * 💬 [node-gyp 编译失败问题](https://hacpai.com/article/1595229979205/comment/1595236129847#comments)
 
   > 没试过，你脱离 VS 编译不行么？
-* 📝 [JavaScript - 从右到左为对象中的每一个属性进行回调](https://hacpai.com/article/1595236089902)
-
-  > 2020-07-20 描述 倒序迭代一个对象中的所有属性，为其属性的每一个值都运行提供的回调函数。 提示 使用 Object.keys(obj) 获取对象中的所有属性 使用 Array.prototype.reverse() 让他们倒序排列 使用 Array.prototype.forEach() 为每一个键值对运行提 ..
-* 💬 [node-gyp 编译失败问题](https://hacpai.com/article/1595229979205/comment/1595233146286#comments)
-
-  > 我用的 IDEA，看提示是让你装最新版的 VS 吧。你脱离 IDE 编译看看。
 
 
 <!--events end -->
