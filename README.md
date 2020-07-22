@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-07-21 19:19:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-07-22 11:13:24`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 👍💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://hacpai.com/article/1595248018192/comment/1595340187059#comments)
+
+  > 嘻嘻 [图片]
 * 💬 [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1595294778975#comments)
 
   > 搞了一个 [图片]
@@ -31,9 +34,6 @@
 * 👍🌙 [赞同了清风明月](https://hacpai.com/member/Gakkiyomi2019/breezemoons/1595163310013)
 
   > 因为不够优秀而不去跟自己喜欢的人表白，以后真的会抱憾终身。
-* 💬 [node-gyp 编译失败问题](https://hacpai.com/article/1595229979205/comment/1595236129847#comments)
-
-  > 没试过，你脱离 VS 编译不行么？
 
 
 <!--events end -->
