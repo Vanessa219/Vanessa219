@@ -3,6 +3,8 @@ name: Update events
 on:
   watch:
     types: started
+  schedule:
+    - cron:  '0 */1 * * *'
 
 jobs:
   build:
