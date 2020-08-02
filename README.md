@@ -6,10 +6,22 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-01 08:09:51`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-02 08:08:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1590385955048#comments)
+
+  > 终于看完了，基本修复了，欢迎下一版本尝鲜
+* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1590385955048#comments)
+
+  > 聊天室的问题还存在么？
+* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1590385955048#comments)
+
+  > 行内数学式是有配置项，防止有人想输入美元。
+* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1590454763998#comments)
+
+  > 终于改完第一个点了，第二点正在努力修改中
 * 💬 [永远](https://hacpai.com/article/1596195924823/comment/1596205636304#comments)
 
   > 要么降低期望，要么更加努力，要么改变心态
@@ -22,18 +34,6 @@
 * 💬 [为什么 cloneNode 克隆图片会重新请求一次图片资源，而不是直接使用缓存呢](https://hacpai.com/article/1596125793172/comment/1596162077567#comments)
 
   > 我试了下，我的 Chrome 不会重新请求
-* 💬 [为什么 cloneNode 克隆图片会重新请求一次图片资源，而不是直接使用缓存呢](https://hacpai.com/article/1596125793172/comment/1596158187959#comments)
-
-  > 重新创建一个对象而不是引用
-* 💬 [前端小白在线求助！这个怎么弄啊？](https://hacpai.com/article/1596101135270/comment/1596104312259#comments)
-
-  > 看来用不到我了。相信自己，你可以的。
-* 🗣 [Vditor v3.3.12 发布，全新的 SV 模式](https://hacpai.com/article/1595955099905/comment/1596088495815#comments)
-
-  > 可以使用 options.upload.linkToImgUrl
-* 💗💬 [将所有键转换为小写](https://hacpai.com/article/1595996081360/comment/1596086748553#comments)
-
-  > js 有逗号表达式，求值为最后一个操作数的值，可以用这个把那个 return 换掉。
 
 
 <!--events end -->
