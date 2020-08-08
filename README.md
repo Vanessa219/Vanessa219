@@ -6,10 +6,19 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-07 08:16:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-08 08:17:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596796086535#comments)
+
+  > 你更新试试
+* 💬 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596789347904#comments)
+
+  > 今晚会修复，着急的话可以先把 !Watermark 移除
+* 💬 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596761983398#comments)
+
+  > 这是一个 bug [链接]
 * 🗣 [laravel 的 Eloquent 支持 FIND_IN_SET 语法吗？我们如何使用它？](https://hacpai.com/article/1596695167053/comment/1596695409007#comments)
 
   > 你用的什么编辑模式？
@@ -25,15 +34,6 @@
 * 📝 [基于提供的函数判断第一个对象是否包含了第二个对象](https://hacpai.com/article/1596509467885)
 
   > 2020-08-04 描述 基于提供的函数对两个对象进行比较，以确定第一个对象中是否包含有第二个对象中相同的属性值。 提示 使用 Object.keys() 获取第二个对象的所有键 使用 Array.prototype.every() 和 Object.hasOwnProperty() 和提供的函数来检测与第一个对象中 ..
-* 📝 [第一个对象是否包含了第二个对象的属性及值](https://hacpai.com/article/1596508658312)
-
-  > 2020-08-03 描述 对两个对象进行比较，以确定第一个对象中是否包含有第二个对象中相同的属性值。 提示 使用 Object.keys() 获取第二个对象的所有键 使用 Array.prototype.every() 和 Object.hasOwnProperty() 进行严格的对比检测 判断第二个对象中的所有键是 ..
-* 💗💬 [将所有键转换为小写](https://hacpai.com/article/1595996081360/comment/1596441894547#comments)
-
-  > 那还不如上...扩展运算符，直接一行搞定呢 const lowercaseKeys = obj =&gt; Object.keys(obj).reduce((acc, key) =&gt; ({...acc, [key.toLowerCase()]: obj[key]}), {});
-* 🗣 [社区缺陷报告与功能建议](https://hacpai.com/article/1438049659432/comment/1590385955048#comments)
-
-  > 终于看完了，基本修复了，欢迎下一版本尝鲜
 
 
 <!--events end -->
