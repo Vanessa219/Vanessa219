@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-08 08:17:20`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-09 08:09:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [建议切换预览的 button 加上 type="button"](https://hacpai.com/article/1596858515597/comment/1596865757443#comments)
+
+  > 收到。3.4.6 进行改进。
 * 🗣 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596796086535#comments)
 
   > 你更新试试
@@ -31,9 +34,6 @@
 * 📝 [合并多个对象](https://hacpai.com/article/1596674376465)
 
   > 2020-08-05 描述 通过组合两个或更多个对象来获取一个新的对象。 提示 通过使用 Array.prototype.reduce() 和 Object.keys(obj) 的组合，以迭代所有的对象及其每一个键 使用 hasOwnProperty() 和 Array.prototype.concat() 添加存在多 ..
-* 📝 [基于提供的函数判断第一个对象是否包含了第二个对象](https://hacpai.com/article/1596509467885)
-
-  > 2020-08-04 描述 基于提供的函数对两个对象进行比较，以确定第一个对象中是否包含有第二个对象中相同的属性值。 提示 使用 Object.keys() 获取第二个对象的所有键 使用 Array.prototype.every() 和 Object.hasOwnProperty() 和提供的函数来检测与第一个对象中 ..
 
 
 <!--events end -->
