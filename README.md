@@ -6,10 +6,16 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-09 08:09:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-10 08:15:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [PWA 之 Service Worker 从介绍到实战再到爬坑](https://hacpai.com/article/1520483961387/comment/1596958753156#comments)
+
+  > 感觉是浏览器的 bug，调用 API 总是清不空。手动也不行。
+* 🗣 [关联数组转换为树对象](https://hacpai.com/article/1596676537177/comment/1596970629315#comments)
+
+  > 你缺少对象
 * 💬 [建议切换预览的 button 加上 type="button"](https://hacpai.com/article/1596858515597/comment/1596865757443#comments)
 
   > 收到。3.4.6 进行改进。
@@ -28,12 +34,6 @@
 * 🗣 [个人 - Github Profile README](https://hacpai.com/article/1595075885588/comment/1596679820817#comments)
 
   > 开了个代理都不行
-* 📝 [关联数组转换为树对象](https://hacpai.com/article/1596676537177)
-
-  > 2020-08-06 描述 将一个平铺的有相互关联关系的数组对象转换为一个使用递归嵌套的树形对象。这对嵌套评论非常有用，例如：reddit.com。 提示 使用递归 使用 Array.prototype.filter() 过滤出同一链接关系的所有节点 使用 Array.prototype.map() 迭代每一个过滤出来 ..
-* 📝 [合并多个对象](https://hacpai.com/article/1596674376465)
-
-  > 2020-08-05 描述 通过组合两个或更多个对象来获取一个新的对象。 提示 通过使用 Array.prototype.reduce() 和 Object.keys(obj) 的组合，以迭代所有的对象及其每一个键 使用 hasOwnProperty() 和 Array.prototype.concat() 添加存在多 ..
 
 
 <!--events end -->
