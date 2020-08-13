@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-12 08:11:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-13 08:11:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Vditor v3.4.1 版本取消格式化功能了吗？](https://hacpai.com/article/1597203578598/comment/1597228082779#comments)
+
+  > sv 模式重写了，已经自动格式化。我去修改一下文档
 * 📝 [使用 `Object.entries` 将对象转换为带键值对的数组](https://hacpai.com/article/1597113741207)
 
   > 2020-08-11 描述 将一个对象转换为带有键值对的数组。 提示 使用 Object.entries() 从给定的对象总获取一个带有键值对的数组 代码 const objectToPairs = obj =&gt; Object.entries(obj); 示例 将对象转换为带键值对的数组： objectToPai ..
@@ -31,9 +34,6 @@
 * 🗣 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596796086535#comments)
 
   > 你更新试试
-* 💬 [vditor 上传的图片怎么直接显示成图片](https://hacpai.com/article/1596703358584/comment/1596789347904#comments)
-
-  > 今晚会修复，着急的话可以先把 !Watermark 移除
 
 
 <!--events end -->
