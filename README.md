@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-18 08:09:55`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-19 08:13:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Vditor 快捷键](https://hacpai.com/article/1582778815353/comment/1597748223631#comments)
+
+  > 你把 toolbarl 中的 hotkey 配置为空试试
 * 📝 [批量移除对象中不需要的键值对](https://hacpai.com/article/1597627770802)
 
   > 2020-08-13 描述 根据给定的键值，将一个对象中于此对应的键值对进行过滤。 提示 使用 Object.keys(obj)，Array.prototype.filter() 和 Array.prototype.includes() 将提供的键值进行移除 使用 Array.prototype.reduce() 根据 ..
@@ -31,9 +34,6 @@
 * 💬 [20200814 TGIF](https://hacpai.com/article/1597384522400/comment/1597459140055#comments)
 
   > 收到，已加入收藏
-* 💗📝 [每周电影 EP22 《原始星球》](https://hacpai.com/article/1594518889204)
-
-  > 原始星球 (豆瓣) 这应该是电影史上最有想象力的科幻动画。 哪怕放在今天这个经典创意会被竞相模仿的年代，仍然会觉得充满了趣味。 对比今天充满科技感元素的科幻片里，这种朴素的科幻表达令人惊叹。 电影不长，真是非常值得大家感受一下。 你会发现，想象力是多么的令人赞叹。 [图片] 原始的科幻电影有一个特点，就是看似简单，其实 ..
 
 
 <!--events end -->
