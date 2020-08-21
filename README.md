@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-20 08:09:45`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-21 08:09:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [建议 Vditor 增加异步支持](https://hacpai.com/article/1597299366927/comment/1597826580054#comments)
+
+  > 可以把目录移出去自己做，然后点击目录的话加载对应的 md
 * 💬 [Vditor 快捷键](https://hacpai.com/article/1582778815353/comment/1597748223631#comments)
 
   > 你把 toolbarl 中的 hotkey 配置为空试试
@@ -31,9 +34,6 @@
 * 🗣 [建议 Vditor 增加异步支持](https://hacpai.com/article/1597299366927/comment/1597483537382#comments)
 
   > 在本地编辑，本地输出会不会更好
-* 💬 [20200814 TGIF](https://hacpai.com/article/1597384522400/comment/1597459140055#comments)
-
-  > 收到，已加入收藏
 
 
 <!--events end -->
