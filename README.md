@@ -6,10 +6,16 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-28 08:11:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-29 08:04:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [社区彻底转变为生活区，来个起名帖](https://hacpai.com/article/1598431012111/comment/1598602896347#comments)
+
+  > @csfwff 为什么？
+* 💬 [社区彻底转变为生活区，来个起名帖](https://hacpai.com/article/1598431012111/comment/1598602896347#comments)
+
+  > 傅晓
 * 🌙 [发布了清风明月](https://hacpai.com/member/Vanessa/breezemoons/1598370562888)
 
   > 这么晚了还在专心的打码，我都不好意思开蛋糕了 🎂 [图片]
@@ -28,12 +34,6 @@
 * 📝 [获取各类型值的长度](https://hacpai.com/article/1598328307459)
 
   > 2020-08-24 描述 获取一个数组、对象或字符串的长度。 提示 获取 val 的类型（array，object 或者 string） 数组使用 length 属性 如果 length 或者 size 可用的话就使用他们，否则的话使用对象拥有键的数量 如果 val 为字符串的话就使用其创建一个 Blob 对象，然后 ..
-* 📝 [根据函数动态选取需要的键值对](https://hacpai.com/article/1598326927884)
-
-  > 2020-08-19 描述 当每一个键值对使用给定的函数返回真值时，就将他们组合成一个新的对象。该函数调用两个参数：（值，键）。 提示 使用 Object.keys(obj) 和 Array.prototype.filter() 来移除 fn 返回假值的键值对 使用 Array.prototype.reduce() 将 ..
-* 📝 [选取需要的键值对](https://hacpai.com/article/1598325848805)
-
-  > 2020-08-18 描述 根据给定的键，从对象中选取与之对应的键值对。 提示 使用 Array.prototype.reduce() 如果键存在于对象中，则将过滤出/选中的键转换回包含其键值对的对象 代码 const pick = (obj, arr) =&gt; arr.reduce((acc, curr) =&g ..
 
 
 <!--events end -->
