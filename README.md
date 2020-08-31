@@ -6,10 +6,16 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-30 08:13:31`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-31 08:14:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor v3.4.7 发布，支持自定义自动补全](https://hacpai.com/article/1598366555458/comment/1598763261823#comments)
+
+  > 只有声音，没有视频。你更新到 3.4.7 试试
+* 💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://hacpai.com/article/1549638745630/comment/1598779495104#comments)
+
+  > 这个应该是 npm 的问题。你用一下代理试试
 * 💗🌙 [感谢了清风明月](https://hacpai.com/member/HaujetZhao/breezemoons/1598448966730)
 
   > 又发现个神奇的手机支架[图片][图片]
@@ -28,12 +34,6 @@
 * 📝 [Vditor v3.4.7 发布，支持自定义自动补全](https://hacpai.com/article/1598366555458)
 
   > 新功能截图 Ant Design 主题 [图片] 自动补全 [图片] YAML Front Matter [图片] 简介 该版本主要特性如下： 对原有 at 进行自定义扩展，支持诸如 #、@、(( 等自定义符号的自动补全 支持 YAML Front Matter 支持 Mark 标记 支持日语 增加 Ant Desig ..
-* 📝 [对键进行重命名](https://hacpai.com/article/1598339683043)
-
-  > 2020-08-20 描述 根据提供的键值对将对象中的多个键进行重命名。 提示 在 Object.keys() 的返回值上使用 Array.prototype.reduce() 以获取对象的所有键 通过扩展运算符（...）和 keysMap 对其匹配的键进行重命名 代码 const renameKeys = (keys ..
-* 📝 [浅克隆](https://hacpai.com/article/1598337646623)
-
-  > 2020-08-21 描述 为一个对象进行浅克隆。 提示 使用 Object.assign() 和空对象（{}）为原始对象创建一个浅克隆 代码 const shallowClone = obj =&gt; Object.assign({}, obj); 示例 浅克隆一个对象： const a = { x: true,  ..
 
 
 <!--events end -->
