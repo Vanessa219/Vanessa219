@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-08-31 08:14:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-01 08:11:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Vditor v3.4.7 发布，支持自定义自动补全](https://hacpai.com/article/1598366555458/comment/1598845849967#comments)
+
+  > 你用最新版使一下，回车的话 3 会消失，我不太清楚你的按键情况。 PS：我这里用 QQ 录屏上传是正常的。 [链接]
 * 🗣 [Vditor v3.4.7 发布，支持自定义自动补全](https://hacpai.com/article/1598366555458/comment/1598763261823#comments)
 
   > 只有声音，没有视频。你更新到 3.4.7 试试
@@ -31,9 +34,6 @@
 * 🌙 [发布了清风明月](https://hacpai.com/member/Vanessa/breezemoons/1598370562888)
 
   > 这么晚了还在专心的打码，我都不好意思开蛋糕了 🎂 [图片]
-* 📝 [Vditor v3.4.7 发布，支持自定义自动补全](https://hacpai.com/article/1598366555458)
-
-  > 新功能截图 Ant Design 主题 [图片] 自动补全 [图片] YAML Front Matter [图片] 简介 该版本主要特性如下： 对原有 at 进行自定义扩展，支持诸如 #、@、(( 等自定义符号的自动补全 支持 YAML Front Matter 支持 Mark 标记 支持日语 增加 Ant Desig ..
 
 
 <!--events end -->
