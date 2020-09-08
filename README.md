@@ -6,10 +6,13 @@
 
 ### 我在[黑客派](https://hacpai.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-07 08:11:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-08 08:11:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://hacpai.com/article/1549638745630/comment/1599467749636#comments)
+
+  > 你可以到 [链接] 上看一下，上面有很多示例
 * 🗣 [Security 与响应式 webFlux(三) 完结撒花](https://hacpai.com/article/1599322291816/comment/1599369683263#comments)
 
   > 收到，已记录 [链接]
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://hacpai.com/article/1549638745630/comment/1599205797406#comments)
 
   > 方便用户点击
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://hacpai.com/article/1549638745630/comment/1599125523346#comments)
-
-  > 你可以到项目案例上看一看有没有人写过的开源的
 
 
 <!--events end -->
