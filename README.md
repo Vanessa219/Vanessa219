@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-16 08:11:10`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-17 08:11:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1600241722872#comments)
+
+  > 需求应该就是这个，[链接]，但是我使用 linkToImgCallback 方法粘贴图片时并没有触发
+* 🗣 [Vditor 在 NPM 上的下载量已经超过 Editor.md 了](https://ld246.com/article/1587009097498/comment/1600258589135#comments)
+
+  > 空值就不需要 setValue 来
+* 🗣 [Vditor 在 NPM 上的下载量已经超过 Editor.md 了](https://ld246.com/article/1587009097498/comment/1600223206836#comments)
+
+  > 在 options.after 中进行 AJAX 的请求和赋值。父子组件和查看父子组件的传值方式
+* 🗣 [Vditor 在 NPM 上的下载量已经超过 Editor.md 了](https://ld246.com/article/1587009097498/comment/1600183888735#comments)
+
+  > setValue 需在组建初始化完成后可用。参见 options.after
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1599913035736#comments)
 
   > 目前没有，可关注 [链接]
@@ -22,18 +34,6 @@
 * 💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1599467749636#comments)
 
   > 你可以到 [链接] 上看一下，上面有很多示例
-* 🗣 [Security 与响应式 webFlux(三) 完结撒花](https://ld246.com/article/1599322291816/comment/1599369683263#comments)
-
-  > 收到，已记录 [链接]
-* 💬 [我当爸爸了](https://ld246.com/article/1599343015386/comment/1599355306565#comments)
-
-  > 哇，羡慕有小公主的
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1599224045743#comments)
-
-  > @0995 已记录 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1599224045743#comments)
-
-  > @0995 你的意思是名称还应该保持中文？
 
 
 <!--events end -->
