@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-27 08:12:24`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-28 08:12:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [有必要使用 Keepass 作为你的密码管理器吗？](https://ld246.com/article/1601022177468/comment/1601089104990#comments)
+
+  > @HaujetZhao 第一次还是需要人输入的
 * 🗣 [有必要使用 Keepass 作为你的密码管理器吗？](https://ld246.com/article/1601022177468/comment/1601089104990#comments)
 
   > PC 端浏览器以外的就不行了，尤其是在手机上
@@ -31,9 +34,6 @@
 * 🗣 [列表编辑建议](https://ld246.com/article/1598878477055/comment/1598879662582#comments)
 
   > 其他位置可以使用其他快捷键，否则用户就永远无法输入 tab 了
-* 💬 [列表编辑建议](https://ld246.com/article/1598878477055/comment/1600602769386#comments)
-
-  > 这个还是单独的列表，再次点击列表就可以变成段落了。 [图片]
 
 
 <!--events end -->
