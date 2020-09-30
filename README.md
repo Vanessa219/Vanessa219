@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-29 08:12:10`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-09-30 08:12:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [vditor 编辑器保存内容为 md 格式后，怎么在前端页面显示](https://ld246.com/article/1601367933350/comment/1601394355051#comments)
+
+  > 前端有直接生成 HTML 的方法，请查 [链接]，后端可以使用 lute，但是还是需要依次调用 XXXRender 建议存原生 MD，这样后期解析 class 等修改就不需要全量去更新数据库了
+* 💬 [vditor 编辑器保存内容为 md 格式后，怎么在前端页面显示](https://ld246.com/article/1601367933350/comment/1601373927198#comments)
+
+  > 参考 [链接] 中的页面渲染
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1601273503171#comments)
 
   > 可以具体说一下么？
@@ -28,12 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1600610560016#comments)
 
   > 初始化时，你调用了什么方法？
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1600586489564#comments)
-
-  > Markdown 渲染可以参考 [链接] 中的页面渲染示例
-* 💬 [列表编辑建议](https://ld246.com/article/1598878477055/comment/1600603042902#comments)
-
-  > 目前已经无法重新该问题，麻烦升级到最新版再试一试
 
 
 <!--events end -->
