@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-10-30 08:08:52`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-10-31 08:08:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [vditor 是否可以动态显示和隐藏大纲 outline](https://ld246.com/article/1603625074828/comment/1604032644460#comments)
+
+  > 要写了 # 1 才会出现
 * 🗣 [vditor 编辑器保存内容为 md 格式后，怎么在前端页面显示](https://ld246.com/article/1601367933350/comment/1603944564137#comments)
 
   > 参考 [链接] 中的页面渲染
@@ -31,9 +34,6 @@
 * 🗣 [Vditor ECharts 渲染，只出来一个框框](https://ld246.com/article/1603375115899/comment/1603375218437#comments)
 
   > 现在收到了，你那个高度为 0 了，初始化的时候不能隐藏，要有高度。
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1603269723244#comments)
-
-  > 需在飘号后下方一点点击才有作用 。点中票号也会算为代码块点击。
 
 
 <!--events end -->
