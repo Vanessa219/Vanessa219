@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-06 08:09:13`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-07 08:09:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor v3.5.5 发布，支持 flowchart](https://ld246.com/article/1602468808090/comment/1604648378108#comments)
+
+  > 模式是后台自己配置的。demo 可以到 vditor 官网查看
 * 🌙 [发布了清风明月](https://ld246.com/member/Vanessa/breezemoons/1604383764950)
 
   > 昨天把双十一的东西买齐了，再也不用去纠结喂猫喂狗的潜规则了。
@@ -31,9 +34,6 @@
 * 🗣 [Vditor ECharts 渲染，只出来一个框框](https://ld246.com/article/1603375115899/comment/1603375218437#comments)
 
   > @naiba 就是渲染的时候 echarts 的位置不能隐藏
-* 🗣 [Vditor ECharts 渲染，只出来一个框框](https://ld246.com/article/1603375115899/comment/1603375218437#comments)
-
-  > @naiba 不太清楚你的代码，你参考 demo 试一下
 
 
 <!--events end -->
