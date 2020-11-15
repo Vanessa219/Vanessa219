@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-14 08:08:49`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-15 08:10:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [vditor 屏蔽 &lt;textarea&gt; 标签](https://ld246.com/article/1604722110595/comment/1605353235747#comments)
+
+  > 隐藏 textarea，用 js 取 textarea 的值然后 vditor.setValue()
 * 💬 [我的点痣经验总结](https://ld246.com/article/1604900793724/comment/1605242744488#comments)
 
   > 应该先来一篇，祛痣算命的。
@@ -31,9 +34,6 @@
 * 🗣 [vditor 上传的图片怎么直接显示成图片](https://ld246.com/article/1596703358584/comment/1604767946478#comments)
 
   > 你上传后的地址是？可能是没检测出来是图片
-* 🗣 [Vditor v3.5.5 发布，支持 flowchart](https://ld246.com/article/1602468808090/comment/1604648378108#comments)
-
-  > 模式是后台自己配置的。demo 可以到 vditor 官网查看
 
 
 <!--events end -->
