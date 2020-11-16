@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-15 08:10:01`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-16 08:09:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [vditor 屏蔽 &lt;textarea&gt; 标签](https://ld246.com/article/1604722110595/comment/1605353235747#comments)
+
+  > @pi-dal 分开弄吧。
+* 💬 [Vditor 粘贴后需滚动到粘贴内容的末尾，在版本 v3.6.2 中没有看到这个功能效果呢？](https://ld246.com/article/1605410523094/comment/1605419034827#comments)
+
+  > 我这里是可以的。你清缓存看看 [图片]
+* 🗣 [vditor 屏蔽 &lt;textarea&gt; 标签](https://ld246.com/article/1604722110595/comment/1605353235747#comments)
+
+  > @pi-dal 你到 [链接] 上面找一找
 * 🗣 [vditor 屏蔽 &lt;textarea&gt; 标签](https://ld246.com/article/1604722110595/comment/1605353235747#comments)
 
   > 隐藏 textarea，用 js 取 textarea 的值然后 vditor.setValue()
@@ -25,15 +34,6 @@
 * 🗣 [双十一你们都买了啥？](https://ld246.com/article/1604369642998/comment/1604936965754#comments)
 
   > 买来发现量太多了，以后还是去超市买点吧
-* 💬 [双十一你们都买了啥？](https://ld246.com/article/1604369642998/comment/1604850387177#comments)
-
-  > 蒸锅 大枣 虾米 奶粉 喷头挂座 白砂糖 酱油 脚垫 电池 公牛插座&amp;防水盒子&amp;插头 宝宝衣服鞋子 眼霜 ...
-* 🗣 [vditor 上传的图片怎么直接显示成图片](https://ld246.com/article/1596703358584/comment/1604810489155#comments)
-
-  > filename1 换成 xxx.png 试一下
-* 🗣 [vditor 上传的图片怎么直接显示成图片](https://ld246.com/article/1596703358584/comment/1604767946478#comments)
-
-  > 你上传后的地址是？可能是没检测出来是图片
 
 
 <!--events end -->
