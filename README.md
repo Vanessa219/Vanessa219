@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-24 08:10:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-11-25 08:11:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 📝 [Vditor v3.6.6 发布，为 wysiwyg 模式添加划词评论功能](https://ld246.com/article/1606179516161)
+
+  > 新功能截图 [图片] 简介 该版本主要特性如下： wysiwyg 支持划词评论 流程图、甘特图、时序图、图表、脑图、五线谱、Graphviz、Flowchart 优化 添加暗黑模式 居中 自适应 移除背景 支持列表项批量缩进和取消缩进 升级 3.5.5 迁移至 3.6.5 无需进行升级 文档更新 添加划词评论方法 ge ..
 * 💬 [测试 Solo 在本地 localhost 上进行推送](https://ld246.com/article/1578760934915/comment/1606125627843#comments)
 
   > const vditor = new Vditor() \frac{1}{ \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{ \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} { 1+\frac{e^{-6\pi}} {1+\ ..
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 粘贴后需滚动到粘贴内容的末尾，在版本 v3.6.2 中没有看到这个功能效果呢？](https://ld246.com/article/1605410523094/comment/1605624909268#comments)
 
   > @thinkido 还没有更新的，你可以下载源码后运行里面的 demo 看一下。
-* 🗣 [Vditor 粘贴后需滚动到粘贴内容的末尾，在版本 v3.6.2 中没有看到这个功能效果呢？](https://ld246.com/article/1605410523094/comment/1605624909268#comments)
-
-  > 后天你到 [链接] 上面试一下。我明天再发一个版本，会更新上去的。
 
 
 <!--events end -->
