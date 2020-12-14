@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-13 08:22:29`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-14 08:21:24`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [macOS 版本安装思源笔记出错 (错误代码 -36)](https://ld246.com/article/1607852784539/comment/1607871595380#comments)
+
+  > 是不是要用管理员进行安装？
+* 💬 [更新 3.7.1 大纲不会显示了](https://ld246.com/article/1607266549935/comment/1607829486941#comments)
+
+  > 参见 [链接] 预览模式的滚动条是隐藏了，可以滚动的 CDN 切换文档没有 Demo，直接配置就好了。是有哪里不太明白呢？ 最近忙着开发思源笔记，没有及时回复，非常抱歉。
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1607245445542#comments)
 
   > 社区里面做了一些过滤，可以在 [链接] 尝试
@@ -28,12 +34,6 @@
 * 🗣 [社区缺陷报告与功能建议](https://ld246.com/article/1438049659432/comment/1606110594867#comments)
 
   > 现在应该显示为 ld246.com，当到某个百分比的时候会自动进行清理的。
-* 🗣 [Vditor 粘贴后需滚动到粘贴内容的末尾，在版本 v3.6.2 中没有看到这个功能效果呢？](https://ld246.com/article/1605410523094/comment/1606015079558#comments)
-
-  > 还需要再等等，这周以内。
-* 🗣 [Vditor 粘贴后需滚动到粘贴内容的末尾，在版本 v3.6.2 中没有看到这个功能效果呢？](https://ld246.com/article/1605410523094/comment/1605837013591#comments)
-
-  > 多谢耐心反馈，将会在 3.6.4 中进行修复，可关注 [链接]
 
 
 <!--events end -->
