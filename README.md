@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-25 08:19:12`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-26 08:17:26`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [引用块无法拷贝 ref id](https://ld246.com/article/1608904296236/comment/1608915699809#comments)
+
+  > 感谢反馈 标记问题 0.5.44 解决 快捷键后期会统一再次规划： [链接]
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608894753653#comments)
+
+  > getValue; 2. method.min.js; 3. 不能
 * 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608795588836#comments)
 
   > 非常感谢，下个版本修复
@@ -28,12 +34,6 @@
 * 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608765617609#comments)
 
   > 这个是展现出来的，要看没展现出来的
-* 💬 [思源笔记列表排版 bug](https://ld246.com/article/1608550502739/comment/1608735023322#comments)
-
-  > 另外 1：可关注 [链接] 另外 2：下个版本修复
-* 💬 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608734796903#comments)
-
-  > 可以的话看一下这个地址。不会弄的话可以等下个版本再试试。 [图片]
 
 
 <!--events end -->
