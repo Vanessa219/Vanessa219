@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-26 15:10:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-27 08:18:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608980082471#comments)
+
+  > 这是哪里？
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608972017566#comments)
+
+  > 画图的日志信息，还没研究怎么关闭
 * 💬 [引用块无法拷贝 ref id](https://ld246.com/article/1608904296236/comment/1608915699809#comments)
 
   > 感谢反馈 标记问题 0.5.44 解决 快捷键后期会统一再次规划： [链接]
@@ -28,12 +34,6 @@
 * 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608776617264#comments)
 
   > 需要看不显示的那个的地址。就是点预览出不来的那个地址。
-* 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608776617264#comments)
-
-  > 这个图片也是显示的，没有问题。
-* 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608765617609#comments)
-
-  > 这个是展现出来的，要看没展现出来的
 
 
 <!--events end -->
