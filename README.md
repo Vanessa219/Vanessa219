@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-27 08:18:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2020-12-28 08:18:58`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1609049904469#comments)
+
+  > 目前可以使用快捷键
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608980082471#comments)
 
   > 这是哪里？
@@ -31,9 +34,6 @@
 * 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608776617264#comments)
 
   > @jianbo38 嗯，你点预览，然后查看一下地址和这个是不是不一样
-* 🗣 [思源笔记 - 嵌入内容块，预览及导出 PDF，内容块所引用的图片均无法展示。](https://ld246.com/article/1608650228744/comment/1608776617264#comments)
-
-  > 需要看不显示的那个的地址。就是点预览出不来的那个地址。
 
 
 <!--events end -->
