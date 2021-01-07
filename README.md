@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-06 08:25:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-07 08:28:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1609874189234#comments)
+
+  > sponsor 为自定义按钮的 name
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1609874189234#comments)
+
+  > window.vditor.vditor.toolbar.elements.sponsor.children[0].classList.add('vditor-menu--disabled')
 * 💬 [编辑模式下文本最大宽度的设置问题](https://ld246.com/article/1609402847203/comment/1609465528287#comments)
 
   > 左侧会显示图标，用于标识、菜单、拖拽，因此会留有一定的空隙 [图片]
@@ -28,12 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608980082471#comments)
 
   > 这是哪里？
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1608972017566#comments)
-
-  > 画图的日志信息，还没研究怎么关闭
-* 💬 [引用块无法拷贝 ref id](https://ld246.com/article/1608904296236/comment/1608915699809#comments)
-
-  > 感谢反馈 标记问题 0.5.44 解决 快捷键后期会统一再次规划： [链接]
 
 
 <!--events end -->
