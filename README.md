@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-15 08:41:26`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-16 08:43:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Mac 下思源笔记不会自动重绘窗口, 导致下面编写区很少.](https://ld246.com/article/1610722686301/comment/1610725486057#comments)
+
+  > 0.6.1 已修复
+* 💬 [关于 Vditor 的大纲有两个问题求解](https://ld246.com/article/1610708553635/comment/1610723118211#comments)
+
+  > 大纲已经有按钮了，参照 toolbar 配置即可 第一个参数不能使用渲染好的 vditor，具体可参见 [链接]
+* 🗣 [vditor 屏蔽 &lt;textarea&gt; 标签](https://ld246.com/article/1604722110595/comment/1605353235747#comments)
+
+  > @pi-dal 这个需要 @88250 来回答了
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610717246095#comments)
+
+  > [链接]
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610702048465#comments)
+
+  > 可能移动端没人需要大纲吧
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610702180510#comments)
+
+  > 有报错么？
+* 💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610685297562#comments)
+
+  > z-index 已经很高了，你这个应该是设置了 overflow: hidden [图片]
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610532287149#comments)
 
   > 这个页面需要依赖 webpack server 的，不知道你怎么可以打开的。你先看一下 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610445086745#comments)
-
-  > 你到 Demo 上试一下是否能重现
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610440182047#comments)
-
-  > 可以的，参见 options.toolbar
-* 🗣 [058 超级块的引用数量标志和段落标志重叠了](https://ld246.com/article/1610159024991/comment/1610352357476#comments)
-
-  > @abbj 可以用 box-shadow
-* 🗣 [058 超级块的引用数量标志和段落标志重叠了](https://ld246.com/article/1610159024991/comment/1610352357476#comments)
-
-  > @abbj 你把边框去了再试试
-* 🗣 [058 超级块的引用数量标志和段落标志重叠了](https://ld246.com/article/1610159024991/comment/1610352357476#comments)
-
-  > 重新设置一下背景色；2. 抱歉，目前还没想到好的解决方案
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610264233019#comments)
-
-  > 换行后光标会在文档中间
-* 💬 [058 超级块的引用数量标志和段落标志重叠了](https://ld246.com/article/1610159024991/comment/1610173448205#comments)
-
-  > 修复后需要重新设置一下背景色即可
 
 
 <!--events end -->
