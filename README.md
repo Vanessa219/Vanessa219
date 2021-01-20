@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-19 08:43:26`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-20 08:45:16`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610894404308#comments)
+
+  > setValue 后确实有点问题。下个版本修复
+* 🗣 [想在 Vditor 上实现根据用户输入同容做相应处理](https://ld246.com/article/1610851570820/comment/1610945109821#comments)
+
+  > 下个版本修复 [链接]
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1611042756026#comments)
+
+  > 获取值的话直接使用 getValue
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1611040380146#comments)
+
+  > 参见 [链接]
 * 💬 [登录在线工作空间后点同步，界面一直转圈，之后再登录也一样](https://ld246.com/article/1610884722430/comment/1610988044704#comments)
 
   > 点开开发者工具看一下有没有报错。或者 Chrome 升级到 87.0.4280.141 版本，再试试[图片]
@@ -22,18 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610770070949#comments)
 
   > 这个要怎么重现呢？
-* 💬 [想在 Vditor 上实现根据用户输入同容做相应处理](https://ld246.com/article/1610851570820/comment/1610854842231#comments)
-
-  > 目前只能这样使用 [链接] key: '杭', hint: (key) =&gt; { return [ { value: '杭州', html: ' 杭州', }, { value: '杭城', html: ' 杭城', }] },
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610772954157#comments)
-
-  > 下个版本修复 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610702048465#comments)
-
-  > 看了一下，是特意这么写的。大纲展现出来编辑器就没法看了，需要的话可以在外部单独加一个
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1610767005900#comments)
-
-  > 不可以哦，这个就不叫全屏了
 
 
 <!--events end -->
