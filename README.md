@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-01-31 08:14:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-01 08:15:37`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [vditor 编辑器保存内容为 md 格式后，怎么在前端页面显示](https://ld246.com/article/1601367933350/comment/1612103118807#comments)
+
+  > 参考一下 [链接]
 * 💬 [vditor 的 headings 能单独只设置某个标题么？比如只设置 h4?](https://ld246.com/article/1611284420891/comment/1611905580181#comments)
 
   > 没有这个功能，你可以用样式把不需要的隐藏了
@@ -31,9 +34,6 @@
 * 🗣 [思源笔记 0.6.7 文件重命名问题](https://ld246.com/article/1611572167622/comment/1611718731020#comments)
 
   > 右上角打开开发者工具，贴一下报错信息
-* 💬 [思源笔记 0.6.7 文件重命名问题](https://ld246.com/article/1611572167622/comment/1611574017294#comments)
-
-  > 收到，下个版本修复
 
 
 <!--events end -->
