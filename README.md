@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-03 08:13:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-04 08:12:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [vditor v3.7.5 传图问题](https://ld246.com/article/1612325108260/comment/1612341725916#comments)
+
+  > 状态码返回 200～299 且没有定义 success 回调
 * 🗣 [希望增加悬浮提示，降低学习成本](https://ld246.com/article/1612252412323/comment/1612262910780#comments)
 
   > 请更新到最新版本，目前已经可以使用 alt + 点击及把文件拖入任意目录
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1612161201577#comments)
 
   > 我这里没有报错，你的浏览器是？
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1612137577487#comments)
-
-  > [链接] 这里好像不会重现
 
 
 <!--events end -->
