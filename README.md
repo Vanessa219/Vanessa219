@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-17 08:11:18`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-18 08:11:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [建议增加删除当前行的快捷键](https://ld246.com/article/1613472971573/comment/1613473717461#comments)
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1613567883488#comments)
 
-  > 一直都有，可查看帮出文档中的快捷键： ⇧⌘X
-* 💬 [建议加入高亮快捷键](https://ld246.com/article/1613469949996/comment/1613473571351#comments)
+  > 点击全屏按钮或者 window.vditor.vditor.toolbar.elements.fullscreen.firstElementChild.dispatchEvent(new Event('click'))
+* 💬 [右侧出现的条状](https://ld246.com/article/1613554431444/comment/1613560812010#comments)
 
-  > 已经加过了，可查看帮出文档或工具栏中的 ⌘E
-* 🗣 [安卓端双链跳转问题](https://ld246.com/article/1613460208812/comment/1613463519870#comments)
+  > 感谢反馈，但是我这里重现不了，你重置窗口试一下。
+* 💬 [大纲支持跟随和全部展开折叠](https://ld246.com/article/1613544056142/comment/1613548477815#comments)
 
-  > 这个可能放不下
-* 💬 [安卓端双链跳转问题](https://ld246.com/article/1613460208812/comment/1613460913413#comments)
+  > 第一个已经有记录 [链接] 第二个无法重现，开启多个大纲也是可以同步滚动的
+* 💬 [是否可以支持复制到语雀](https://ld246.com/article/1613538932800/comment/1613543592668#comments)
 
-  > 感谢反馈，将在 1.0.0 中修复
-* 🗣 [9.8 版本 JS Error](https://ld246.com/article/1613448641726/comment/1613452488925#comments)
+  > 感谢提议，后期支持
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1613540787504#comments)
 
-  > 不是这个问题造成的， 0.9.9 会进行修复，感谢反馈
-* 💬 [windows 电脑安装思源笔记报错 a javascript error occurred in the main procesS？](https://ld246.com/article/1613454898900/comment/1613460610895#comments)
+  > 文档中有写的哦，亲。 md2html
+* 💬 [安卓端同步导致当日日记文件出错](https://ld246.com/article/1613471322401/comment/1613538140843#comments)
 
-  > 感谢反馈，将在 0.9.9 修复
-* 🗣 [打开文档过多。](https://ld246.com/article/1613394405336/comment/1613438265352#comments)
+  > 好像重现不了，如果不同步直接点击是没问题的么？ 还有这几个配置你是怎么设置的？ [图片]
+* 💬 [思源笔记点击全屏切换后工具栏错位](https://ld246.com/article/1613526468955/comment/1613536780703#comments)
 
-  > 按照 @Tokubara 的方法试一下，不行的给麻烦给一下重现步骤。需要打开很多标签浏览可以使用设置-&gt; 文件树 -&gt; 在当前页签中打开
-* 💗💬 [打开文档过多。](https://ld246.com/article/1613394405336/comment/1613439502097#comments)
+  > 感谢反馈，1.0.0 修复
+* 🗣 [思源新建文档出现内核连接中断问题](https://ld246.com/article/1613528156566/comment/1613534387985#comments)
 
-  > 我是 0.9.7, 没有遇到这个问题, 也是 mac, 我怀疑你的内核没有得到更新(我遇到过这种情况). 你试试这条命令: kill -9 $(lsof -i:6806 -t) 然后重新安装一次.
+  > 你的操作系统是？
 
 
 <!--events end -->
