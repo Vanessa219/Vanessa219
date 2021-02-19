@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-18 08:11:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-19 08:10:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1613567883488#comments)
+* 💬 [窗口调节大小后](https://ld246.com/article/1613632313775/comment/1613642052577#comments)
 
-  > 点击全屏按钮或者 window.vditor.vditor.toolbar.elements.fullscreen.firstElementChild.dispatchEvent(new Event('click'))
-* 💬 [右侧出现的条状](https://ld246.com/article/1613554431444/comment/1613560812010#comments)
+  > 切换前后大小不一样，位置也会进行对应的自适应
+* 🗣 [mermaid 的渲染问题](https://ld246.com/article/1613629621196/comment/1613638686737#comments)
 
-  > 感谢反馈，但是我这里重现不了，你重置窗口试一下。
-* 💬 [大纲支持跟随和全部展开折叠](https://ld246.com/article/1613544056142/comment/1613548477815#comments)
+  > 看了是居中的。坐等楼主回复吧
+* 🗣 [使用建议](https://ld246.com/article/1613614766371/comment/1613634208678#comments)
 
-  > 第一个已经有记录 [链接] 第二个无法重现，开启多个大纲也是可以同步滚动的
-* 💬 [是否可以支持复制到语雀](https://ld246.com/article/1613538932800/comment/1613543592668#comments)
+  > 本地拖拽会生成对应的本地链接
+* 🗣 [bug: 行内如果有 #标签#，就无法用上下箭头让光标换行](https://ld246.com/article/1613461200070/comment/1613624488994#comments)
 
-  > 感谢提议，后期支持
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1613540787504#comments)
+  > 找了 windows 的，还是重现不了哇，要不等等看有没有其他人可以重现的
+* 💬 [关于任务列表的两个意见](https://ld246.com/article/1613627164261/comment/1613631474334#comments)
 
-  > 文档中有写的哦，亲。 md2html
-* 💬 [安卓端同步导致当日日记文件出错](https://ld246.com/article/1613471322401/comment/1613538140843#comments)
+  > 已记录，感谢提议。后期会进行修复和改进的。
+* 💬 [mermaid 的渲染问题](https://ld246.com/article/1613629621196/comment/1613630504068#comments)
 
-  > 好像重现不了，如果不同步直接点击是没问题的么？ 还有这几个配置你是怎么设置的？ [图片]
-* 💬 [思源笔记点击全屏切换后工具栏错位](https://ld246.com/article/1613526468955/comment/1613536780703#comments)
+  > 眼拙，没看出来。还希望指点下
+* 💬 [使用建议](https://ld246.com/article/1613614766371/comment/1613628765704#comments)
 
-  > 感谢反馈，1.0.0 修复
-* 🗣 [思源新建文档出现内核连接中断问题](https://ld246.com/article/1613528156566/comment/1613534387985#comments)
+  > 可到设置 -&gt; 资源 中对 自动拉取远程图片到本地 进行设置
+* 🗣 [bug: 行内如果有 #标签#，就无法用上下箭头让光标换行](https://ld246.com/article/1613461200070/comment/1613624488994#comments)
 
-  > 你的操作系统是？
+  > 还是无法重现，等我找个 windows 看看
 
 
 <!--events end -->
