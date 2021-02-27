@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-26 08:11:02`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-27 08:11:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [两个块引用之间输入加号，加号会自动消失](https://ld246.com/article/1614260150900/comment/1614266090392#comments)
+* 💬 [1.07 新建日记的时候每次都要选择笔记本](https://ld246.com/article/1614353954471/comment/1614356510590#comments)
 
-  > 感谢，可以重现了，下个版本修复。
-* 💬 [关于思源笔记使用的反馈与建议](https://ld246.com/article/1614265338958/comment/1614265734381#comments)
+  > 只开一个笔记的时候就不会了
+* 💗📝 [思源笔记主题 Spring](https://ld246.com/article/1614350438759)
 
-  > 可以点击文件树旁边的刷新按钮 已经有很多人提过了，后期会添加的，还是感谢一下，证明这个功能很重要 可以使用各种快捷键，帮助文档中有，可以看一下
-* 👍💬 [关于搜索结果条数的疑问](https://ld246.com/article/1614233555323/comment/1614264789109#comments)
+  > 还蛮喜欢语雀那种淡雅配色的，仿照着做了一个思源笔记的亮色主题 Spring。 代码写的有些乱，暂时没时间梳理了，有适配问题后面再改进。 主题下载：https://github.com/langzhou/spring-theme-for-siyuan 另外 2 个主题：https://ld246.com/article/ ..
+* 💬 [思源笔记主题 Spring](https://ld246.com/article/1614350438759/comment/1614352960278#comments)
 
-  > 的确如 @abbj 所说的，随着笔记的增加，搜索匹配的结果也会增加，32 条是远远不够的，理应展示所有匹配的内容，如果涉及到性能的话，可以考虑分页加载或者通过 limit 关键词来指定条数。 搜索现在是我一个重度使用的功能，有时候习惯通过搜索某个关键词来查看不同文件之间的联系以此来获得新的灵感和启发，而不是单纯的用来检 ..
-* 💬 [列表项拖动问题](https://ld246.com/article/1614231947163/comment/1614264147095#comments)
+  > 可以上传到主题市场哇
+* 🗣 [安装 1.0.6 报错](https://ld246.com/article/1614324149555/comment/1614340075684#comments)
 
-  > 收到，1.0.6 修复
-* 💬 [列表代码块折叠问题](https://ld246.com/article/1614232994672/comment/1614263724414#comments)
+  > @chenxin0397 但是报错八成就是程序的问题啦。已经再打包了，明天可以试试更新，还有问题的话欢迎继续留言
+* 💬 [Bug：关系图的 tag 和节点之间没有连线](https://ld246.com/article/1614338700949/comment/1614345755475#comments)
 
-  > 收到 1.0.6 修复，感谢反馈
-* 💗💬 [思源笔记同步失败](https://ld246.com/article/1614231181207/comment/1614263156306#comments)
+  > 你可能发现了一个 bug
+* 💬 [修改 css 导致页签出现白条，不知道怎么去掉，求助！](https://ld246.com/article/1614333959776/comment/1614344343024#comments)
 
-  > ok，支持思源 👌
-* 💬 [代码块前后插入块的交互优化](https://ld246.com/article/1614237454699/comment/1614263250043#comments)
+  > .layout-tab-bar .item--focus .item__text::after 这个的 content 重置下
+* 🗣 [希望动态调整工具栏左边距](https://ld246.com/article/1614324873821/comment/1614335348565#comments)
 
-  > 收到。1.0.6 改进，感谢反馈
-* 🗣 [bug：在动态查询的结果中直接编辑，# 标签 的下拉选项会被动态查询的框体覆盖](https://ld246.com/article/1614217477878/comment/1614219199209#comments)
+  > 你怎么改的，这个宽度取的就是编辑器的
+* 🗣 [安装 1.0.6 报错](https://ld246.com/article/1614324149555/comment/1614340075684#comments)
 
-  > 收到，已记录到小本本中，后续会进行完善。感谢反馈
+  > 哈哈，你应该早点来反馈的。不过现在也不迟。下几个版本再试试。应该差不多了。
 
 
 <!--events end -->
