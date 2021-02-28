@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-27 08:11:20`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-02-28 08:11:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [1.07 新建日记的时候每次都要选择笔记本](https://ld246.com/article/1614353954471/comment/1614356510590#comments)
+* 💬 [无法同步](https://ld246.com/article/1614439891651/comment/1614441718877#comments)
 
-  > 只开一个笔记的时候就不会了
-* 💗📝 [思源笔记主题 Spring](https://ld246.com/article/1614350438759)
+  > 关闭帮助文档后再同步试一试
+* 🗣 [1.0.7 mac 下同步问题](https://ld246.com/article/1614434727198/comment/1614441370636#comments)
 
-  > 还蛮喜欢语雀那种淡雅配色的，仿照着做了一个思源笔记的亮色主题 Spring。 代码写的有些乱，暂时没时间梳理了，有适配问题后面再改进。 主题下载：https://github.com/langzhou/spring-theme-for-siyuan 另外 2 个主题：https://ld246.com/article/ ..
-* 💬 [思源笔记主题 Spring](https://ld246.com/article/1614350438759/comment/1614352960278#comments)
+  > 方便的话，麻烦把不能同步的 MAC 的日志发我一下。谢谢
+* 💬 [关于文档命名的小建议](https://ld246.com/article/1614440534389/comment/1614441549958#comments)
 
-  > 可以上传到主题市场哇
-* 🗣 [安装 1.0.6 报错](https://ld246.com/article/1614324149555/comment/1614340075684#comments)
+  > 可以使用设置中的文档名模版 在文章中选中标题后 alt+D
+* 💬 [1.0.7 字体变色的鬼畜现象](https://ld246.com/article/1614401675071/comment/1614441300996#comments)
 
-  > @chenxin0397 但是报错八成就是程序的问题啦。已经再打包了，明天可以试试更新，还有问题的话欢迎继续留言
-* 💬 [Bug：关系图的 tag 和节点之间没有连线](https://ld246.com/article/1614338700949/comment/1614345755475#comments)
+  > 感谢你的反馈。目前选中多个复杂结构还不支持批量着色，只能逐一选中进行着色。 这样需要突出显示多个块的话可以直接右键选中篮框中的内容更为方便。[图片]
+* 🗣 [1.0.7 字体变色的鬼畜现象](https://ld246.com/article/1614401675071/comment/1614434427016#comments)
 
-  > 你可能发现了一个 bug
-* 💬 [修改 css 导致页签出现白条，不知道怎么去掉，求助！](https://ld246.com/article/1614333959776/comment/1614344343024#comments)
+  > 如果必须对粗体中的一部分字进行着色，只能把这个粗体用 ** 分割成多个粗体后着色。 PDF 的问题可以详细说说
+* 🗣 [1.07 无法将标题块拖入到指定文件夹转换成文档](https://ld246.com/article/1614400694288/comment/1614431392642#comments)
 
-  > .layout-tab-bar .item--focus .item__text::after 这个的 content 重置下
-* 🗣 [希望动态调整工具栏左边距](https://ld246.com/article/1614324873821/comment/1614335348565#comments)
+  > @Zu 看图片中拖到根目录下是成功了，只是拖不到刑法学这个里面？ 又试了下，还是重现不了，之前有做过什么特殊的操作么？
+* 🗣 [1.0.7 无法正常同步](https://ld246.com/article/1614428780014/comment/1614436796135#comments)
 
-  > 你怎么改的，这个宽度取的就是编辑器的
-* 🗣 [安装 1.0.6 报错](https://ld246.com/article/1614324149555/comment/1614340075684#comments)
+  > 网页端点击同步后是不是一直提示在同步中？
+* 🗣 [1.0.7 无法正常同步](https://ld246.com/article/1614428780014/comment/1614433685482#comments)
 
-  > 哈哈，你应该早点来反馈的。不过现在也不迟。下几个版本再试试。应该差不多了。
+  > 网页端点击同步后是不是一直提示在同步中？
 
 
 <!--events end -->
