@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-03-03 08:11:02`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-03-04 08:11:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [v 1.0.9 超链接渲染问题](https://ld246.com/article/1614686935539/comment/1614693857875#comments)
+* 💬 [思源笔记 1.0.9 导出 md 和 PDF 错误](https://ld246.com/article/1614766521020/comment/1614787693128#comments)
 
-  > 你不用 md 看一下行不行，我复制你给的这段使用粘贴为纯文本是正常的
-* 💬 [关于搜索的几个问题](https://ld246.com/article/1614692754828/comment/1614694055867#comments)
+  > 导出 HTML 在浏览器上是否能正常显示？
+* 💬 [手机网页端几个小问题](https://ld246.com/article/1614785177918/comment/1614787122837#comments)
 
-  > 感谢反馈 可在搜索配置中进行过滤 例子这个 md 上传给我一下 用 AND
-* 🗣 [列表项块中包含标题块时，块标识菜单的位置](https://ld246.com/article/1614651092168/comment/1614666668244#comments)
+  > 按钮是点了以后的状态，不是当前状态 这个为了和整体保持一直 没有大纲，要有也是要等了 下个版本已修复
+* 🗣 [手机端 gitee 图床中的图片不显示](https://ld246.com/article/1614765289217/comment/1614775317650#comments)
 
-  > @zqhjl 高度 1.0.9 已经对齐了，你是要修改颜色还是图标的图形？
-* 🗣 [V1.0.8 版本打开官方帮助文档报错](https://ld246.com/article/1614564150531/comment/1614665828580#comments)
+  > 是不是 gitee 的限制？
+* 💬 [笔记中有图片时，修改文字，页面的渲染会“抽搐”](https://ld246.com/article/1614770075642/comment/1614786814424#comments)
 
-  > @jaychou135 啊啊啊啊。我再看看吧，多谢了
-* 💬 [v 1.0.9 超链接渲染问题](https://ld246.com/article/1614686935539/comment/1614692408295#comments)
+  > 使用本地图片也会这样么？
+* 💬 [手机端 gitee 图床中的图片不显示](https://ld246.com/article/1614765289217/comment/1614773256638#comments)
 
-  > 不支持 Edge，你是怎么复制粘贴的？
-* 🗣 [V1.0.8 版本打开官方帮助文档报错](https://ld246.com/article/1614564150531/comment/1614665828580#comments)
+  > 第三张图不是 gitee 的？
+* 💬 [顿号快捷键可否增加一个开关](https://ld246.com/article/1614085320000/comment/1614764793516#comments)
 
-  > @jaychou135 啊啊啊啊啊啊，在 html 上右键 edit as html 存个文本发我吧。谢谢
-* 💗🗣 [思源笔记是否能实现被动显示的块引用？](https://ld246.com/article/1614572735750/comment/1614663902015#comments)
+  > 下个版本就删
+* 🗣 [思源笔记连接群晖 NAS](https://ld246.com/article/1614755626679/comment/1614759303970#comments)
 
-  > @Vanessa 嗯，我觉得自动关联也不好。后续可以借助插件，提示本文档中可能包含的关键词链接，由用户决定是否加上
-* 🗣 [列表项块中包含标题块时，块标识菜单的位置](https://ld246.com/article/1614651092168/comment/1614666668244#comments)
+  > 新版据说好弄了
+* 🗣 [v 1.0.9 超链接渲染问题](https://ld246.com/article/1614686935539/comment/1614759338255#comments)
 
-  > @zqhjl 呃。没太明白，是修改不同类型的图表么？
+  > 这个问题下个版本修复，要么等等，要么顶顶。幸苦了
 
 
 <!--events end -->
