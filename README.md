@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-03-09 08:11:30`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-03-10 08:11:26`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [如何通过 CSS，修改标题高亮的停留时间](https://ld246.com/article/1615224643756/comment/1615251419476#comments)
+
+  > 停留时间无法修改，停留光标会在文档中，可以上下移动。颜色在外观中设置
+* 💗💬 [双链预览框，如何在 CSS 中修改背景颜色，或者添加边框](https://ld246.com/article/1615223718083/comment/1615251074885#comments)
+
+  > !引用的样式 .vditor-ir div[data-type='block-ref-embed'] .vditor-ir{ background-color: white;/*调整背景颜色*/ border: solid;/*设置边框为实线*/ border-color: yellow;/*调整边框颜色*/ bord ..
 * 🗣 [希望可以双击直接修改命名](https://ld246.com/article/1615210940014/comment/1615211377599#comments)
 
   > 应该是复制，不想要么？内容都是一样的，就都一样了呗。
@@ -28,12 +34,6 @@
 * 🗣 [代码类别选择菜单唤出时位置有问题](https://ld246.com/article/1615044409662/comment/1615203774950#comments)
 
   > 呃，还是重现不了哇
-* 💬 [思源笔记图片拖动问题](https://ld246.com/article/1615187413645/comment/1615198796570#comments)
-
-  > 感谢反馈，图片目前还不支持这样拖拽
-* 🗣 [查找替换、保留常用搜索](https://ld246.com/article/1615176539127/comment/1615186602892#comments)
-
-  > 好的，可以再增强一下。感谢建议
 
 
 <!--events end -->
