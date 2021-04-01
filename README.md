@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-03-31 08:27:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-01 08:33:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源 不支持 svg 图片格式？发现一个缩放 bug！](https://ld246.com/article/1617193171169/comment/1617202931068#comments)
+
+  > 不太清楚你那个图片我试了这个 https://b3logfile.com/siyuan/1602224134353/assets/loading-pure-20210331214449-2q2a5z8.svg 是可以的。你再试试，或者选中图片 ctrl+c 然后再 ctrl+v 社区不允许上传 svg，你把这个图片贴到 ..
+* 💬 [思源 不支持 svg 图片格式？发现一个缩放 bug！](https://ld246.com/article/1617193171169/comment/1617198442363#comments)
+
+  > 应该是可以的，看你的可能是地址不对。[图片] 1.1.61 已经修复
+* 🗣 [思源笔记 1.1.5 在 Ubuntu 18.04 下无法同步笔记本](https://ld246.com/article/1616577708002/comment/1617156289093#comments)
+
+  > @sqybi 抱歉，刚才看一下是 linux 打包的问题，稍晚时候可以下载 1.1.61 再试一下
+* 🗣 [标签编辑的 Bug](https://ld246.com/article/1617095880402/comment/1617111098113#comments)
+
+  > @out-man 这个改过一点，今天下载 1.1.61 再看看。幸苦了
+* 💬 [思源 1.1.6 无法启动](https://ld246.com/article/1617178432596/comment/1617178558224#comments)
+
+  > 麻烦发一下日志
 * 💬 [bug：日记的模板和存放路径归零](https://ld246.com/article/1617114717848/comment/1617117920656#comments)
 
   > 开同步没？自动同步开没？
@@ -19,21 +34,6 @@
 * 💬 [Vditor 编辑器怎么默认最大化?](https://ld246.com/article/1617112181802/comment/1617114259601#comments)
 
   > this.vditor.vditor.toolbar.elements.fullscreen.firstElementChild.dispatchEvent(evt);
-* 💬 [v1.1.6 导出建议](https://ld246.com/article/1617026456731/comment/1617114147836#comments)
-
-  > 感谢建议 html 导出和图片注释、大小问题下个版本完善 公式大小和字体大小相关，直接调整字体就应该可以了 pdf 目录还没研究过，但已经记录，抽空会完成的。
-* 🗣 [思源笔记 1.1.5 在 Ubuntu 18.04 下无法同步笔记本](https://ld246.com/article/1616577708002/comment/1617083144816#comments)
-
-  > 不用覆盖，直接删除再试试？
-* 💬 [标签编辑的 Bug](https://ld246.com/article/1617095880402/comment/1617111098113#comments)
-
-  > 感谢反馈，目前无法重现 #1# 光标在 1 的时候是可以删除前面的 # #11# #22# 1 后面删除会变为 #1# #22#
-* 💬 [希望支持查找替换空格](https://ld246.com/article/1617028890415/comment/1617109929714#comments)
-
-  > 感谢建议，后续改进
-* 💬 [Vditor 为什么不支持添加网络图片](https://ld246.com/article/1617035835336/comment/1617061846964#comments)
-
-  > 直接复制粘贴即可
 
 
 <!--events end -->
