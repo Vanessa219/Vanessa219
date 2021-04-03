@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-02 08:44:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-03 08:32:23`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [代码块类型提示有时不消失](https://ld246.com/article/1617267768569/comment/1617270841027#comments)
+* 💬 [列表拖拽的小问题](https://ld246.com/article/1617375869829/comment/1617379785069#comments)
 
-  > 感谢建议，下个版本改进
-* 🗣 [v 1.1.6 由于开启 git 导致安卓端启动慢](https://ld246.com/article/1617254172507/comment/1617263981700#comments)
+  > 抱歉，我这里是可以的。你的图片列表是不是已经被分割了？ [图片]
+* 💬 [功能建议：一键转换 {{.text}} 为真实内容](https://ld246.com/article/1617377615459/comment/1617379253485#comments)
 
-  > @Achuan-2 下个版本会移除 git ，重写历史
-* 💬 [新建文件的问题](https://ld246.com/article/1617265463749/comment/1617267392265#comments)
+  > 感谢建议，后续完善
+* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617377217446#comments)
 
-  > 没有关闭应该是已经报错了，重置一下窗口布局，然后再试试。
-* 🗣 [v1.0.8 待办列表及其他意见反馈](https://ld246.com/article/1614568291936/comment/1617252717055#comments)
+  > @EndlessErrors 感谢，我们再看看怎么解决
+* 💬 [带有标题的图片 上间距问题](https://ld246.com/article/1617366147316/comment/1617378751901#comments)
 
-  > 抱歉，居然一个都没改，这条下个版本可以改
-* 💬 [v 1.1.6 由于开启 git 导致安卓端启动慢](https://ld246.com/article/1617254172507/comment/1617263981700#comments)
+  > 感谢反馈，下个版本改进
+* 👍💬 [思源笔记如何查询当前页面有加粗文本的块](https://ld246.com/article/1617375341851/comment/1617376091949#comments)
 
-  > 看要要把 git 移除了。或者定时清理一下 git？
-* 🗣 [思源 不支持 svg 图片格式？发现一个缩放 bug！](https://ld246.com/article/1617193171169/comment/1617208047934#comments)
+  > 好像这样可以了 !{{SELECT * FROM blocks WHERE path like '%{{.title}}%' AND markdown LIKE '%**%**%'}}
+* 🗣 [询问一下思源笔记双链的一些操作。](https://ld246.com/article/1617354444675/comment/1617361076644#comments)
 
-  > 已经记录，稍后查看。
-* 💬 [思源 不支持 svg 图片格式？发现一个缩放 bug！](https://ld246.com/article/1617193171169/comment/1617202931068#comments)
+  > @zhangy 可以先写个 sql 模版查询一下，等后面用挂件来做。
+* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617360564772#comments)
 
-  > 不太清楚你那个图片我试了这个 https://b3logfile.com/siyuan/1602224134353/assets/loading-pure-20210331214449-2q2a5z8.svg 是可以的。你再试试，或者选中图片 ctrl+c 然后再 ctrl+v 社区不允许上传 svg，你把这个图片贴到 ..
-* 💬 [思源 不支持 svg 图片格式？发现一个缩放 bug！](https://ld246.com/article/1617193171169/comment/1617198442363#comments)
+  > @EndlessErrors 同步服务呢？
+* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617360564772#comments)
 
-  > 应该是可以的，看你的可能是地址不对。[图片] 1.1.61 已经修复
+  > @EndlessErrors 1.1.7 这个版本用的时候有没有开杀毒软件或同步服务之类的？
 
 
 <!--events end -->
