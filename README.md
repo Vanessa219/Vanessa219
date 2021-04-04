@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-03 08:32:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-04 08:34:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [列表拖拽的小问题](https://ld246.com/article/1617375869829/comment/1617379785069#comments)
+* 🗣 [导出 PDF 图片失效](https://ld246.com/article/1617455674710/comment/1617457094924#comments)
 
-  > 抱歉，我这里是可以的。你的图片列表是不是已经被分割了？ [图片]
-* 💬 [功能建议：一键转换 {{.text}} 为真实内容](https://ld246.com/article/1617377615459/comment/1617379253485#comments)
+  > 更新到 1.1.8
+* 🗣 [bug：日记的模板和存放路径归零](https://ld246.com/article/1617114717848/comment/1617454251839#comments)
 
-  > 感谢建议，后续完善
-* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617377217446#comments)
+  > 关闭 windows defender 或等今晚新版
+* 💬 [1.1.7 的块嵌入显示有问题](https://ld246.com/article/1617441905514/comment/1617450442967#comments)
 
-  > @EndlessErrors 感谢，我们再看看怎么解决
-* 💬 [带有标题的图片 上间距问题](https://ld246.com/article/1617366147316/comment/1617378751901#comments)
+  > 收到，下个版本修复
+* 🗣 [思源笔记能添加 icon 吗](https://ld246.com/article/1617424524858/comment/1617441263614#comments)
 
-  > 感谢反馈，下个版本改进
-* 👍💬 [思源笔记如何查询当前页面有加粗文本的块](https://ld246.com/article/1617375341851/comment/1617376091949#comments)
+  > 是的
+* 🗣 [代码块问题](https://ld246.com/article/1617436037138/comment/1617438835126#comments)
 
-  > 好像这样可以了 !{{SELECT * FROM blocks WHERE path like '%{{.title}}%' AND markdown LIKE '%**%**%'}}
-* 🗣 [询问一下思源笔记双链的一些操作。](https://ld246.com/article/1617354444675/comment/1617361076644#comments)
+  > 感谢，块的删除后期可能会像 notion 那样操作来避免不同操作所带来的各种问题。代码块语言的操作下个版本修复，谢谢
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1617436409365#comments)
 
-  > @zhangy 可以先写个 sql 模版查询一下，等后面用挂件来做。
-* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617360564772#comments)
+  > 目前没有
+* 💬 [代码块问题](https://ld246.com/article/1617436037138/comment/1617437725149#comments)
 
-  > @EndlessErrors 同步服务呢？
-* 🗣 [粘贴图片无法完成](https://ld246.com/article/1617285765182/comment/1617360564772#comments)
+  > 2 ctrl+shift+a/b ；3 删除代码块可以使用 ctrl+shift+x，删除语言的那个无法重现
+* 💗💬 [117 块引用弹窗中包含的块引用链接无法编辑](https://ld246.com/article/1617431770540/comment/1617435834169#comments)
 
-  > @EndlessErrors 1.1.7 这个版本用的时候有没有开杀毒软件或同步服务之类的？
+  > 还发现一个有点相似的问题，情景如下： ==这是强调文本==紧挨的一般文本 117 下，上面的例子中，光标无法定位到 紧 字左侧，不管是鼠标直接点击还是方向键左右移动；而且，鼠标点击 这是强调文本 内部，也不会展开显示==符号了。 经过尝试，以上描述不准确，问题描述修正如下： 117 对于引用弹窗中的特殊文本（==，** ..
 
 
 <!--events end -->
