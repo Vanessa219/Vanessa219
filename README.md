@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-08 08:36:13`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-09 08:31:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [iframe 块点击后不会显示代码](https://ld246.com/article/1617613493349/comment/1617723265696#comments)
+* 🗣 [v1.1.8 希望右击图片能在菜单添加一个注释按钮](https://ld246.com/article/1617550874077/comment/1617865027895#comments)
 
-  > @zqhjl 收到
-* 🗣 [1.1.82 列表剪切、粘贴、拖动问题](https://ld246.com/article/1617779259529/comment/1617783483411#comments)
+  > @Achuan-2 收到，已经录，后续排查
+* 💬 [建议当前页面搜索（ctrl+f）能够包含嵌入块的锚文本和内容，以及引用块的锚文本](https://ld246.com/article/1617925941173/comment/1617926462765#comments)
 
-  > 呃。我重现不了，这不科学呀
-* 🗣 [代码块类型输入区域如何获得焦点?](https://ld246.com/article/1617779852242/comment/1617783541429#comments)
+  > 感谢反馈，已经记录，后续完善
+* 💬 [内容块嵌入 编辑问题](https://ld246.com/article/1617861504090/comment/1617886659333#comments)
 
-  > --expand 的时候不要设置 opacity 为 0
-* 🗣 [iframe 块点击后不会显示代码](https://ld246.com/article/1617613493349/comment/1617723265696#comments)
+  > 版本是？
+* 💬 [思源笔记, 移动, 删除, 新增快捷键](https://ld246.com/article/1617844408562/comment/1617886159243#comments)
 
-  > @zqhjl 已记录，后期改进，
-* 👍🗣 [iframe 块点击后不会显示代码](https://ld246.com/article/1617613493349/comment/1617723265696#comments)
+  > 感谢建议，后续完善
+* 🗣 [v1.1.8 希望右击图片能在菜单添加一个注释按钮](https://ld246.com/article/1617550874077/comment/1617865027895#comments)
 
-  > @Vanessa 是的我就是这个意思，我之前的想法是把这个“查看源码”功能放在块标识上，不过如果有一个专门的按钮其实更好
-* 🗣 [表格粘贴内容出错](https://ld246.com/article/1617780025844/comment/1617782705862#comments)
+  > 重现不了呀，你的输入法是？
+* 🗣 [思源笔记搜索无法搜到文件夹名字](https://ld246.com/article/1617684453283/comment/1617867333016#comments)
 
-  > 好的，稍后换个电脑试试。感谢反馈
-* 🗣 [代码块类型输入区域如何获得焦点?](https://ld246.com/article/1617779852242/comment/1617782589505#comments)
+  > 为了满足不同人的需求，如果整合进来的话就分不开了
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1617863219484#comments)
 
-  > 重置 display
-* 🗣 [iframe 块点击后不会显示代码](https://ld246.com/article/1617613493349/comment/1617723265696#comments)
+  > @leesin 最新的
+* 💬 [自定义隐藏文件夹](https://ld246.com/article/1617873620145/comment/1617885814128#comments)
 
-  > @zqhjl 脑图拖拽后会触发点击事件，所以导致展开了。你的意思是在 iframe 和脑图的预览区域加一个查看源码，点击后才显示源码么？
+  > 不需要的统统丢到一个目录下放好？
 
 
 <!--events end -->
