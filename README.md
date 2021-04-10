@@ -6,7 +6,7 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-09 08:31:11`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-10 08:33:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
@@ -19,7 +19,7 @@
 * 💬 [内容块嵌入 编辑问题](https://ld246.com/article/1617861504090/comment/1617886659333#comments)
 
   > 版本是？
-* 💬 [思源笔记, 移动, 删除, 新增快捷键](https://ld246.com/article/1617844408562/comment/1617886159243#comments)
+* 💬 [建议: 思源笔记, 对于文档的移动, 删除等操作, 提供快捷键](https://ld246.com/article/1617844408562/comment/1617886159243#comments)
 
   > 感谢建议，后续完善
 * 🗣 [v1.1.8 希望右击图片能在菜单添加一个注释按钮](https://ld246.com/article/1617550874077/comment/1617865027895#comments)
