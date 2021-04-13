@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-12 08:35:03`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-04-13 08:35:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [关于使用 webdav 同步图片的问题](https://ld246.com/article/1614270007990/comment/1618196010523#comments)
+
+  > webdav 就是联网的，这个没有办法，不行的话你可以使用我们的同步功能。
+* 💗💬 [建议支持一下快捷键粘贴附件](https://ld246.com/article/1616410073251/comment/1618163631079#comments)
+
+  > 对，举个例子：桌面上有一个 mp4 文件，选中它后按 C-c 复制，然后打开一条笔记，在光标所在位置处按 C-v 粘贴，把这个 mp4 文件粘贴为笔记的附件。不支持快捷键的话，添加附件很麻烦。
+* 🗣 [建议支持一下快捷键粘贴附件](https://ld246.com/article/1616410073251/comment/1618163631079#comments)
+
+  > 收到，做成文件树上的去了。这个要等编辑器改造完才能弄了
 * 🗣 [建议支持一下快捷键粘贴附件](https://ld246.com/article/1616410073251/comment/1616418603403#comments)
 
   > @deerain 我可能理解成在文件树上复制了，是在操作系统的文件夹中复制么？
@@ -25,15 +34,6 @@
 * 🗣 [v1.1.8 希望右击图片能在菜单添加一个注释按钮](https://ld246.com/article/1617550874077/comment/1617865027895#comments)
 
   > @Achuan-2 收到，已经录，后续排查
-* 💬 [建议当前页面搜索（ctrl+f）能够包含嵌入块的锚文本和内容，以及引用块的锚文本](https://ld246.com/article/1617925941173/comment/1617926462765#comments)
-
-  > 感谢反馈，已经记录，后续完善
-* 💬 [内容块嵌入 编辑问题](https://ld246.com/article/1617861504090/comment/1617886659333#comments)
-
-  > 版本是？
-* 💬 [建议: 思源笔记, 对于文档的移动, 删除等操作, 提供快捷键](https://ld246.com/article/1617844408562/comment/1617886159243#comments)
-
-  > 感谢建议，后续完善
 
 
 <!--events end -->
