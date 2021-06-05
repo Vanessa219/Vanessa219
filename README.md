@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-04 09:07:01`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-05 08:44:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [主题能否支持 Less 或者 Sass](https://ld246.com/article/1622779288749/comment/1622792174456#comments)
+
+  > 可以自己搭建一个 less/sass 项目，实时编译到主题目录即可。
 * 💬 [1.2 beta1 关于在与数学公式同段内使用双向链接创建新文档所导致的渲染错误问题](https://ld246.com/article/1622728890749/comment/1622737755623#comments)
 
   > 感谢反馈，beta2 修复
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1622457382476#comments)
 
   > 抱歉，文档写错啦，请参见 [链接]
-* 🗣 [一个小问题，代码块里“回车”，界面闪动](https://ld246.com/article/1622529997035/comment/1622530392831#comments)
-
-  > 版本号是？
 
 
 <!--events end -->
