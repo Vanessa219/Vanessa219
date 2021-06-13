@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-11 08:21:24`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-13 08:21:53`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [代码块 markdown 支持中文符号](https://ld246.com/article/1623318683736/comment/1623335900422#comments)
+* 💗🗣 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623407185110#comments)
 
-  > 感谢反馈 beta5 改进。
-* 💬 [1.2 beta4 iframe 无法输入网址](https://ld246.com/article/1623326529866/comment/1623332587789#comments)
+  > @Vanessa 操作步骤一样的，没有重现，录屏是在另一台电脑重现的，后续如有重现再反馈。
+* 🗣 [1.2 beta5 剪切、粘贴引用块后，被剪切的块会留在原地](https://ld246.com/article/1623431271847/comment/1623503351249#comments)
 
-  > 谢谢反馈，enter 应该是已经生效了。beta5 已改进，还麻烦再看看
-* 🗣 [java 代码块高亮渲染受到上下文代码文本的影响](https://ld246.com/article/1623208026694/comment/1623306419613#comments)
+  > 是不同的问题，beta6 中已经修复
+* 💬 [两个优化建议](https://ld246.com/article/1623488057526/comment/1623508400901#comments)
 
-  > 找到问题了，下个版本修复，感谢反馈
-* 💬 [代码块可否增加 SystemVerilog 和 uvm 的语法支持](https://ld246.com/article/1623291984867/comment/1623315387734#comments)
+  > 第一个可以举例说一下么？没太看懂
+* 💬 [1.2 beta5 剪切、粘贴引用块后，被剪切的块会留在原地](https://ld246.com/article/1623431271847/comment/1623463806310#comments)
 
-  > 收到，下个版本添加
-* 💬 [1.2 Beta4 折叠后的对象无法通过鼠标拖动部分或完全选中，双击鼠标可以实现](https://ld246.com/article/1623297676831/comment/1623311467458#comments)
+  > 感谢反馈，beta6 中修复
+* 💬 [plantuml 服务常规性挂掉](https://ld246.com/article/1623430699399/comment/1623461374890#comments)
 
-  > 你是怎么选择的，我是可以的。 [图片]
-* 💬 [1.2 Beta4 行左侧操作按钮整合建议](https://ld246.com/article/1623297026244/comment/1623311170579#comments)
+  > 可以在社区搜一下，有人自建的。好像是配置 hosts
+* 🗣 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623407185110#comments)
 
-  > 每个图片代表着不同块，左边的是右边的父节点。 单击是展开菜单，添加一下快捷键来避免点击是否可行？
-* 🗣 [java 代码块高亮渲染受到上下文代码文本的影响](https://ld246.com/article/1623208026694/comment/1623292272989#comments)
+  > @ChaselJace 页签按照截图中的打开也不能重现么？
+* 💬 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623401773974#comments)
 
-  > 看了一下以前是可以的，这个应该是 hljs 的新特性，检查语法是否符合要求
-* 💬 [java 代码块高亮渲染受到上下文代码文本的影响](https://ld246.com/article/1623208026694/comment/1623287868998#comments)
+  > 第一个视频 beta5 已经修复 第二个视频无法重现，还麻烦打开开发者工具看一看有没有报错。谢谢
+* 💬 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623401689911#comments)
 
-  > 你试一下这个的 if 有没有问题，感觉可能是 java 语句不完整，识别度不够造成的。 /** * @author John Smith  */ package l2f.gameserver.model; public abstract strictfp class L2Char extends L2Object {  ..
+  > 后期会添加 beta5 已经修复过一些，如果还能重现的话麻烦再说一下具体使用情况。
 
 
 <!--events end -->
