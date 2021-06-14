@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-13 08:21:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-14 08:19:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗🗣 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623407185110#comments)
+* 🗣 [两个优化建议](https://ld246.com/article/1623488057526/comment/1623558315827#comments)
 
-  > @Vanessa 操作步骤一样的，没有重现，录屏是在另一台电脑重现的，后续如有重现再反馈。
-* 🗣 [1.2 beta5 剪切、粘贴引用块后，被剪切的块会留在原地](https://ld246.com/article/1623431271847/comment/1623503351249#comments)
+  > 第二个是 md 语法，会转换为标题，第一个是 a 前面的斜杠少了一个么？
+* 🗣 [plantuml 服务常规性挂掉](https://ld246.com/article/1623430699399/comment/1623583044001#comments)
 
-  > 是不同的问题，beta6 中已经修复
-* 💬 [两个优化建议](https://ld246.com/article/1623488057526/comment/1623508400901#comments)
+  > 呃，我也找不到了，大概就是在本地搭建一个服务器，然后把服务器的地址配置在 hosts 里面，如：127.0.0.1:8080 plantuml.com
+* 💬 [关闭文件后代码渲染失效](https://ld246.com/article/1623571454313/comment/1623583505842#comments)
 
-  > 第一个可以举例说一下么？没太看懂
-* 💬 [1.2 beta5 剪切、粘贴引用块后，被剪切的块会留在原地](https://ld246.com/article/1623431271847/comment/1623463806310#comments)
+  > 第一个代码块的语言是 '.' 造成的，beta 6 已经加强了判断。感谢反馈
+* 💬 [思源笔记问题整理](https://ld246.com/article/1623551823742/comment/1623579547964#comments)
 
-  > 感谢反馈，beta6 中修复
-* 💬 [plantuml 服务常规性挂掉](https://ld246.com/article/1623430699399/comment/1623461374890#comments)
+  > 感谢建议 beta 6 完善 beta 6 已调整，但建议分段使用。这样引用就可以到具体段落了。 请更新到最新版本再试
+* 💗💬 [上方标签栏的设计建议](https://ld246.com/article/1623557856063/comment/1623563462294#comments)
 
-  > 可以在社区搜一下，有人自建的。好像是配置 hosts
-* 🗣 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623407185110#comments)
+  > 设置 → 文档树 → 在当前页签中打开
+* 💬 [关于黏贴透明背景的.png 图片的问题](https://ld246.com/article/1623543786046/comment/1623578482536#comments)
 
-  > @ChaselJace 页签按照截图中的打开也不能重现么？
-* 💬 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623401773974#comments)
+  > 是不是图片的问题，我试了 [链接] 这个上面有镂空的图片是可以的。
+* 💬 [Windows x64 1.2 Beta5 版本的快捷键 Ctrl + A 有时无法完整选中页面内的所有内容](https://ld246.com/article/1623520036344/comment/1623578140500#comments)
 
-  > 第一个视频 beta5 已经修复 第二个视频无法重现，还麻烦打开开发者工具看一看有没有报错。谢谢
-* 💬 [beta5 搜索体验](https://ld246.com/article/1623398943498/comment/1623401689911#comments)
+  > 页面内容是动态加载的，全选只能选出动态加载的内容，无法选中未加载的内容
+* 💬 [列表拖拽逻辑优化](https://ld246.com/article/1623514750096/comment/1623578067884#comments)
 
-  > 后期会添加 beta5 已经修复过一些，如果还能重现的话麻烦再说一下具体使用情况。
+  > 鼠标在红框位置放下即可 [图片]
 
 
 <!--events end -->
