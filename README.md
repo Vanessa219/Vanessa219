@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-14 08:19:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-15 08:20:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [1.2.0-beta6 建议增加行距调整选项](https://ld246.com/article/1623634558985/comment/1623640776178#comments)
+
+  > 可以在对应主题的 custom.css 中进行修改 边距 .protyle-wysiwyg { padding: 34px 16px 16px 24px !important } .protyle-title { margin: 34px 16px 0 24px !important } 行高 .b3-typograp ..
 * 🗣 [两个优化建议](https://ld246.com/article/1623488057526/comment/1623558315827#comments)
 
   > 第二个是 md 语法，会转换为标题，第一个是 a 前面的斜杠少了一个么？
@@ -31,9 +34,6 @@
 * 💬 [Windows x64 1.2 Beta5 版本的快捷键 Ctrl + A 有时无法完整选中页面内的所有内容](https://ld246.com/article/1623520036344/comment/1623578140500#comments)
 
   > 页面内容是动态加载的，全选只能选出动态加载的内容，无法选中未加载的内容
-* 💬 [列表拖拽逻辑优化](https://ld246.com/article/1623514750096/comment/1623578067884#comments)
-
-  > 鼠标在红框位置放下即可 [图片]
 
 
 <!--events end -->
