@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-15 08:20:51`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-16 08:20:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [1.2.0-beta6 建议增加行距调整选项](https://ld246.com/article/1623634558985/comment/1623640776178#comments)
+* 🗣 [。1.2 beta6 版本，导出 pdf 和 html，数学公式出现问题](https://ld246.com/article/1623751978387/comment/1623764154011#comments)
 
-  > 可以在对应主题的 custom.css 中进行修改 边距 .protyle-wysiwyg { padding: 34px 16px 16px 24px !important } .protyle-title { margin: 34px 16px 0 24px !important } 行高 .b3-typograp ..
-* 🗣 [两个优化建议](https://ld246.com/article/1623488057526/comment/1623558315827#comments)
+  > 感谢，下个版本修复
+* 🗣 [有时无法查看脑图](https://ld246.com/article/1623667799536/comment/1623755898494#comments)
 
-  > 第二个是 md 语法，会转换为标题，第一个是 a 前面的斜杠少了一个么？
-* 🗣 [plantuml 服务常规性挂掉](https://ld246.com/article/1623430699399/comment/1623583044001#comments)
+  > 如果是 CuiHS 所说的问题，下个版本可以修复。滚动消失我这里无法重现。
+* 💬 [。1.2 beta6 版本，导出 pdf 和 html，数学公式出现问题](https://ld246.com/article/1623751978387/comment/1623761750315#comments)
 
-  > 呃，我也找不到了，大概就是在本地搭建一个服务器，然后把服务器的地址配置在 hosts 里面，如：127.0.0.1:8080 plantuml.com
-* 💬 [关闭文件后代码渲染失效](https://ld246.com/article/1623571454313/comment/1623583505842#comments)
+  > 可以的话，还麻烦发一下有导出问题的 .sy 文件。文件树上右键-打开-打开文件位置
+* 🗣 [请问代码块之外的块可以关闭换行吗](https://ld246.com/article/1623648042808/comment/1623730614703#comments)
 
-  > 第一个代码块的语言是 '.' 造成的，beta 6 已经加强了判断。感谢反馈
-* 💬 [思源笔记问题整理](https://ld246.com/article/1623551823742/comment/1623579547964#comments)
+  > 表格块是支持横向的。但是段落横向滚动的话用户可能不太好看，需要每个段落横向滚动查看
+* 🗣 [有时无法查看脑图](https://ld246.com/article/1623667799536/comment/1623727013875#comments)
 
-  > 感谢建议 beta 6 完善 beta 6 已调整，但建议分段使用。这样引用就可以到具体段落了。 请更新到最新版本再试
-* 💗💬 [上方标签栏的设计建议](https://ld246.com/article/1623557856063/comment/1623563462294#comments)
+  > 你说的这个可能是开了多个页签，有脑图的页签不是当前页签，重启应用后就会看不到。这个问题下个版本修复。
+* 💬 [代码块换行自定义](https://ld246.com/article/1623728538326/comment/1623744006075#comments)
 
-  > 设置 → 文档树 → 在当前页签中打开
-* 💬 [关于黏贴透明背景的.png 图片的问题](https://ld246.com/article/1623543786046/comment/1623578482536#comments)
+  > 感谢建议，开发进度可关注 [链接]
+* 💬 [1.2beta6 带编号的公式显示不正常](https://ld246.com/article/1623605555076/comment/1623724468960#comments)
 
-  > 是不是图片的问题，我试了 [链接] 这个上面有镂空的图片是可以的。
-* 💬 [Windows x64 1.2 Beta5 版本的快捷键 Ctrl + A 有时无法完整选中页面内的所有内容](https://ld246.com/article/1623520036344/comment/1623578140500#comments)
+  > 收到下个版本修复
+* 💬 [请问代码块之外的块可以关闭换行吗](https://ld246.com/article/1623648042808/comment/1623724280844#comments)
 
-  > 页面内容是动态加载的，全选只能选出动态加载的内容，无法选中未加载的内容
+  > 不可以哦，这样每一个段落都是很长的一条，就没有办法看了
 
 
 <!--events end -->
