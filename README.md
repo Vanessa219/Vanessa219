@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-18 08:19:50`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-19 08:20:49`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [代码下面添加文字出现异常](https://ld246.com/article/1623984945222/comment/1624008179806#comments)
+
+  > 感谢反馈，beta8 修复
 * 🗣 [有时无法查看脑图](https://ld246.com/article/1623667799536/comment/1623914808487#comments)
 
   > 已经找到问题，下个版本修复
@@ -31,9 +34,6 @@
 * 💬 [引用块面板全局滚动条失效](https://ld246.com/article/1623865124945/comment/1623897831994#comments)
 
   > 收到，下个版本改进
-* 💬 [表格所有内容选中加粗后排版错误](https://ld246.com/article/1623833340561/comment/1623895168023#comments)
-
-  > 收到，这个 table 选中先不支持了，仅支持单个 cell 选中修改。
 
 
 <!--events end -->
