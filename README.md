@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-28 08:21:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-06-29 08:20:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [引用块性能问题](https://ld246.com/article/1624729621545/comment/1624809808554#comments)
+* 💬 [关于思维导图冗余的建议](https://ld246.com/article/1613707674956/comment/1624892551832#comments)
 
-  > 反链中可以点击更多查看上下文，或者将光标移动到每一个块的前面，就会悬浮显示该引用及其上下文。
-* 💬 [首行是列表块时的光标移动问题](https://ld246.com/article/1624762622847/comment/1624808149667#comments)
+  > 脑图目前暂时移除，后面会重新规划。
+* 💬 [/ 菜单的更多功能](https://ld246.com/article/1613731983706/comment/1624892519856#comments)
 
-  > 感谢反馈，下个版本修复
-* 💬 [无法合并两个列表块](https://ld246.com/article/1624706944954/comment/1624767023710#comments)
+  > 已加入全功能的 / 菜单
+* 💬 [全局搜索建议默认搜索段落块和文档](https://ld246.com/article/1613796108425/comment/1624892483623#comments)
 
-  > 拖拽到同级需要选中多个列表项进行拖拽，拖拽列表是挪动列表而非列表项。 最终就是 [链接] 这个问题。
-* 💬 [1.2 beta10- 全屏功能只用于单个笔记问题](https://ld246.com/article/1624756387320/comment/1624760092978#comments)
+  > 已加入搜索配置
+* 💬 [希望鼠标移到正文时左边不显示块标识，鼠标移动到左边空白的时候再显示块标识](https://ld246.com/article/1614055393176/comment/1624891963435#comments)
 
-  > 感谢反馈，可关注 [链接]
-* 🗣 [20210625 TGIF](https://ld246.com/article/1624614593957/comment/1624693007931#comments)
+  > 居然是 5：5：5 ，最终移动动画效果。
+* 💬 [字体颜色快捷键](https://ld246.com/article/1615682652541/comment/1624891655533#comments)
 
-  > 我也没工作
-* 🗣 [数字后的。与.](https://ld246.com/article/1623803568122/comment/1624705345903#comments)
+  > alt+x 可以重复上一次的字体颜色设置
+* 💬 [细节：希望搜索结果中能把完全匹配的结果放最前面](https://ld246.com/article/1615656804878/comment/1624891530685#comments)
 
-  > 下个版本修复，感谢反馈
-* 💬 [用于图片缩放的条有点窄，希望能宽一点便于操作](https://ld246.com/article/1624630085680/comment/1624639080657#comments)
+  > 排序在 1.2.0-beta11 中已经优化过了。可以再细品一下。
+* 🗣 [细节：希望搜索结果中能把完全匹配的结果放最前面](https://ld246.com/article/1615656804878/comment/1615772260387#comments)
 
-  > 感谢反馈，下个版本改进
-* 💬 [思源笔记 1.2.0 beta9，代码块行号没对齐](https://ld246.com/article/1624628022192/comment/1624637157637#comments)
+  > 这个可以在设置中进行配置
+* 💬 [查找替换、保留常用搜索](https://ld246.com/article/1615176539127/comment/1624891400409#comments)
 
-  > 没有调整过字体的话，使用默认皮肤试试？
+  > 新版已添加该功能
 
 
 <!--events end -->
