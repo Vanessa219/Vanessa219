@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-02 08:19:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-03 08:19:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1625138170771#comments)
+* 🗣 [唯一被认可的永久脱毛技术：绝缘微针电解脱毛](https://ld246.com/article/1625228323622/comment/1625235407150#comments)
 
-  > 用回调 disabled
-* 💬 [[不算 bug 的 bug] beta10- 同时上传的多个文件在同一行](https://ld246.com/article/1625104585997/comment/1625109211447#comments)
+  > 看着都疼，这个深浅不好把握吧。十多年前永久脱毛告诉我要做 6 次，然后现在全长出来啦。看你说的，那个应该是激光脱毛。
+* 🗣 [1.2.0-beta11 右键菜单顶部显示白条](https://ld246.com/article/1625195486152/comment/1625233421794#comments)
 
-  > 或者用逗号分隔一下比较好？
-* 🗣 [功能建议：清除所有格式快捷键](https://ld246.com/article/1624933246576/comment/1624935155734#comments)
+  > 可以啦，下个版本加强了一下
+* 🗣 [1.2.0-beta11 右键菜单顶部显示白条](https://ld246.com/article/1625195486152/comment/1625233421794#comments)
 
-  > 点击一次清除样式，然后对需要清除样式的内容 alt+x 即可
-* 💬 [beta8 发现的一些问题 beta10 也有](https://ld246.com/article/1624960624702/comment/1625013498010#comments)
+  > 哦。好的，幸苦啦。我这就看。
+* 💬 [唯一被认可的永久脱毛技术：绝缘微针电解脱毛](https://ld246.com/article/1625228323622/comment/1625233603357#comments)
 
-  > 感谢反馈 只折叠部分的话可以使用标题前面的箭头，状态保存需排查原因后再做改善 没有选中时进行剪切，默认是剪切整个块 使用的输入法、操作系统、主题是？ 更新在正式发布后会提示
-* 💬 [如果一个文件里有且只有一个很长的列表块，按 ↑ 键会跳回文档顶部](https://ld246.com/article/1624967223639/comment/1625012070036#comments)
+  > 应该很痛，据说会堵塞毛囊？
+* 💬 [文件树拖拽 bug](https://ld246.com/article/1625214434218/comment/1625233495980#comments)
 
-  > [链接] 已修改，感谢反馈
-* 💬 [1.2 Beta 10 iFrame 嵌入特定网址大小调整有限制：](https://ld246.com/article/1624892930807/comment/1624980235261#comments)
+  > 感谢反馈，已经可以重现，下个版本修复
+* 💬 [1.2 beta11 列表样式不随着字体大小改变而变化](https://ld246.com/article/1625163327388/comment/1625230383119#comments)
 
-  > 该页面不支持自适应，需要刷新一下。下个版本支持 f5 刷新
-* 🗣 [v1.1.8 希望右击图片能在菜单添加一个注释按钮](https://ld246.com/article/1617550874077/comment/1617865027895#comments)
+  > 感谢反馈，下个版本完善
+* 💬 [1.2 beta11 行内代码不支持连字](https://ld246.com/article/1625159549758/comment/1625228615643#comments)
 
-  > @Achuan-2 转换的话可以等下个版本的 [链接] 特性
-* 🗣 [在中文语境中，输出顿号出现快捷命令有些烦人](https://ld246.com/article/1624630991767/comment/1624944355527#comments)
+  > 感谢反馈，下个版本支持
+* 🗣 [1.2.0-beta11 右键菜单顶部显示白条](https://ld246.com/article/1625195486152/comment/1625216627772#comments)
 
-  > 已经修改，可以等待下个版本发布后进行体验
+  > 你的主题名字发我下，我看看能弄不能兼容下。
 
 
 <!--events end -->
