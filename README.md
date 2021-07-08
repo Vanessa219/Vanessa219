@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-07 08:20:15`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-08 08:18:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [关于大纲高亮, 给点建议](https://ld246.com/article/1625575734143/comment/1625586707387#comments)
-
-  > 感谢反馈 后面会对大纲的状态进行保存 如果用户只是想看一下其他内容，然后再回到当前内容。如果大纲跟随的话就不太好点击大纲返回了。针对不确定场景的问题，先不修改了。
-* 🗣 [1.2 beta13 块的多选相关](https://ld246.com/article/1625504937194/comment/1625567093451#comments)
-
-  > 这个目前还没有
-* 🗣 [1.2 beta13 块的多选相关](https://ld246.com/article/1625504937194/comment/1625550015124#comments)
-
-  > 点击内容，不要点击图标
-* 🗣 [Beta12 和 Beta13 题头图 bug](https://ld246.com/article/1625487898969/comment/1625544832772#comments)
-
-  > 白边是滚动条的位置，是正常的
-* 💗💬 [bug：选中问题。](https://ld246.com/article/1625493106949/comment/1625540642578#comments)
-
-  > 这是前端用 selection 的 range 对象获取选区事件吧？选区脱离文本内容的情况我之前遇到过。加一个边界处理就好了，在 dom 上加上 mouseleave 事件，leave 的时候获取当前选区。
-* 💬 [1.2 Beta 13 新增代码块快捷菜单有问题](https://ld246.com/article/1625538632309/comment/1625540524532#comments)
-
-  > 感谢反馈。代码块配置会优先使用全局配置的默认，没有设置过的话就是关闭。这其实是一个特性。。。 下个版本我再改改吧。
-* 💬 [图片末尾回车 bug](https://ld246.com/article/1625496182768/comment/1625540229325#comments)
+* 💬 [1.2 Beta 14 二级列表为无序列表时编号逻辑有问题](https://ld246.com/article/1625665688422/comment/1625671200549#comments)
 
   > 感谢反馈，下个版本修复
-* 💬 [1.2 beta13 块的多选相关](https://ld246.com/article/1625504937194/comment/1625538998699#comments)
+* 💬 [Beta 14 跨页面拖动段落块，撤销操作后段落块消失](https://ld246.com/article/1625650523142/comment/1625669661636#comments)
 
-  > 依旧是 shift+click。拖拽还不支持的。
+  > 跨文档的撤销支持起来比较复杂，下个版本先阻止跨文档的撤销。然后只能让用户再继续重新拖拽了。 这个功能可能需要后面才支持了。抱歉。
+* 🗣 [1.2 Beta 14 代码阅读体验增强](https://ld246.com/article/1625634558006/comment/1625664532188#comments)
+
+  > 固定了高度就可以。但是有两层滚动也不太方便，感谢建议。
+* 💬 [如何准确而迅速地选中一段文字？我花了 25 秒选中了我想要的文字。](https://ld246.com/article/1625653272088/comment/1625666338249#comments)
+
+  > 感谢反馈，下个版本修复。
+* 💬 [【特性建议】双击固定页签](https://ld246.com/article/1625643717097/comment/1625662235409#comments)
+
+  > 感谢反馈，下个版本完善。
+* 💬 [1.2 Beta 14 代码阅读体验增强](https://ld246.com/article/1625634558006/comment/1625658999449#comments)
+
+  > 始终显示的话只能设置代码块的高度为屏幕的高度了。这样就会出现横向和纵向的滚动条一直显示。
+* 🗣 [Vditor 支持 juice 注入 css 支持不同模版样式的导出](https://ld246.com/article/1588487127446/comment/1625628783290#comments)
+
+  > 已支持一键复制到公众号。电子邮件的话用 Vditor 排版可能不太合适。
+* 🗣 [关于大纲高亮, 给点建议](https://ld246.com/article/1625575734143/comment/1625596989962#comments)
+
+  > 感谢建议，关于该功能我们会收集更多用户的建议后再进行改造。
 
 
 <!--events end -->
