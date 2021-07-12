@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-11 08:20:14`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-12 08:21:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [Shift+Tab Outdent 无效](https://ld246.com/article/1626013440532/comment/1626048664390#comments)
+
+  > 重置快捷键
+* 🗣 [光标乱跳现象，详见 GIF](https://ld246.com/article/1625997725876/comment/1626013860861#comments)
+
+  > 建议段落不要超过一个屏幕或者点击的时候不要点击两边。
+* 💬 [光标乱跳现象，详见 GIF](https://ld246.com/article/1625997725876/comment/1626005329750#comments)
+
+  > 第一个图是在 H 前换行后再删除，点击 H 前的空白位置，光标跳到（前的问题么？ 第二个是因为点击位置离 H 有一定距离，所以无法定位到 H 上，只能定位到开头了。
+* 💬 [图片下间距太长，不美观](https://ld246.com/article/1625987591183/comment/1626001877768#comments)
+
+  > 感谢反馈，下个版本修复
+* 🗣 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625874649416#comments)
+
+  > 不要缩放， ctrl+0 恢复一下
+* 💬 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625994648541#comments)
+
+  > 不要缩放， ctrl+0 恢复一下
 * 🗣 [查询块显示的格式有问题](https://ld246.com/article/1625924602414/comment/1625928151372#comments)
 
   > 把软换行删了就不会换行了
 * 💬 [查询块显示的格式有问题](https://ld246.com/article/1625924602414/comment/1625928038308#comments)
 
   > 指的是折行的问题么？是不是在“实”字后面进行了软换行？
-* 🗣 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625837775381#comments)
-
-  > @Kimyyyyyy 字体修改过么？操作系统是？
-* 💬 [思源笔记如何输入公式和表格？](https://ld246.com/article/1625876701155/comment/1625879764490#comments)
-
-  > 输入 “/” 就可以看到了
-* 🗣 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625837775381#comments)
-
-  > 使用默认皮肤试试，有修改过字号大小么？
-* 💬 [图片预览模式下的缩放功能](https://ld246.com/article/1625821162519/comment/1625842749313#comments)
-
-  > 高度要超过编辑器才需要上下移动
-* 🗣 [特性建议：自由布局](https://ld246.com/article/1625777722707/comment/1625826281253#comments)
-
-  > 全局的话目前还不能这样布局，需求的人多了，后面会考虑添加的。感谢建议。
-* 🗣 [思源笔记图片预览触发方式太敏感了](https://ld246.com/article/1625813053577/comment/1625816617676#comments)
-
-  > 可下载新版试用
 
 
 <!--events end -->
