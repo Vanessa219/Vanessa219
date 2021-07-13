@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-12 08:21:10`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-13 08:19:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [聚焦的快捷键可否修改](https://ld246.com/article/1626067538258/comment/1626085792145#comments)
+
+  > alt 会用在列表上的点击，也可能误触哦
+* 💬 [最新的 rc1，对引用链接 ctrl+click，不能在新标签页打开](https://ld246.com/article/1626071614516/comment/1626079426521#comments)
+
+  > 目前修改为点击直接打开，shift+click 在右边新开
+* 💬 [聚焦的快捷键可否修改](https://ld246.com/article/1626067538258/comment/1626079203372#comments)
+
+  > 感谢反馈，下个版本改进。如果选中，就不进行缩放了。
 * 💬 [Shift+Tab Outdent 无效](https://ld246.com/article/1626013440532/comment/1626048664390#comments)
 
   > 重置快捷键
@@ -25,15 +34,6 @@
 * 🗣 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625874649416#comments)
 
   > 不要缩放， ctrl+0 恢复一下
-* 💬 [行间公式有一部分无法显示](https://ld246.com/article/1625836920086/comment/1625994648541#comments)
-
-  > 不要缩放， ctrl+0 恢复一下
-* 🗣 [查询块显示的格式有问题](https://ld246.com/article/1625924602414/comment/1625928151372#comments)
-
-  > 把软换行删了就不会换行了
-* 💬 [查询块显示的格式有问题](https://ld246.com/article/1625924602414/comment/1625928038308#comments)
-
-  > 指的是折行的问题么？是不是在“实”字后面进行了软换行？
 
 
 <!--events end -->
