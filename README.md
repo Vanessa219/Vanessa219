@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-14 08:19:00`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-15 08:19:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [beta11 只要空行就提示“键入文字”](https://ld246.com/article/1625323442531/comment/1626278327485#comments)
+
+  > 高级用户可以自定义 css 让其不显示
+* 🗣 [[rc2-bug]- 文档滑倒最后会直接跳转到另一个文档](https://ld246.com/article/1626231636820/comment/1626241353118#comments)
+
+  > 还没有人反馈过这个问题，如果能重现的话还麻烦录屏。
+* 💬 [[rc2-bug]- 文档滑倒最后会直接跳转到另一个文档](https://ld246.com/article/1626231636820/comment/1626231850593#comments)
+
+  > 可以重现么？是当前文档关闭了？
 * 💬 [siyuan 1.2 rc1 编辑器打开 pdf，图标显示为图片](https://ld246.com/article/1626163638520/comment/1626173050024#comments)
 
   > 感谢反馈，下个版本修复。
@@ -25,15 +34,6 @@
 * 💬 [聚焦的快捷键可否修改](https://ld246.com/article/1626067538258/comment/1626079203372#comments)
 
   > 感谢反馈，下个版本改进。如果选中，就不进行缩放了。
-* 💬 [Shift+Tab Outdent 无效](https://ld246.com/article/1626013440532/comment/1626048664390#comments)
-
-  > 重置快捷键
-* 🗣 [光标乱跳现象，详见 GIF](https://ld246.com/article/1625997725876/comment/1626013860861#comments)
-
-  > 建议段落不要超过一个屏幕或者点击的时候不要点击两边。
-* 💬 [光标乱跳现象，详见 GIF](https://ld246.com/article/1625997725876/comment/1626005329750#comments)
-
-  > 第一个图是在 H 前换行后再删除，点击 H 前的空白位置，光标跳到（前的问题么？ 第二个是因为点击位置离 H 有一定距离，所以无法定位到 H 上，只能定位到开头了。
 
 
 <!--events end -->
