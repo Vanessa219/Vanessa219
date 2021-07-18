@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-17 08:19:37`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-18 08:21:15`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [1.2 小问题两个](https://ld246.com/article/1626422291989/comment/1626430453675#comments)
-
-  > 感谢建议 下个版本修复，但标题的撤销只能手动再次修改了，目前还无法支持 右键都是块级操作，所以需要选中块 图标重复的会比较多，如果有更好的方式我们会继续改进
-* 💬 [Mac 端图片显式问题，手动调整大小后重进又恢复原始大小](https://ld246.com/article/1626315840188/comment/1626357027258#comments)
-
-  > 无法重现，还麻烦看一下日志或打开开发者工具看看有没有报错。缩放比例后续提供，可关注 [链接]，感谢建议。
-* 🌙 [发布了清风明月](https://ld246.com/member/Vanessa/breezemoons/1626356182397)
-
-  > 1.2.0 发布，抽空对 2016-2019 的照片进行了归档。最近都专注于思源笔记的开发，希望再过半年能抽空出去走走。 [视频]
 * 🗣 [beta11 只要空行就提示“键入文字”](https://ld246.com/article/1625323442531/comment/1626278327485#comments)
 
-  > @larryggao 应该不会覆盖，你用的是哪一个主题？是写在 custom.css 中的么？
-* 💬 [大型复杂公式显示问题](https://ld246.com/article/1626266983540/comment/1626309054182#comments)
+  > @larryggao 关闭自定义，把 custom.css 删除，重新修改应该就可以了
+* 💬 [章鱼](https://ld246.com/article/1626502791295/comment/1626525290328#comments)
 
-  > ctrl+0 试试
-* 🗣 [beta11 只要空行就提示“键入文字”](https://ld246.com/article/1625323442531/comment/1626278327485#comments)
+  > 这用 pad 画的手感没实际拿着笔画爽吧？
+* 💬 [超级块的一些问题](https://ld246.com/article/1626504284772/comment/1626525233825#comments)
 
-  > 高级用户可以自定义 css 让其不显示
-* 🗣 [[rc2-bug]- 文档滑倒最后会直接跳转到另一个文档](https://ld246.com/article/1626231636820/comment/1626241353118#comments)
+  > 水平切换垂直可以点击超级块图标后选择取消超级块
+* 💬 [章鱼](https://ld246.com/article/1626502791295/comment/1626503429016#comments)
 
-  > 还没有人反馈过这个问题，如果能重现的话还麻烦录屏。
-* 💬 [[rc2-bug]- 文档滑倒最后会直接跳转到另一个文档](https://ld246.com/article/1626231636820/comment/1626231850593#comments)
+  > 少点蓝色
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1626486139254#comments)
 
-  > 可以重现么？是当前文档关闭了？
+  > @gztrljh 我这里是正常的，具体的问题是？
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1626498788032#comments)
+
+  > 收到，下个版本修复
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1626491059660#comments)
+
+  > @gztrljh 收到，可关注 [链接]
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1626491059660#comments)
+
+  > 滚轮都是纵向滚动的吧，
 
 
 <!--events end -->
