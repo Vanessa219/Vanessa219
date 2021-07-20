@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-19 08:20:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-20 08:19:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [【特性建议】块级菜单中增加子项](https://ld246.com/article/1626576402800/comment/1626687719327#comments)
+
+  > 感谢建议，可关注 [链接]，[链接] 3 选中内容可以使用 fn+shift+arrowLeft 和 fn+shift+arrowRight
 * 💬 [【特性建议】增加快捷键](https://ld246.com/article/1626578661598/comment/1626611525659#comments)
 
   > 感谢反馈，可关注 [链接]
@@ -31,9 +34,6 @@
 * 💬 [超级块的一些问题](https://ld246.com/article/1626504284772/comment/1626525233825#comments)
 
   > 水平切换垂直可以点击超级块图标后选择取消超级块
-* 💬 [章鱼](https://ld246.com/article/1626502791295/comment/1626503429016#comments)
-
-  > 少点蓝色
 
 
 <!--events end -->
