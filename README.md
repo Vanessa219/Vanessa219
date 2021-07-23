@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-22 08:20:15`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-07-23 08:21:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [1.2 把导出 PDF 设置为付费有点难受了。。](https://ld246.com/article/1624935609555/comment/1626885728443#comments)
+* 🗣 [思源有时候需要按两下鼠标才出现光标](https://ld246.com/article/1626866382272/comment/1626954517025#comments)
 
-  > 1.2.2 会把本地功能都免费，有没有很开心？
-* 🗣 [文档树定位的 bug](https://ld246.com/article/1626799904912/comment/1626876121058#comments)
+  > @lane 那用户想在后面输入粗体，按了 ctrl+b 就会把前面的变成粗体，不是很奇怪
+* 🗣 [思源有时候需要按两下鼠标才出现光标](https://ld246.com/article/1626866382272/comment/1626954517025#comments)
 
-  > 这个帮不上我呀，不行的话再看看日志。但是看图片中是可以跟随到文件树了的。
-* 🗣 [列表图标对不齐](https://ld246.com/article/1626853361163/comment/1626873020110#comments)
+  > 比如前面有很长一段文字，但是只想加粗前面 2 个字，这个就不好弄了吧
+* 🗣 [1.2.1 版本拖动文件至笔记作为附件存储功能突然出现错误](https://ld246.com/article/1626797622440/comment/1626924033773#comments)
 
-  > 没，如果喜欢居中的话可以自定义 css
-* 💬 [思源有时候需要按两下鼠标才出现光标](https://ld246.com/article/1626866382272/comment/1626870938308#comments)
+  > 有没有用同步网盘？
+* 💗📝 [英文环境查看价格 404](https://ld246.com/article/1626945434023)
 
-  > 感谢反馈 下个版本修改 下个版本修改 没看明白，ctrl+b 后就可以输入粗体了
-* 🗣 [思源有时候需要按两下鼠标才出现光标](https://ld246.com/article/1626866382272/comment/1626867838231#comments)
+  > 环境：macos 英文 操作步骤： [图片] [图片] [图片] [链接] @Vanessa
+* 💬 [英文环境查看价格 404](https://ld246.com/article/1626945434023/comment/1626946938172#comments)
 
-  > 可关注 [链接]
-* 💬 [行内公式相关 bug](https://ld246.com/article/1626855698079/comment/1626870532227#comments)
+  > 感谢反馈。下个版本修复
+* 🗣 [思源有时候需要按两下鼠标才出现光标](https://ld246.com/article/1626866382272/comment/1626923183284#comments)
 
-  > 我这里无法重现你说的问题。[链接] 上下是选择上一行和下一行，可以用左右键。
-* 💬 [列表图标对不齐](https://ld246.com/article/1626853361163/comment/1626870215469#comments)
+  > @lane 小标题的范围不太好确定，比如前面有很多文字，ctrl+b 的话，前面的都会变为粗体。
+* 💗💬 [行内公式相关 bug](https://ld246.com/article/1626855698079/comment/1626916572968#comments)
 
-  > 列表的图标是向上对齐，并不是居中对齐的。如果居中的话，段落内容太长就不合适了
-* 💬 [建议：引用块上悬停时，能通过双击来切换全屏](https://ld246.com/article/1626839300054/comment/1626870042006#comments)
+  > 我现在也不能重现了 😂
+* 🗣 [行内公式相关 bug](https://ld246.com/article/1626855698079/comment/1626916572968#comments)
 
-  > 悬浮窗里面可能会有多个编辑器，如果双击头部的话不知道要全屏哪一个哦。
+  > 呃。可能是其他操作引起的不正常，还麻烦再帮忙观察观察
 
 
 <!--events end -->
