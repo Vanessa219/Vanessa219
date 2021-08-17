@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-08-16 08:21:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-08-17 08:21:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [[优化需求]: 一行的开始处如果是引用, 在起始处如何才能方便编辑新内容?](https://ld246.com/article/1628984949647/comment/1628994865834#comments)
+* 💗🗣 [关于块转换功能的建议——加入块转换快捷键](https://ld246.com/article/1629111428121/comment/1629120337466#comments)
 
-  > @crowds21 感谢你的理解，希望你使用愉快。
-* 💗📝 [1.2.5 alpha5 有长批注的图片调整手柄不跟随图片大小调整位置](https://ld246.com/article/1629013139960)
+  > @Vanessa 嗯，确实，ctrl+L 和 ctrl+O 都被占用了，这两个在我的认知里应该是分别属于无序列表和有序列表的。这个不急，以后有空优化吧，毕竟功能已经在那了
+* 🗣 [关于块转换功能的建议——加入块转换快捷键](https://ld246.com/article/1629111428121/comment/1629120337466#comments)
 
-  > [图片] ![image.png](https://b3logfile.com/siyuan/1610205759005/assets/image-20210815154125-whdthe1.png '思源笔记云端功能截图，可以看到端到端加密、云端同步、云端备份、本地备份，多重保险，保护你的数据安全'){: styl ..
-* 💬 [1.2.5 alpha5 有长批注的图片调整手柄不跟随图片大小调整位置](https://ld246.com/article/1629013139960/comment/1629017097484#comments)
+  > @Achuan-2 哦哦，只是感觉快捷键目前有点多了，等后期整理整理再加一波吧。
+* 💬 [关于块转换功能的建议——加入块转换快捷键](https://ld246.com/article/1629111428121/comment/1629126444511#comments)
 
-  > 感谢反馈，下个版本修复
-* 🗣 [[优化需求]: 一行的开始处如果是引用, 在起始处如何才能方便编辑新内容?](https://ld246.com/article/1628984949647/comment/1629013520940#comments)
+  > 转换可以使用 ctrl+/ 和方向键进行 ps 可以使用导出功能。
+* 💬 [linkToImgFormat 按照文档提示返回固定格式，浏览器报错](https://ld246.com/article/1629110307544/comment/1629126318367#comments)
 
-  > 是的，修改的话系统无法识别人是想修改里面的还是外面的，所以就让人很头疼。
+  > 看一下大小写
+* 🗣 [关于块转换功能的建议——加入块转换快捷键](https://ld246.com/article/1629111428121/comment/1629120337466#comments)
+
+  > 单个块 ctrl+/ 后上下键就可以转换为待办了，多个块可以用 shift 进行辅助后进行相同的操作。
 * 🗣 [[优化需求]: 一行的开始处如果是引用, 在起始处如何才能方便编辑新内容?](https://ld246.com/article/1628984949647/comment/1628994684523#comments)
 
-  > @songtaoxy 不太明白和撤销有什么关系
-* 💬 [alpha5- 行内光标显示优化建议](https://ld246.com/article/1628997532963/comment/1629000182372#comments)
+  > @songtaoxy 试了一下没有办法重现，可以具体说一下重现步骤或提供操作视频么？
+* 🗣 [[建议] 标题块折叠后大小](https://ld246.com/article/1629106520896/comment/1629110777531#comments)
 
-  > 感谢反馈，这个是 contenteditable='true' 下浏览器的默认行为，没有很好的办法去修改。 以前尝试过加字符，改样式等很多 hack 方案都没能很好的解决，如果有更好的办法我们会进行采纳的。
-* 🗣 [alpha5- 行内光标显示优化建议](https://ld246.com/article/1628997532963/comment/1628998778710#comments)
+  > @delores0217 不习惯的话可以自定义 css
+* 💬 [思源笔记移动端不能删除文档吗？](https://ld246.com/article/1629124092046/comment/1629124784112#comments)
 
-  > 因为编辑模式改变了
-* 💬 [并排 / 上下 打开窗口时的优化](https://ld246.com/article/1628969618492/comment/1628995575446#comments)
-
-  > 感谢反馈，下个版本修复
+  > 移动端内测版修改的和 pc 端一样了。需要提前体验的话可以发 github 帐号到 [链接]
 
 
 <!--events end -->
