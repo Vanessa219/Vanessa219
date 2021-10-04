@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-03 08:25:03`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-04 08:26:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [1.38 版本软换行 BUG 反馈](https://ld246.com/article/1633168501167/comment/1633179901950#comments)
+* 🗣 [安卓手机 app 换行问题](https://ld246.com/article/1633142605946/comment/1633267882227#comments)
 
-  > 感谢反馈 可以使用 alt+shift 或鼠标选中后删除，也可以使用 ctrl+[ 进行取消 方便的话可以录个视频，从文字中无法重现
-* 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1633171360687#comments)
+  > 感谢反馈，已记录。目前小米手机是好的，没有 oppo，还需要去找个 oppo 看看。
+* 🗣 [1.38 版本软换行 BUG 反馈](https://ld246.com/article/1633168501167/comment/1633232283956#comments)
 
-  > 可关注 [链接]
-* 🗣 [【建议】大纲点击标题时，跳转定位显示](https://ld246.com/article/1632974868242/comment/1633165699977#comments)
+  > 目前 2 个以上的软换行是会变成多个段落块的，想问一下多个软换行在同一个块中是如何输入的？新版本内核中断还会重现么？
+* 🗣 [引用弹窗记忆用户调整尺寸](https://ld246.com/article/1633248791838/comment/1633276425146#comments)
 
-  > 抱歉，还是不太明白
-* 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1633158030044#comments)
+  > 可以看一下帮助文档
+* 💬 [引用弹窗记忆用户调整尺寸](https://ld246.com/article/1633248791838/comment/1633269287257#comments)
 
-  > 抱歉，你猜错了 😄
-* 💬 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1633168995661#comments)
+  > 这个可以自定义 css .block__popover { width: 40vw !important; }
+* 💬 [安卓手机 app 换行问题](https://ld246.com/article/1633142605946/comment/1633251004528#comments)
 
-  > 可以试一下帮助文档中的排版元素是否卡顿，如果不卡的话，把 .sy 文件发我一下。谢谢。
-* 🗣 [在列表中的代码块中回车会回到代码块开头](https://ld246.com/article/1632315570102/comment/1633102889895#comments)
+  > 机型是？
+* 🗣 [1.38 版本软换行 BUG 反馈](https://ld246.com/article/1633168501167/comment/1633181415248#comments)
 
-  > 非常感谢，下个版本继续修复
-* 💗💬 [在列表中的代码块中回车会回到代码块开头](https://ld246.com/article/1632315570102/comment/1633102889895#comments)
+  > 今天会发新版本，还有问题的话麻烦发一下这个文档的 .sy 文件给我，谢谢。
+* 🗣 [1.38 版本软换行 BUG 反馈](https://ld246.com/article/1633168501167/comment/1633181946995#comments)
 
-  > 您这种情况下是没问题，您可以看一下下面这个 gif，应该表达清楚了，第一次复制就是您录屏的情况，是没问题的，第二次复制时，我把滚动条往下拖了下，再复制，可以看到是有问题： [图片] 也就是说当代码块在页面中完全显示的时候都是没问题的，当代码块有一部分超出页面没有完全显示的时候就出现问题了
-* 🗣 [希望这些大纲、书签的位置可以同时显示，而不是现在的一次只显示一个](https://ld246.com/article/1632987431042/comment/1633102141476#comments)
+  > 可以使用 alt+shift 或鼠标选中后删除，也可以使用 ctrl+[ 进行取消
+* 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1633191336382#comments)
 
-  > 这些内容都比较多，因此目前没有考虑放三栏的情况，可以把书签放到右边，或者需要使用的时候用快捷键唤出。感谢你的建议。
+  > 帮助文档中有 Mermaid、Graphviz，现在的问题是 Mermaid、Graphviz 卡，还是输入其他内容的时候卡顿？
 
 
 <!--events end -->
