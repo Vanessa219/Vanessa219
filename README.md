@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-14 08:22:44`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-15 08:24:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源能启用 overlay scrollbar 吗？该怎么操作呢？](https://ld246.com/article/1634045226012/comment/1634097934349#comments)
+* 💬 [思源内置 pdf 阅读器](https://ld246.com/article/1634219219117/comment/1634220639376#comments)
 
-  > 查了一下说 chrome 已经移除这个功能了。如果需要添加第三方库来支持的话，只能交给第三方皮肤作者了。
-* 💬 [[bug] 用创建日志快捷键创建日志后没有自动定位过去](https://ld246.com/article/1634091133943/comment/1634097487807#comments)
+  > 已经有人反馈过了，可关注 [链接]
+* 💗📝 [思源笔记代码块里无法复制空格](https://ld246.com/article/1634203115395)
 
-  > 是新建的日记，点击页签标题无法进行定位么？
-* 💬 [使用体验细节建议](https://ld246.com/article/1634024771575/comment/1634049750623#comments)
+  > 如标题所述
+* 💬 [思源笔记代码块里无法复制空格](https://ld246.com/article/1634203115395/comment/1634213487321#comments)
 
-  > 可以自己改为中文 先复制好，然后打开文件粘贴即可 后期改进，目前以稳定为主
-* 💬 [思源能启用 overlay scrollbar 吗？该怎么操作呢？](https://ld246.com/article/1634045226012/comment/1634046253249#comments)
+  > 感谢反馈，下个版本修复
+* 💬 [PDF 浏览器能增加 CTRL+ 鼠标滚轮的缩放功能吗？](https://ld246.com/article/1634095300933/comment/1634198412845#comments)
 
-  > 这是什么东东
-* 💗📝 [代码块 Bug](https://ld246.com/article/1633937592296)
+  > 感谢反馈，已记录。后期添加。
+* 💬 [锚文本替换机制](https://ld246.com/article/1634102509172/comment/1634182460614#comments)
 
-  > 如图： [图片]
-* 🗣 [代码块 Bug](https://ld246.com/article/1633937592296/comment/1634016576641#comments)
+  > 感谢反馈，下个版本修复
+* 💗📝 [锚文本替换机制](https://ld246.com/article/1634102509172)
 
-  > 太诡异了，我先记录一下，后面修改。只能先把 2021 后面的 tab 换成空格顶顶了。
-* 🗣 [bug：使用快捷键打开日记的时候……](https://ld246.com/article/1633713340025/comment/1634026920884#comments)
+  > 如图，我只是在锚文本后面 backspace 一下，然后原先的空锚文本就被替换成原文了，个人认为，这种操作下我并没有修改锚文本，锚文本应该仍然是空的。 [图片]
+* 🗣 [【2021.10.09】v.1.41- 内核连接中断](https://ld246.com/article/1633661689487/comment/1634100485270#comments)
 
-  > 你使用的思源版本号是？
-* 🗣 [快捷键式样的优化](https://ld246.com/article/1633964460044/comment/1634003181771#comments)
+  > 我用你发我的文档还是无法重现，你可以重现么？
+* 🗣 [【v1.42】格式上的问题（2021.10.13 更新）](https://ld246.com/article/1633788940520/comment/1633930914801#comments)
 
-  > @Naro 双击这个和操作系统有关，MacOS 上双击是不会带有空格的
+  > @a3687250 好的，再观察观察，还有问题继续反馈。谢谢
 
 
 <!--events end -->
