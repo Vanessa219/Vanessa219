@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-30 08:22:52`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-10-31 08:24:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 🗣 [关于分屏 &amp;pinned&amp; 多重悬浮的一点建议](https://ld246.com/article/1635347537273/comment/1635424010804#comments)
+* 🗣 [关于段落缩进和移动段落的一些 bug 和建议.(之前版本也有)](https://ld246.com/article/1635523662650/comment/1635606707725#comments)
 
-  > 引用块还没有添加 alt+click 功能，文档树上该功能已经可以使用
-* 🗣 [关于分屏 &amp;pinned&amp; 多重悬浮的一点建议](https://ld246.com/article/1635347537273/comment/1635423831987#comments)
+  > u=&gt;21,L=&gt;211 哪里不对么？
+* 🗣 [Ctrl+A 两次复制全文有时候会缺失部分内容](https://ld246.com/article/1635589687152/comment/1635604929817#comments)
 
-  > 这个可以 ctrl+click 点击面包需。关闭的话会很奇怪
-* 💬 [教程小 bug 和一个建议（个人第 2 次反馈）](https://ld246.com/article/1635423134883/comment/1635436333077#comments)
+  > 感谢反馈，可关注 [链接]
+* 🗣 [关于段落缩进和移动段落的一些 bug 和建议.(之前版本也有)](https://ld246.com/article/1635523662650/comment/1635603039857#comments)
 
-  > 重置快捷键看一下 使用下方的其他地址进行下载
-* 💬 [1.4.6 版本安卓端，“粘贴”和“块复制”按键无效](https://ld246.com/article/1635355163645/comment/1635416939394#comments)
+  > 思源是把当前块和上一个块进行交换 2. 回车后删除
+* 💬 [关于段落缩进和移动段落的一些 bug 和建议.(之前版本也有)](https://ld246.com/article/1635523662650/comment/1635601402373#comments)
 
-  > 感谢反馈，这是一个 bug，后面修复。可关注 [链接]
-* 🗣 [反链面板操作建议](https://ld246.com/article/1634564665780/comment/1635411300383#comments)
+  > U 和 L 是同一个列表项，tab 是针对列表项的操作 后两个无法重现 [视频]
+* 💬 [Ctrl+A 两次复制全文有时候会缺失部分内容](https://ld246.com/article/1635589687152/comment/1635600707851#comments)
 
-  > 收到
-* 🗣 [反链面板操作建议](https://ld246.com/article/1634564665780/comment/1635350381693#comments)
+  > 目前复制只能复制已加载完的内容，需要全部复制的场景是？
+* 💬 [alt+5 日记不出现是怎么回事？](https://ld246.com/article/1635594367452/comment/1635600610850#comments)
 
-  > 谢谢建议，已回复
-* 💬 [关于分屏 &amp;pinned&amp; 多重悬浮的一点建议](https://ld246.com/article/1635347537273/comment/1635416345355#comments)
+  > 重置快捷键试试
+* 🗣 [关于分屏 &amp;pinned&amp; 多重悬浮的一点建议](https://ld246.com/article/1635347537273/comment/1635565337522#comments)
 
-  > 感谢建议 双击 pin/unpin 这个可以添加，但 将原来的 x 图标替换为还原为标签页功能. 这个没看懂。 alt+click 文件树上已有，后续会进行统一处理。
-* 💗📝 [[bug] 用右键的删除功能删除列表数据后, 后面的序列不会改变](https://ld246.com/article/1635229389230)
+  > 用关闭来打开页签会比较奇怪，后面可以用快捷键直接打开 tab
+* 🗣 [反链面板操作建议](https://ld246.com/article/1634564665780/comment/1635478631238#comments)
 
-  > 版本:1.4.6 [图片] 点击这个删除后,下面的编号 2,3,4 不会自动变成 1,2,3 但是如果是用退格键(backspace)对这一行进行选中删除,下面的序列就会变成 1,2,3 [图片] 这个时候按退格键,就可以
+  > 可关注 [链接]
 
 
 <!--events end -->
