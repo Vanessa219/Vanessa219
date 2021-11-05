@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-04 14:18:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-05 08:23:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [1.4.6 反链栏界面滚动条抽搐](https://ld246.com/article/1636009575088/comment/1636020984842#comments)
+
+  > 用默认主题试试。画面不全，我这里试了下，无法重现
+* 💬 [[问题反馈]PDF 长段划线标注无法完全显示](https://ld246.com/article/1635959476560/comment/1636020802926#comments)
+
+  > 麻烦更新到最新版再试，我这里是 ok 的 [图片]
 * 💬 [怎么将列表从在中间分开，以及能否直接编辑有序列表的序号？](https://ld246.com/article/1635903771708/comment/1635953037935#comments)
 
   > 可以参照一下进行输入，有序列表隔断后，输入 3. 就会从 3 开始 [图片]
@@ -28,12 +34,6 @@
 * 💬 [pdf 标注：希望添加快捷键，以及可设置是否默认填充背景](https://ld246.com/article/1635848437941/comment/1635868561509#comments)
 
   > 感谢反馈，可关注 [链接]
-* 💬 [在笔记本无内容的情况下输入 {{ 一闪而过无提示](https://ld246.com/article/1635815483894/comment/1635865884070#comments)
-
-  > 感谢反馈，下个版本改进
-* 💬 [聚焦后光标自动跳到块头](https://ld246.com/article/1635836560219/comment/1635843731667#comments)
-
-  > 聚焦后光标没有原来的位置，所以放在了头部
 
 
 <!--events end -->
