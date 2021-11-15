@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-14 08:25:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-15 08:24:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [1.5.1 版本笔记本中的 pdf 链接中的文字选择一次就新打开一个 pdf tab](https://ld246.com/article/1636811166960/comment/1636854038075#comments)
+
+  > 感谢反馈，下个版本修复
 * 💬 [【1.5.1】在有序列表下插入代码框崩溃](https://ld246.com/article/1636773714064/comment/1636776885128#comments)
 
   > 感谢反馈，下个版本修复
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1636711034255#comments)
 
   > 是的
-* 🗣 [编辑器里列表块光标位置的 bug](https://ld246.com/article/1636256333803/comment/1636257252640#comments)
-
-  > @deerain 可以复现的，麻烦新版本再试试。
 
 
 <!--events end -->
