@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-17 08:24:24`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-18 08:24:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [安卓端，选中一段文字后，会弹出两个菜单，相互交叉](https://ld246.com/article/1637046587732/comment/1637122590476#comments)
+
+  > 感谢反馈，下个版本修复
 * 💗💬 [希望提供类似 Obsidan://:xxxxx 的思源软件特有 url 格式](https://ld246.com/article/1615444151159/comment/1637073031786#comments)
 
   > 就是普通注释里面，不需要写成 md 格式。目前 IDEA 能够识别出 http 开头的 URL，自动变成可以点击的链接，非常方便。但思源链接不行。 今天我采用了一个曲线的办法实现相似的效果，但还是有些不方便。具体方法见此贴： [链接]
@@ -31,9 +34,6 @@
 * 💗📝 [公式下方灰色横线](https://ld246.com/article/1636961091768)
 
   > Latex 使用 align 时，下方会出现一个灰色横线： [图片] \begin{align} k=\sqrt{\frac{\omega^2}{c^2(1+\beta (i\omega\tau)^{\beta})}}=\frac{\omega}{c\sqrt{(1+\beta (i\omega\tau)^{\beta ..
-* 💬 [公式下方灰色横线](https://ld246.com/article/1636961091768/comment/1637037626733#comments)
-
-  > 感谢反馈，下个版本改进
 
 
 <!--events end -->
