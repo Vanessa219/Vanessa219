@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-18 08:24:51`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-11-19 08:24:17`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [安卓端，选中一段文字后，会弹出两个菜单，相互交叉](https://ld246.com/article/1637046587732/comment/1637122590476#comments)
+* 💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637252639709#comments)
 
-  > 感谢反馈，下个版本修复
-* 💗💬 [希望提供类似 Obsidan://:xxxxx 的思源软件特有 url 格式](https://ld246.com/article/1615444151159/comment/1637073031786#comments)
+  > GitHub 中的 index.js 如下配置是可以不显示双栏的。 new Vditor('vditor', { // _lutePath: `http://192.168.0.107:9090/lute.min.js?${new Date().getTime()}`, _lutePath: 'src/js/lute/ ..
+* 🗣 [思源协议 siyuan:// 打开笔记，窗口不显示的解决办法](https://ld246.com/article/1637214991383/comment/1637241699113#comments)
 
-  > 就是普通注释里面，不需要写成 md 格式。目前 IDEA 能够识别出 http 开头的 URL，自动变成可以点击的链接，非常方便。但思源链接不行。 今天我采用了一个曲线的办法实现相似的效果，但还是有些不方便。具体方法见此贴： [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637057849379#comments)
+  > 嗯嗯，已经有话，下个版本帮忙看看
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637227442627#comments)
 
-  > 编辑器内没有办法添加，这个是 md 的文本
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637057792250#comments)
+  > demo 上面也不行么？
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637226605458#comments)
 
-  > 在 value 后面加个空格试试
-* 🗣 [希望提供类似 Obsidan://:xxxxx 的思源软件特有 url 格式](https://ld246.com/article/1615444151159/comment/1637032958814#comments)
+  > 参见 demo
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637227418979#comments)
 
-  > IDEA 里面的 md 还是注释？
-* 🗣 [怎么将列表从在中间分开，以及能否直接编辑有序列表的序号？](https://ld246.com/article/1635903771708/comment/1636964368139#comments)
+  > 可以隐藏
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1637224886910#comments)
 
-  > 可能是操作问题，在 3 后面回车回车输入需要使用开头的列表数字即可
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1636944087028#comments)
+  > blur
+* 💗📝 [思源协议 siyuan:// 打开笔记，窗口不显示的解决办法](https://ld246.com/article/1637214991383)
 
-  > 结尾和开头的会被剔除
-* 💗📝 [公式下方灰色横线](https://ld246.com/article/1636961091768)
+  > 思源协议 siyuan://打开笔记，应用窗口不显示的解决办法如下，希望可以帮助大家。 如果有效果，在订阅时希望添加我的订阅码：nlSq2Wr 该方法是修改思源代码，具体修改方法如下： windows: 打开 思源安装目录/resources/app/electron/main.js Mac： 打开 /Applicat ..
+* 💬 [思源协议 siyuan:// 打开笔记，窗口不显示的解决办法](https://ld246.com/article/1637214991383/comment/1637230993159#comments)
 
-  > Latex 使用 align 时，下方会出现一个灰色横线： [图片] \begin{align} k=\sqrt{\frac{\omega^2}{c^2(1+\beta (i\omega\tau)^{\beta})}}=\frac{\omega}{c\sqrt{(1+\beta (i\omega\tau)^{\beta ..
+  > 我看到了，就要去改一下了。谢谢大佬指点。
 
 
 <!--events end -->
