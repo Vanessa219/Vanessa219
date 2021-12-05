@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-04 08:25:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-05 08:27:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [关系图的英文字体不是系统默认字体](https://ld246.com/article/1638615889489/comment/1638625780302#comments)
+
+  > 参照帮助文档自定义下面的 css --b3-font-family-graph
 * 🗣 [Emoji 相关 bug[1.5.4 正式版]](https://ld246.com/article/1638202866363/comment/1638447621792#comments)
 
   > github 已回复，一处发帖就可以了，我们都会关注的。谢谢
@@ -31,9 +34,6 @@
 * 🗣 [安卓端 1.5.3 版本的数学公式标号存在问题](https://ld246.com/article/1637834211706/comment/1638249044736#comments)
 
   > 感谢反馈，下个版本改进
-* 🗣 [光标跳转到分割线会回退](https://ld246.com/article/1637813071853/comment/1638275430604#comments)
-
-  > 分割线也是一个块，选中的时候会高亮，但由于其特殊性，光标会出现在附近的块上。
 
 
 <!--events end -->
