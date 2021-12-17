@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-16 08:24:59`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-17 08:27:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [复制引用块，选中文字后粘贴原文字被替换的问题](https://ld246.com/article/1639661624732/comment/1639674921736#comments)
+
+  > 感谢反馈，这个已经有人反馈过了，下个版本已经修复。
 * 💬 [文档树展开方式改进建议](https://ld246.com/article/1639531407063/comment/1639587019298#comments)
 
   > 感谢建议 alt+click 是在右侧打开文档 这样不太方便用户修改图标 目前可以在 pad 端禁用点击图标快速修改的功能
@@ -31,9 +34,6 @@
 * 💗📝 [思源笔记 iOS 端预览文件问题](https://ld246.com/article/1639395134179)
 
   > iOS 端预览 Word/PDF 无法翻页，而且无法回到上一级，只能把软件关闭再打开
-* 💬 [思源笔记 iOS 端预览文件问题](https://ld246.com/article/1639395134179/comment/1639492422673#comments)
-
-  > 可以重现了，下个版本改进。感谢各位的反馈
 
 
 <!--events end -->
