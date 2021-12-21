@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-21 08:28:45`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-21 14:43:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记有考虑 mermaid 版本升级吗？](https://ld246.com/article/1640056804406/comment/1640059173465#comments)
+
+  > 感谢建议，下个版本升级
 * 💬 [请问能否把移动端长按文段唤出的编辑栏改成统一在文段上方显示](https://ld246.com/article/1639828334667/comment/1639840784731#comments)
 
   > 默认是展现在上部，当位置不够的话就会展现在下部
@@ -31,9 +34,6 @@
 * 💬 [office 或者 WPS 文件在 ipad 端打不开吗？](https://ld246.com/article/1639664148520/comment/1639742913228#comments)
 
   > 下个版本改进，感谢反馈
-* 💬 [复制引用块，选中文字后粘贴原文字被替换的问题](https://ld246.com/article/1639661624732/comment/1639674921736#comments)
-
-  > 感谢反馈，这个已经有人反馈过了，下个版本已经修复。
 
 
 <!--events end -->
