@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-23 08:26:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-24 08:26:02`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [发现一枚小 bug，序号乱码。](https://ld246.com/article/1638633254552/comment/1638971309466#comments)
+
+  > @mob 可关注 [链接]
 * 💬 [思源笔记有考虑 mermaid 版本升级吗？](https://ld246.com/article/1640056804406/comment/1640059173465#comments)
 
   > 感谢建议，下个版本升级
@@ -31,9 +34,6 @@
 * 💗📝 [office 或者 WPS 文件在 ipad 端打不开吗？](https://ld246.com/article/1639664148520)
 
   > 其实是上一个 PDF 文件在 iphone 端差不多的问题，pdf 文件在 MAC 端和 ipad 上都能正常打开，但是在 iphone 上打开预览后会出现无法滑动翻页和没有退出按钮的问题。 现在我发现 office 或者 wps 文件在 mac 端可以通过调用 office 或者 wps 打开，在 iphone 上可 ..
-* 💬 [office 或者 WPS 文件在 ipad 端打不开吗？](https://ld246.com/article/1639664148520/comment/1639742913228#comments)
-
-  > 下个版本改进，感谢反馈
 
 
 <!--events end -->
