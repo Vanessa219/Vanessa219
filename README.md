@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-25 08:25:38`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-26 08:28:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v1.5.5-beta2 子列表状态异常问题](https://ld246.com/article/1640358207111/comment/1640405246379#comments)
+
+  > 最新版尝试了很多次，无法重现，如果能重现的话还麻烦详细说一下操作步骤。谢谢。
+* 💗💬 [思源笔记“搜索”的类型](https://ld246.com/article/1640398417016/comment/1640403069873#comments)
+
+  > 要先选择文本再按快捷键才能促发，并且跟 win10 的中文输入法切换简/繁快捷键冲突，需要改其中一个快捷键或者切换成英文输入法。
+* 💬 [思源笔记“搜索”的类型](https://ld246.com/article/1640398417016/comment/1640405107119#comments)
+
+  > 要选中内容，就是在所有打开的笔记中搜索选中的内容。
 * 🗣 [发现一枚小 bug，序号乱码。](https://ld246.com/article/1638633254552/comment/1638971309466#comments)
 
   > @mob 可关注 [链接]
@@ -25,15 +34,6 @@
 * 💗💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1639481985265#comments)
 
   > bug 反馈 版本 3.8.8 浏览器 谷歌 模式 wysiwyg 在编辑的情况下，文件上传时如果同时上传 3 个文件，前面两个都是音频文件比如 mp3 和 wav 后面跟随一张图片。那么上传成功时 前面两个音频文件生成的代码块会和图片重叠在一起 效果如下 [图片] 查看了一下 dom 结构发现这两个音频文件是父子结构 ..
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1639481985265#comments)
-
-  > 感谢反馈，下个版本改进
-* 💬 [任务列表块没有更新时间这个属性](https://ld246.com/article/1639762577742/comment/1639796688789#comments)
-
-  > 勾选以后 SQL 查询是会变的，界面的话需要 F5 一下。可以具体说说你在什么情况下的操作不会变 [图片]
-* 💗📝 [office 或者 WPS 文件在 ipad 端打不开吗？](https://ld246.com/article/1639664148520)
-
-  > 其实是上一个 PDF 文件在 iphone 端差不多的问题，pdf 文件在 MAC 端和 ipad 上都能正常打开，但是在 iphone 上打开预览后会出现无法滑动翻页和没有退出按钮的问题。 现在我发现 office 或者 wps 文件在 mac 端可以通过调用 office 或者 wps 打开，在 iphone 上可 ..
 
 
 <!--events end -->
