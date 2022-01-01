@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2021-12-31 08:27:47`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-01 08:27:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [反链面板的展开和折叠按钮是否可以合并？](https://ld246.com/article/1640336448345/comment/1640830003756#comments)
+
+  > @yuyuyuyu 这个有三个状态，关系图的只有两个状态。。。
+* 🗣 [我 mac 下载最新版更新后，所有操作界面上的图标看不见了](https://ld246.com/article/1640828104062/comment/1640835699196#comments)
+
+  > 下个版本修复，先顶顶
+* 💬 [页面标签右击出现的选项呢](https://ld246.com/article/1640912824960/comment/1640921129800#comments)
+
+  > 在的呀，你是怎么操作了不在的？ [图片]
 * 💬 [pdf 阅读器的划词，无法复制标注的首字母](https://ld246.com/article/1640876458434/comment/1640879720451#comments)
 
   > 感谢反馈，可关注 [链接]
@@ -25,15 +34,6 @@
 * 🗣 [反链面板的展开和折叠按钮是否可以合并？](https://ld246.com/article/1640336448345/comment/1640830003756#comments)
 
   > 显示更多是指每一条显示更多的文字，和展开、收拢、部分展开没有关系。
-* 🗣 [pdf 阅读器的划词问题](https://ld246.com/article/1640827418223/comment/1640829987804#comments)
-
-  > 官网的缩放也是一样的卡顿么？
-* 🗣 [PDF 预览时，鼠标滚轮缩放的灵敏度太高了](https://ld246.com/article/1640680467851/comment/1640826908346#comments)
-
-  > @yuyuyuyu 不太用鼠标，随便找了个。等我再换个试试。不行就等 1.6.0，对 chrome 升级了一下。
-* 🗣 [PDF 预览时，鼠标滚轮缩放的灵敏度太高了](https://ld246.com/article/1640680467851/comment/1640826908346#comments)
-
-  > 好奇怪，我换个鼠标再试试。我的在官网上也是坏的。 用的是 mac chrome 还是什么？
 
 
 <!--events end -->
