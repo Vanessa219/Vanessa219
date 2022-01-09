@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-08 08:27:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-09 08:28:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1641570309421#comments)
+
+  > 参看文档 cdn
 * 🗣 [功能需求：打开思源内嵌视频的指定的时间点](https://ld246.com/article/1616136997515/comment/1641484264220#comments)
 
   > 你嵌入的地址发我看看
@@ -31,9 +34,6 @@
 * 💗📝 [大纲项对不齐](https://ld246.com/article/1641218635981)
 
   > 如图，存在子项和不存在子项的大纲在显示方面对不齐，看着很别扭 [图片] 为啥我本地上传的图都显示不出来。。
-* 💬 [大纲项对不齐](https://ld246.com/article/1641218635981/comment/1641220296600#comments)
-
-  > 感谢反馈，下个版本改进。 图片不显示可以具体说一下么，我这里上传的图片是可以显示的。
 
 
 <!--events end -->
