@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-10 08:27:58`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-11 08:29:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [【特性提议】搜索页签能否增加搜索历史功能](https://ld246.com/article/1641795751186/comment/1641811238138#comments)
+
+  > 统一在 [链接] 中进行讨论
+* 💬 [ctrl+shift+f 的搜索是否也可以记录历史搜索关键词?](https://ld246.com/article/1638088366097/comment/1641811207007#comments)
+
+  > 这会有多个页签，每个页签的搜索历史都一样会不会有点奇怪？
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1641570309421#comments)
 
   > 参看文档 cdn
@@ -28,12 +34,6 @@
 * 💬 [思源笔记 pdf 预览时变成白色](https://ld246.com/article/1641198819303/comment/1641267275707#comments)
 
   > 感谢反馈，下个版本修复
-* 💬 [Bug 反馈，HTML 标签下 ir、wysiwyg、sv 三种编辑模式全部错乱](https://ld246.com/article/1640365098965/comment/1641260146998#comments)
-
-  > @88250 麻烦抽空看一下
-* 💗📝 [大纲项对不齐](https://ld246.com/article/1641218635981)
-
-  > 如图，存在子项和不存在子项的大纲在显示方面对不齐，看着很别扭 [图片] 为啥我本地上传的图都显示不出来。。
 
 
 <!--events end -->
