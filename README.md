@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-29 08:25:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-29 23:03:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [v1.7.9 公式换行后文字不换行](https://ld246.com/article/1643353137309/comment/1643418033588#comments)
+
+  > 好的，谢谢
 * 💬 [折叠展开的一个问题](https://ld246.com/article/1643377490368/comment/1643382380627#comments)
 
   > 看图片应该是鼠标移动到引用上，弹出了悬浮层
@@ -31,9 +34,6 @@
 * 💬 [建议：属性菜单弹出时能否调节位置不遮挡页面](https://ld246.com/article/1643267975223/comment/1643293457445#comments)
 
   > 感谢建议。第二种方案的话可以等属性视图功能，那样就应该比较方便修改和统一查看了。
-* 💬 [折叠和展开的一个问题](https://ld246.com/article/1643187526864/comment/1643208593092#comments)
-
-  > 感谢反馈，下个版本修复
 
 
 <!--events end -->
