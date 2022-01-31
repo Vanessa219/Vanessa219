@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-30 08:26:45`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-31 08:26:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [iPad 上系统自带中文输入法不兼容](https://ld246.com/article/1643473862873/comment/1643544865752#comments)
+
+  > 具体表现为无法输入还是什么？
 * 🗣 [v1.7.9 公式换行后文字不换行](https://ld246.com/article/1643353137309/comment/1643418033588#comments)
 
   > 好的，谢谢
@@ -31,9 +34,6 @@
 * 💬 [代码块最后一行复制 bug](https://ld246.com/article/1643282894693/comment/1643296766682#comments)
 
   > 感谢反馈，下个版本修复
-* 💬 [建议：属性菜单弹出时能否调节位置不遮挡页面](https://ld246.com/article/1643267975223/comment/1643293457445#comments)
-
-  > 感谢建议。第二种方案的话可以等属性视图功能，那样就应该比较方便修改和统一查看了。
 
 
 <!--events end -->
