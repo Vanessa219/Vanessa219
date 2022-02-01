@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-01-31 08:26:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-01 08:28:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [200 积分悬赏一个头像](https://ld246.com/article/1529376409516/comment/1643607010059#comments)
+
+  > 我在 QQ 的超级秀里面弄了一个
 * 💬 [iPad 上系统自带中文输入法不兼容](https://ld246.com/article/1643473862873/comment/1643544865752#comments)
 
   > 具体表现为无法输入还是什么？
@@ -31,9 +34,6 @@
 * 💗📝 [代码块最后一行复制 bug](https://ld246.com/article/1643282894693)
 
   > [图片] 如上图,在 macos 系统下, 代码块的最后一行的双击选中复制整行会复制失败, 其他行都正常, windows 没有尝试 [图片]
-* 💬 [代码块最后一行复制 bug](https://ld246.com/article/1643282894693/comment/1643296766682#comments)
-
-  > 感谢反馈，下个版本修复
 
 
 <!--events end -->
