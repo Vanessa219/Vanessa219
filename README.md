@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-02 08:28:18`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-03 08:26:20`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 ["/" 菜单支持加入文字颜色选项](https://ld246.com/article/1640346338749/comment/1643781183409#comments)
+
+  > 斜杆菜单是针对整个块进行操作的，其末尾有一些默认样式，颜色的配置可查看帮助文档。 文字的颜色需要先选中然后用 alt+x。
+* 💬 [win10 休眠恢复后思源笔记卡死](https://ld246.com/article/1643437285849/comment/1643780903962#comments)
+
+  > 这个时候在浏览器中打开 http://localhost:6806/stage/build/desktop/ 可以正常显示么？
+* 💗📝 [Shift 选中文本问题](https://ld246.com/article/1643616786567)
+
+  > 持续按住 Shift 单击鼠标选择文本，则选择无效。 [图片] 按住 Shift，单击后按住鼠标松开 Shift，则可以正常选中。 在客户端、vivaldi、firefox 测试都得到同样的结果。
+* 💬 [无法使用 shift + 鼠标点选 选字](https://ld246.com/article/1643769626373/comment/1643779817465#comments)
+
+  > [链接]
 * 💬 [Shift 选中文本问题](https://ld246.com/article/1643616786567/comment/1643705200108#comments)
 
   > 感谢反馈，下个版本修复
@@ -22,18 +34,6 @@
 * 💬 [iPad 上系统自带中文输入法不兼容](https://ld246.com/article/1643473862873/comment/1643544865752#comments)
 
   > 具体表现为无法输入还是什么？
-* 🗣 [v1.7.9 公式换行后文字不换行](https://ld246.com/article/1643353137309/comment/1643418033588#comments)
-
-  > 好的，谢谢
-* 💬 [折叠展开的一个问题](https://ld246.com/article/1643377490368/comment/1643382380627#comments)
-
-  > 看图片应该是鼠标移动到引用上，弹出了悬浮层
-* 💗📝 [思源笔记关闭当前标签页后能否返回前一个标签页](https://ld246.com/article/1643359808216)
-
-  > 关闭当前页当前标签后默认返回左侧临近的第一个标签，能否设置返回前一个跳转的标签页？ [图片]
-* 💬 [思源笔记关闭当前标签页后能否返回前一个标签页](https://ld246.com/article/1643359808216/comment/1643382098037#comments)
-
-  > 没有记录页签的打开顺便，需要等重新打开最近关闭的页签这个功能来记录顺序后才方便处理。可先关注 [链接] 但是浏览器好像没有这样处理，该功能还需要进一步调研。
 
 
 <!--events end -->
