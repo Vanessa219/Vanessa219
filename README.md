@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-06 08:32:25`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-07 08:26:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [大纲要点击两次才能跳转到正确的位置](https://ld246.com/article/1643951809312/comment/1643954296011#comments)
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126865867#comments)
 
-  > 这个是由于定位以后其他元素的动态渲染会把内容撑高导致。只要加载过一次，下一次定位就不会错开了。
-* 💗📝 [1.7.11 win 端，合并、取消超级块时，嵌入块会复制多一份结果](https://ld246.com/article/1643865776013)
+  > 8 月 23 号改的，忘记是谁了，也许是 @88250
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644136393109#comments)
 
-  > 如题 [视频]
-* 💬 [1.7.11 win 端，合并、取消超级块时，嵌入块会复制多一份结果](https://ld246.com/article/1643865776013/comment/1643899530509#comments)
+  > 只是改成了有 bug 的 ctrl+f，下个版本再加回来
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126865867#comments)
 
-  > 感谢反馈，下个版本修复
-* 💗📝 [Shift+ 光标跨行选中](https://ld246.com/article/1643814640210)
+  > 分屏好像是有用户提的 😄
+* 💗💬 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126789134#comments)
 
-  > [图片] Shift+Up/Down 期望跨行选中，而非从当前位置选中到块的开头、末尾处。
-* 🗣 [Shift+ 光标跨行选中](https://ld246.com/article/1643814640210/comment/1643863493134#comments)
+  > Ctrl + Shift + F 现在很麻烦的一点是，无法通过上下键切换选择的搜索内容
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126789134#comments)
 
-  > 感谢反馈，下个版本修复
-* 🗣 [iPad 上系统自带中文输入法不兼容](https://ld246.com/article/1643473862873/comment/1643813765839#comments)
+  > 感谢建议，下个版本改进
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126610738#comments)
 
-  > 感谢反馈，下个版本修复。如正式版没有上架，可使用 TestFlight 进行更新。
-* 💬 ["/" 菜单支持加入文字颜色选项](https://ld246.com/article/1640346338749/comment/1643781183409#comments)
+  > 下个版本加回来 😄
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644125649148#comments)
 
-  > 斜杆菜单是针对整个块进行操作的，其末尾有一些默认样式，颜色的配置可查看帮助文档。 文字的颜色需要先选中然后用 alt+x。
-* 💬 [win10 休眠恢复后思源笔记卡死](https://ld246.com/article/1643437285849/comment/1643780903962#comments)
+  > 感谢反馈，下个版本加回来改进，顺便加入选中内容后 ctrl+p 可以把所选内容带入搜索框中。
+* 💗💬 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644125649148#comments)
 
-  > 这个时候在浏览器中打开 http://localhost:6806/stage/build/desktop/ 可以正常显示么？
+  > 文档内搜索主要是为了文档内修改，而全库搜索主要是为了查看和跨文档修改。后者应该比前者更加常用。 对于查看，比如在文中看到某个关键词，想要在对应文档上简单查看一下，复制相应文本之后直接 Ctrl+P 搜索跳转是很快捷的，查看完之后直接关闭，全流程都可以纯键盘操作。 如果以查看为目的，文档内搜索是没有太大意义的，因为全库搜 ..
 
 
 <!--events end -->
