@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-07 08:26:19`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-08 08:26:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [最新版双击会跳行或者无法选中](https://ld246.com/article/1644137079886)
+
+  > 最新版双击会跳行或者无法选中 [视频]
+* 💬 [最新版双击会跳行或者无法选中](https://ld246.com/article/1644137079886/comment/1644246234631#comments)
+
+  > 感谢反馈，下个版本改进
+* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644136393109#comments)
+
+  > @Kitsuta 这个我看老板回复你了，等他的安排吧
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1644205838194#comments)
+
+  > 用样式控制一下试试
+* 🗣 [思源笔记以后可以支持导出到 word 吗？](https://ld246.com/article/1614093582312/comment/1644216317271#comments)
+
+  > 前几个版本刚移除了内置的 pandoc。
 * 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126865867#comments)
 
   > 8 月 23 号改的，忘记是谁了，也许是 @88250
@@ -19,21 +34,6 @@
 * 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126865867#comments)
 
   > 分屏好像是有用户提的 😄
-* 💗💬 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126789134#comments)
-
-  > Ctrl + Shift + F 现在很麻烦的一点是，无法通过上下键切换选择的搜索内容
-* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126789134#comments)
-
-  > 感谢建议，下个版本改进
-* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644126610738#comments)
-
-  > 下个版本加回来 😄
-* 🗣 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644125649148#comments)
-
-  > 感谢反馈，下个版本加回来改进，顺便加入选中内容后 ctrl+p 可以把所选内容带入搜索框中。
-* 💗💬 [1.8 搜索问题](https://ld246.com/article/1644036948400/comment/1644125649148#comments)
-
-  > 文档内搜索主要是为了文档内修改，而全库搜索主要是为了查看和跨文档修改。后者应该比前者更加常用。 对于查看，比如在文中看到某个关键词，想要在对应文档上简单查看一下，复制相应文本之后直接 Ctrl+P 搜索跳转是很快捷的，查看完之后直接关闭，全流程都可以纯键盘操作。 如果以查看为目的，文档内搜索是没有太大意义的，因为全库搜 ..
 
 
 <!--events end -->
