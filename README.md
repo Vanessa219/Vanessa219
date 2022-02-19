@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-19 08:32:17`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-20 01:44:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [剪藏插件失效、文档树点击漂移](https://ld246.com/article/1645148124924/comment/1645280052771#comments)
+
+  > 你使用的主题是？文档树漂移的问题使用默认主题试试。
+* 🗣 [大纲要点击两次才能跳转到正确的位置](https://ld246.com/article/1643951809312/comment/1645181765356#comments)
+
+  > 我尝试解决一下，由于电脑性能的渲染效率不一致，只能保证大部分情况可用。还麻烦下个版本再看看。
 * 💗💬 [公式显示的太小了！](https://ld246.com/article/1645087565931/comment/1645116612384#comments)
 
   > 使用如下 css 片段可以自定义公式大小 .protyle-wysiwyg .katex, .b3-typography .katex { font-size: 100%; }
@@ -28,12 +34,6 @@
 * 💬 [思源笔记日记快捷键无效](https://ld246.com/article/1645066001679/comment/1645105158292#comments)
 
   > 无法重现，麻烦打开开发者工具看一下有没有报错，或者录屏一下具体的操作过程。
-* 💬 [公式显示的太小了！](https://ld246.com/article/1645087565931/comment/1645104875298#comments)
-
-  > 有设置过字体大小或使用其他主题么？
-* 🗣 [思源笔记列表问题](https://ld246.com/article/1644829285485/comment/1644892084611#comments)
-
-  > 我也重现不出来，有没有使用过删除按钮之类的其他操作。
 
 
 <!--events end -->
