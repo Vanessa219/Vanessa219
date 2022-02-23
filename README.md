@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-22 08:30:16`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-23 08:35:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [【需求建议】思源笔记导出预览提供 Ctrl-A 全选快捷键](https://ld246.com/article/1645169380998/comment/1645516801547#comments)
+
+  > 可以点击复制到知乎/公众号/语雀试试，这样就可以把全部内容复制下来了。
+* 💬 [1.7.8 代码块后输入中文错位](https://ld246.com/article/1643209564517/comment/1645504255796#comments)
+
+  > 你看一下是这样操作的么？ [视频]
+* 🗣 [剪藏插件失效、文档树点击漂移](https://ld246.com/article/1645148124924/comment/1645408956732#comments)
+
+  > 这个可以主题的 GitHub 上面提 issue 哦。
+* 💬 [关于思源笔记 IOS 端内容显示的问题](https://ld246.com/article/1644048008152/comment/1645502012083#comments)
+
+  > 你这个内容是从其他地方拷贝的么？ 在“同”字前面按一下删除键后再看看
 * 💬 [IOS 端拷贝、粘贴优化](https://ld246.com/article/1644843307718/comment/1645369578952#comments)
 
   > 无法重现，请问你是点那里复制的？
@@ -22,18 +34,6 @@
 * 💬 [剪藏插件失效、文档树点击漂移](https://ld246.com/article/1645148124924/comment/1645280052771#comments)
 
   > 你使用的主题是？文档树漂移的问题使用默认主题试试。
-* 🗣 [大纲要点击两次才能跳转到正确的位置](https://ld246.com/article/1643951809312/comment/1645181765356#comments)
-
-  > 我尝试解决一下，由于电脑性能的渲染效率不一致，只能保证大部分情况可用。还麻烦下个版本再看看。
-* 💗💬 [公式显示的太小了！](https://ld246.com/article/1645087565931/comment/1645116612384#comments)
-
-  > 使用如下 css 片段可以自定义公式大小 .protyle-wysiwyg .katex, .b3-typography .katex { font-size: 100%; }
-* 💗📝 [【1.8.2】【标记 ctrl+E】BUG：可绕过跨段落的限制强行标记](https://ld246.com/article/1644980073385)
-
-  > 【1.8.2】【标记 ctrl+E】BUG：可绕过跨段落的限制强行标记 一、问题发现 由于从网页剪贴的文本带有【超链接】， 偶然发现【Ctrl+E】可以与【超链接】冲突，导致标记后自动删除【超链接】， 于是便采用【Ctrl+E】对文本快捷删除超链接， 剪贴到附图中的文字时发生了大块文本被标记，然后【Ctrl+E】取消标 ..
-* 💬 [【1.8.2】【标记 ctrl+E】BUG：可绕过跨段落的限制强行标记](https://ld246.com/article/1644980073385/comment/1645108435183#comments)
-
-  > 感谢反馈，下个版本会在多选时禁止按键操作 [链接]
 
 
 <!--events end -->
