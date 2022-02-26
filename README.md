@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-25 08:33:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-02-26 08:30:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [1.8.4 的单元格选中定位有问题](https://ld246.com/article/1645799728741)
+
+  > RT，当不滑动横向的滚动条时，选中的单元格正常，一旦滑动，就会定位漂移，如截图所示。 [图片]
+* 💬 [1.8.4 的单元格选中定位有问题](https://ld246.com/article/1645799728741/comment/1645801593739#comments)
+
+  > 感谢反馈，可关注 [链接]
 * 💬 [导出预览发布到知乎](https://ld246.com/article/1628833668431/comment/1645718218365#comments)
 
   > 现在好像没问题了，麻烦再试试。
@@ -28,12 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1645518214206#comments)
 
   > @Ethan 在 after 里面看看
-* 💬 [符号渲染又偏下了](https://ld246.com/article/1645555138904/comment/1645610924948#comments)
-
-  > 综合这几个公式，目前只能达到这样的效果 [图片]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1645581013674#comments)
-
-  > 是的，可关注 [链接]
 
 
 <!--events end -->
