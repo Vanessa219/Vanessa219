@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-14 08:35:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-15 08:33:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [标签在自动补充功能上的一点想法](https://ld246.com/article/1647225950558/comment/1647263186778#comments)
+
+  > 其实我蛮讨厌百度这个优化的。不知道为什么我的光标每次都在提示的第三四行哪里，他一弹出来就会把我不需要的内容填充上去，每次都要手动删除。
+* 💬 [siyuan 笔记 iPad 版端到端加密密码无法使用自定义 mi m](https://ld246.com/article/1647159190085/comment/1647226070495#comments)
+
+  > 感谢反馈，下个版本修复。[链接]
+* 💗💬 [划选部分文本有 Bug](https://ld246.com/article/1647175058222/comment/1647219497546#comments)
+
+  > 这是跨块不能选择文本，只能选择块。
+* 🗣 [1.8.7 折叠小三角的位置问题](https://ld246.com/article/1646494740847/comment/1647161853225#comments)
+
+  > 感谢反馈，可关注 [链接]
 * 🗣 [1.8.7 折叠小三角点击过快时，列表会闪烁重复弹一次](https://ld246.com/article/1646494616831/comment/1646992886327#comments)
 
   > 点一次应该不回呀
@@ -22,18 +34,6 @@
 * 🗣 [Solo 皮肤开发指南](https://ld246.com/article/1493814851007/comment/1646884130709#comments)
 
   > [链接]
-* 💬 [安卓手机 app 换行问题](https://ld246.com/article/1633142605946/comment/1646905682229#comments)
-
-  > 麻烦再看看可以换行了么？
-* 💬 [1.8.9 按键持续下移光标，无法触发块加载](https://ld246.com/article/1646807591401/comment/1646877551157#comments)
-
-  > 已经可以重现，下个版本修复 [链接]
-* 💬 [手机端 折叠小三角功能修改建议](https://ld246.com/article/1646832494887/comment/1646874165067#comments)
-
-  > 折叠展开涉及到状态的改变，编辑按钮点击一次后，后续都是可编辑状态。
-* 🗣 [关于题头图的相关反馈](https://ld246.com/article/1646786829951/comment/1646798758141#comments)
-
-  > 拖拽过后 y 轴固定的情况下图片缩放倍数不同，显示的位置就不同
 
 
 <!--events end -->
