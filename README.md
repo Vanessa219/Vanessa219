@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-21 08:33:36`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-22 08:35:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [iPad 端切换页签，大纲不会跟随切换](https://ld246.com/article/1647743400110)
+
+  > 打开文档 a，大纲 ok 再打开文档 b，大纲 ok [图片] 再回到文档 a，却还是显示的 b 的大纲
+* 💬 [iPad 端切换页签，大纲不会跟随切换](https://ld246.com/article/1647743400110/comment/1647874504834#comments)
+
+  > 感谢反馈，下个版本修复。 [链接]
+* 🗣 [iPad 端切换页签，大纲不会跟随切换](https://ld246.com/article/1647743400110/comment/1647761031547#comments)
+
+  > PC 端有这个问题么？
+* 🗣 [多列表格不能显示](https://ld246.com/article/1647668552808/comment/1647792723353#comments)
+
+  > 导出进行了处理，如果最新版还有问题的话，麻烦上传有问题的可公开的 .sy 文件
+* 🗣 [代码块注释换行后仍然是灰色](https://ld246.com/article/1647784450810/comment/1647860279617#comments)
+
+  > 我这里无法重现，还麻烦你更新到最新版试试
+* 🗣 [1.9.2 无法拖动图片](https://ld246.com/article/1647693590193/comment/1647757586641#comments)
+
+  > @delores0217 如果还可以重现的话，不要进行修改，直接发 .sy 文件给我。谢谢
 * 🗣 [1.9.2 无法拖动图片](https://ld246.com/article/1647693590193/comment/1647757586641#comments)
 
   > 还麻烦上传或邮件（845765@qq.com）说明发送一下 .sy 文件，这里依旧无法重现。谢谢
 * 💬 [功能建议：点击大纲的文档名可以定位至文档顶部](https://ld246.com/article/1647780942022/comment/1647792154592#comments)
 
   > 感谢反馈，可关注 [链接]
-* 💬 [代码块注释换行后仍然是灰色](https://ld246.com/article/1647784450810/comment/1647791574799#comments)
-
-  > 无法重现，你的代码块语言选的是什么？
-* 💗📝 [有序列表换行标题异常问题](https://ld246.com/article/1647571365234)
-
-  > 有序列表在换行创建多个列表项时，标题换行出现异常，详见视频[链接]
-* 💬 [有序列表换行标题异常问题](https://ld246.com/article/1647571365234/comment/1647700544622#comments)
-
-  > 感谢反馈，下个版本修复。[链接]
-* 💬 [思源分屏的建议](https://ld246.com/article/1647601435337/comment/1647699548863#comments)
-
-  > 感谢建议，以前是有的，后面说不好看就移除了。众口难调。你可以看看有没有主题自带或者自己自定义 css 一下。
-* 🗣 [图片排版功能优化](https://ld246.com/article/1647522074722/comment/1647523355939#comments)
-
-  > @LiulangZ html 无法弄成 word 那样，目前先这样吧。
-* 🗣 [1.9.2 无法拖动图片](https://ld246.com/article/1647693590193/comment/1647697720096#comments)
-
-  > 是不是到最大限度了，你往左拖拽试试
 
 
 <!--events end -->
