@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-23 08:39:19`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-24 08:36:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1648030052223#comments)
+
+  > 渲染需要使用静态方法 xxxRender
+* 🗣 [遇到一个问题：嵌入块右上角的 SQL 会遮挡备注图标](https://ld246.com/article/1647878318970/comment/1647916738576#comments)
+
+  > @Nafish 这个目前没有想到好的交互，如果有什么建议的话欢迎提供 😊
+* 🗣 [代码块注释换行后仍然是灰色](https://ld246.com/article/1647784450810/comment/1647948067062#comments)
+
+  > 可以重现了，下个版本修复 [链接]
+* 💗💬 [代码块注释换行后仍然是灰色](https://ld246.com/article/1647784450810/comment/1647948067062#comments)
+
+  > 不是，是在一行注释的中间回车，把光标后面的内容换到下一行（有这个需求是因为我用 OCR 识别复制代码的时候经常会把很多行合并到一起，我只能手动分开）
 * 🗣 [1.8.7 折叠小三角的位置问题](https://ld246.com/article/1646494740847/comment/1647878083112#comments)
 
   > @fangly 图标是从上到下，从左到右，如果竖排倒序的话会不会有点奇怪，要不再想想？
@@ -22,18 +34,6 @@
 * 💬 [悬浮窗没有动态加载](https://ld246.com/article/1647924914555/comment/1647940759708#comments)
 
   > 感谢反馈，后续支持 [链接]
-* 🗣 [1.8.7 折叠小三角的位置问题](https://ld246.com/article/1646494740847/comment/1647878083112#comments)
-
-  > 这个整体上移也会有点奇怪，最上面的图标就会和其他块对齐了，这个还要再想想怎么弄。
-* 💬 [遇到一个问题：嵌入块右上角的 SQL 会遮挡备注图标](https://ld246.com/article/1647878318970/comment/1647916738576#comments)
-
-  > 鼠标移动到红框位置即可 [图片] 可以多看看帮助文档
-* 🗣 [1.9.2 无法拖动图片](https://ld246.com/article/1647693590193/comment/1647757586641#comments)
-
-  > @delores0217 👌
-* 💗📝 [iPad 端切换页签，大纲不会跟随切换](https://ld246.com/article/1647743400110)
-
-  > 打开文档 a，大纲 ok 再打开文档 b，大纲 ok [图片] 再回到文档 a，却还是显示的 b 的大纲
 
 
 <!--events end -->
