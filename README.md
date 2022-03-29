@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-28 08:34:44`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-03-29 08:39:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [主题定制求助：如何调整无序列表段落的左边界？](https://ld246.com/article/1648430079324/comment/1648433212660#comments)
+
+  > 有 border 的段落试试添加 margin-left 或者 padding-left:1px 看有没有效果。
+* 🗣 [A4 大小 PDF 如果缩放不是 100% 或 125%，划选和标注文本区域将错位](https://ld246.com/article/1648024666172/comment/1648389582746#comments)
+
+  > 升级了一下 pdf，新版本再看看。
+* 💬 [Vditor 生命周期（运行时 runtime）设计构想](https://ld246.com/article/1644516848043/comment/1648436005173#comments)
+
+  > 不错，插件这块我没经验，大佬加油！
 * 💬 [引用列表块或列表项块时，修改被引用块内容时，引用块的锚本文不跟随变动](https://ld246.com/article/1648277657811/comment/1648368062188#comments)
 
   > 修改的是段落块，引用的是列表块，下个版本修改以后还是需要手动 F5 刷新一下哦
@@ -25,15 +34,6 @@
 * 💗📝 [iPad os 的思源笔记本，为什么不能新建笔记本？但是可以新建文档。](https://ld246.com/article/1648256214986)
 
   > 如标题
-* 💬 [iPad os 的思源笔记本，为什么不能新建笔记本？但是可以新建文档。](https://ld246.com/article/1648256214986/comment/1648309553949#comments)
-
-  > 感谢反馈，下个版本修复。[链接]
-* 🗣 [块引用与软换行 bug](https://ld246.com/article/1647526303096/comment/1648199058566#comments)
-
-  > 下个版本继续修复 [链接]
-* 💗💬 [块引用与软换行 bug](https://ld246.com/article/1647526303096/comment/1648199058566#comments)
-
-  > 在块引用开头软换行也会产生类似的 bug： [图片]
 
 
 <!--events end -->
