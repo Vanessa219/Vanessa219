@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-05-19 08:48:52`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-05-20 08:42:27`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [[bug] 笔记层级较深时, 无法点击笔记](https://ld246.com/article/1652863730833/comment/1652923378422#comments)
+
+  > 移动端点击图标是不会进行修改的。
 * 💗🗣 [Mac 端 Option+ 数字快捷键会在编辑器中打出数字](https://ld246.com/article/1652834736414/comment/1652853679320#comments)
 
   > @Vanessa 没有
@@ -31,9 +34,6 @@
 * 🗣 [行内文字工具栏——颜色选择面板优化的可能性](https://ld246.com/article/1652773038042/comment/1652804859294#comments)
 
   > 可以在电脑端打开手机思源伺服的地址，然后进行同样的修改。
-* 💬 [行内文字工具栏——颜色选择面板优化的可能性](https://ld246.com/article/1652773038042/comment/1652840879298#comments)
-
-  > 感谢建议，但由于以下原因，先不进行修改 A 面板过多会干扰 B 按住 shift 时，鼠标划选内容为上一次光标所在位置，不符合划选交互 C [链接]
 
 
 <!--events end -->
