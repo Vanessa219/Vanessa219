@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-13 08:45:50`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-14 08:50:16`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [【功能建议】增加「退出时关闭所有标签页」设置](https://ld246.com/article/1655031666199/comment/1655138456865#comments)
+
+  > 浏览器在启动时有这么一个选项。目前还没有浏览历史的功能。 [图片]
+* 🗣 [Pipe 用户指南](https://ld246.com/article/1513761942333/comment/1655115831391#comments)
+
+  > 这个最近还没有空修复的。后面会修复
 * 🗣 [【功能建议】增加「退出时关闭所有标签页」设置](https://ld246.com/article/1655031666199/comment/1655033363974#comments)
 
   > 你是想要一个浏览器设置再次打开的页面的功能么？
@@ -25,9 +31,6 @@
 * 🗣 [关于引用计数超过 10 以后点击的「悬浮显示」问题](https://ld246.com/article/1653639418266/comment/1654687865155#comments)
 
   > @bgt 好的 [链接]
-* 🗣 [关于引用计数超过 10 以后点击的「悬浮显示」问题](https://ld246.com/article/1653639418266/comment/1654687865155#comments)
-
-  > @bgt 根据上下位置，间距还需要再大才能不出现滚动条的。面板宽窄可通过自定义 css 进行修改。
 
 
 <!--events end -->
