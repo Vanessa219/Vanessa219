@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-25 08:44:29`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-26 08:50:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [颜色标注转换异常](https://ld246.com/article/1656146467228/comment/1656150285636#comments)
+
+  > 考虑到用户需要背景色和字体颜色同时使用的情况，这个叠加是正常的。
+* 💬 [打开 / 关闭文档树时，图表宽度不能自适应调整到屏宽](https://ld246.com/article/1656137308639/comment/1656146648054#comments)
+
+  > 表格宽度是多少就会占用多少，不会撑满屏幕的。如果需要此特性，可自定义 CSS .b3-typography table, .protyle-wysiwyg table { width: 100%; display: table; }
+* 💬 [思源块超链接地址不对仍可以跳转](https://ld246.com/article/1656088723086/comment/1656144367782#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗📝 [思源块超链接地址不对仍可以跳转](https://ld246.com/article/1656088723086)
+
+  > 如题，修改地址后仍然可以跳转 这种情况仅限于“blocks”，也就是 blocks 的拼写顺序不影响跳转，但是会无法预览 [视频]
 * 💬 [关于数学公式的反馈及建议](https://ld246.com/article/1655976998202/comment/1655979286930#comments)
 
   > 第一个重现不了。 第二个收操作系统制约，实现不了。 [图片]
@@ -22,18 +34,6 @@
 * 💗📝 [bug- 移动端文档树菜单](https://ld246.com/article/1655727529833)
 
   > [图片] 菜单到后面去了
-* 💬 [bug- 移动端文档树菜单](https://ld246.com/article/1655727529833/comment/1655733066913#comments)
-
-  > 感谢反馈，下个版本修复。[链接]
-* 💗📝 [PlantUML 复制 PNG 图片不全问题](https://ld246.com/article/1655728431623)
-
-  > PlantUML 可以正常展示，但是复制 png 的时候只能复制上半部分。 测试用的代码: @startuml !pragma useVerticalIf on start if (条件 A) then (yes) :文本 1; elseif (条件 B) then (yes) :文本 2; stop elseif ( ..
-* 💬 [PlantUML 复制 PNG 图片不全问题](https://ld246.com/article/1655728431623/comment/1655732950023#comments)
-
-  > 目前还不支持超出显示范围的截图，可关注 [链接]
-* 🗣 [折叠标题操作提议、悬浮窗 bug、大纲悬浮提示 bug](https://ld246.com/article/1655699875950/comment/1655729557051#comments)
-
-  > 感谢反馈，可关注 [链接]
 
 
 <!--events end -->
