@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-26 08:50:04`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-06-27 08:48:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [块滚动条拉到最下边后滚动鼠标滚轮没反应](https://ld246.com/article/1656158374796/comment/1656234045238#comments)
+
+  > 感谢反馈，下个版本修复，[链接]
 * 💬 [颜色标注转换异常](https://ld246.com/article/1656146467228/comment/1656150285636#comments)
 
   > 考虑到用户需要背景色和字体颜色同时使用的情况，这个叠加是正常的。
@@ -31,9 +34,6 @@
 * 💬 [绘制数学公式以及 Mermaid 图时会出现输入框遮挡文档重要信息的情况](https://ld246.com/article/1655748082608/comment/1655772355665#comments)
 
   > 这样的话输入框会抖动，会严重影响了输入，可以把输入框挪开后点击 pin
-* 💗📝 [bug- 移动端文档树菜单](https://ld246.com/article/1655727529833)
-
-  > [图片] 菜单到后面去了
 
 
 <!--events end -->
