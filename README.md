@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-07-04 08:51:43`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-07-05 08:48:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [如何调整行间距](https://ld246.com/article/1613740100860/comment/1656935522283#comments)
+
+  > 目前版本和以前区别比较大，需要修改 .protyle-wysiwyg [data-node-id] { line-height: 1.625; }
 * 💗📝 [块的长文本备注提示框不能完整显示出来](https://ld246.com/article/1656825866514)
 
   > 使用的是默认主题。如图： [图片]
@@ -31,9 +34,6 @@
 * 💬 [当一个内容被多个地方引用后，显示的被引用列表的展示优化](https://ld246.com/article/1656607304953/comment/1656660499278#comments)
 
   > 你说的问题无法重现，是被引用的内容比较特殊么？ [视频]
-* 💬 [超链接无法正常打开](https://ld246.com/article/1656577507319/comment/1656660131622#comments)
-
-  > 按照以下操作，无法重现，是有什么特别的操作么？ [视频]
 
 
 <!--events end -->
