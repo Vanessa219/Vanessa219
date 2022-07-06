@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-07-05 08:48:52`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-07-06 08:50:09`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [嵌入块内容过多出现滚动条，体验不佳](https://ld246.com/article/1657007712384/comment/1657028408214#comments)
+
+  > 移动到边上进行滚动 这个是经过多次讨论和修改的结果，可参见 [链接]
+* 🗣 [如何调整行间距](https://ld246.com/article/1613740100860/comment/1657011184200#comments)
+
+  > 找对应的 css 进行调整
 * 💬 [如何调整行间距](https://ld246.com/article/1613740100860/comment/1656935522283#comments)
 
   > 目前版本和以前区别比较大，需要修改 .protyle-wysiwyg [data-node-id] { line-height: 1.625; }
@@ -28,12 +34,6 @@
 * 💬 [思源笔记 2.0.25 bug 状态栏 显示选中的字数 不刷新](https://ld246.com/article/1656662756660/comment/1656677569656#comments)
 
   > 点击其他区域，选中的背景也不会消失，但关闭的话是需要改进的 [链接] 。感谢反馈。
-* 💬 [嵌入块中代码块异常](https://ld246.com/article/1656669895134/comment/1656677357390#comments)
-
-  > 目前嵌入块是只读的，不可以修改。
-* 💬 [当一个内容被多个地方引用后，显示的被引用列表的展示优化](https://ld246.com/article/1656607304953/comment/1656660499278#comments)
-
-  > 你说的问题无法重现，是被引用的内容比较特殊么？ [视频]
 
 
 <!--events end -->
