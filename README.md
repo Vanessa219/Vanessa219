@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-12 08:46:12`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-13 08:40:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [[提议] 强烈建议标签左右的 #号占用一个字符](https://ld246.com/article/1659974936552/comment/1660309978222#comments)
+
+  > 不仅标签存在这个问题，粗体等行内元素都存在这样的问题。
+* 💬 [有序无序列表中输入【】会变成任务列表](https://ld246.com/article/1660187578844/comment/1660309733725#comments)
+
+  > 按照操作好像无法重现 [视频]
 * 💬 [空行 bug 尚未完全解决](https://ld246.com/article/1660002202958/comment/1660008450680#comments)
 
   > 试一下在后面输入文字再删除。
@@ -28,12 +34,6 @@
 * 🗣 [矩阵中的间距有点小](https://ld246.com/article/1659684982336/comment/1659703207340#comments)
 
   > @Osiris 我们使用的数学公式是 [链接]
-* 🗣 [矩阵中的间距有点小](https://ld246.com/article/1659684982336/comment/1659697908844#comments)
-
-  > @Afterglow 这个需要开启自定义主题，然后在 custom.css 中进行修改
-* 🗣 [切换工作空间后，css 附加的内容会失去效果](https://ld246.com/article/1659530163080/comment/1659702098126#comments)
-
-  > 每个工作空间是独立设置的，互不影响，这个工作空间可以设置为这个样子，另一个工作空间可以设置为其他的样子。
 
 
 <!--events end -->
