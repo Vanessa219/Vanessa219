@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-20 08:43:38`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-21 08:44:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [列表中图片相关问题](https://ld246.com/article/1660987186727/comment/1660999286077#comments)
+
+  > 我这里没办法重现，是不是需要什么特殊的操作？
 * 💗📝 [建议增加配置全局 katex 宏的功能](https://ld246.com/article/1660883103490)
 
   > 现在的宏只能用于单个行内公式或者公式块，没办法跨公式使用。katex 的文档我看了下，应该是支持在 katex.render 或者 katex.renderToString 时候传入 macros 参数来提供自定义宏的，希望能有方法配置全局有效，或者是笔记本/文档范围内有效的宏定义，这样在处理一些复杂情况的时候会简单很 ..
@@ -31,9 +34,6 @@
 * 🗣 [安卓端在属性项中的内容会遮挡正文](https://ld246.com/article/1660647020232/comment/1660783135526#comments)
 
   > 👍
-* 💬 [新版本发布照样没解决上次的 bug, 再录两个视频，开发者看一下](https://ld246.com/article/1660740398580/comment/1660741715472#comments)
-
-  > 重现不了，麻烦把导出的 .sy 文件发送到 [链接] 邮箱中。谢谢
 
 
 <!--events end -->
