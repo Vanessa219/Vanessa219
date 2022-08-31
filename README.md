@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-30 08:57:48`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-08-31 08:59:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [希望能增加切换页签和分栏的快捷键](https://ld246.com/article/1661872137167/comment/1661875185329#comments)
+
+  > ctrl+tab 可切换页签。分栏具体指的是？
+* 🗣 [[反馈]  "在新页签中打开引用块" 打开的文档失去焦点](https://ld246.com/article/1661477748352/comment/1661522883580#comments)
+
+  > @iamqiz 指的是 ctrl+shift+. 么？好像重现不了
 * 🗣 [云端同步引导优化建议](https://ld246.com/article/1661141781019/comment/1661704220009#comments)
 
   > @ciwoyipang 好的，谢谢建议
@@ -28,12 +34,6 @@
 * 💗💬 [几个小的建议，供参考](https://ld246.com/article/1661742842946/comment/1661744728770#comments)
 
   > 关于第一项，目前用快捷键可以直接切换标题级别，比如想把一级改为三级，直接按 Command+Option+3，就切换到三级了 希望能支持 Command+Option+0 把标题改为段落。目前实现方式是移到行首，按删除键
-* 🗣 [几个小的建议，供参考](https://ld246.com/article/1661742842946/comment/1661744746766#comments)
-
-  > 可能需要手动裁剪为正方形
-* 💬 [几个小的建议，供参考](https://ld246.com/article/1661742842946/comment/1661744746820#comments)
-
-  > 感谢建议 可使用快捷键 下个版本支持 [链接] 这个要看看其他用户的意见了，如果大家都觉得居中好，后面再修改为默认的 是要图片自动识别后转换为公式么？ 搜索列表的左侧是有块图标的，不太明白你的需求是？ 参见帮助文档，可使用 ⌥.
 
 
 <!--events end -->
