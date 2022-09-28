@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-09-25 08:54:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-09-28 10:06:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗📝 [反链的显示 建议](https://ld246.com/article/1663988787552)
+* 🗣 [2.2.2 切换主题会留有上个主题的缓存](https://ld246.com/article/1664271515327/comment/1664330432155#comments)
 
-  > 反链显示边框的逻辑好像和块所处的位置有关 当块在非显示的底部的时候, 反链的边框就会一直往下填充, 这样非常不美观 建议是让反链的边框固定大小是不是会比较好, 只有当显示内容大于边框,内容才撑开边框 [图片] [图片]
-* 💬 [反链的显示 建议](https://ld246.com/article/1663988787552/comment/1664027797963#comments)
+  > 嗯嗯，已修复。切换按钮和跟随系统有冲突，这个要在考虑。
+* 🗣 [2.2.2 切换主题会留有上个主题的缓存](https://ld246.com/article/1664271515327/comment/1664289077891#comments)
 
-  > 感谢反馈，下个版本修复 [链接]
-* 🗣 [关于 vditor.insertValue(）插入问题](https://ld246.com/article/1663056097679/comment/1663905153775#comments)
+  > @Ultramarine 下个版本修复
+* 🗣 [关于 vditor.insertValue(）插入问题](https://ld246.com/article/1663056097679/comment/1664159927337#comments)
 
-  > @lzsk 那就先 replace 试试
-* 🗣 [关于 vditor.insertValue(）插入问题](https://ld246.com/article/1663056097679/comment/1663905628428#comments)
+  > @lzsk 最近没有时间哦，你可以先用 vue-markdown-editor
+* 💗📝 [2.2.2 切换主题会留有上个主题的缓存](https://ld246.com/article/1664271515327)
 
-  > @lzsk 可以获取已有内容，然后加上添加的内容一起 setValue
-* 🗣 [MAC 客户端 特定词汇输出异常](https://ld246.com/article/1663911829497/comment/1663952121286#comments)
+  > 如题，更新后切换主题会有之前的 js 缓存没有刷新，导致沿用了之前主题的缓存。 另外暗夜模式按钮也没有了，系统切换暗黑模式但是软件没有自动切换，只能关闭后打开才行，非常不方便啊。 [图片] 原版：[图片]
+* 💬 [2.2.2 切换主题会留有上个主题的缓存](https://ld246.com/article/1664271515327/comment/1664289077891#comments)
 
-  > 我现在也遇到了，感觉好像只有这个单词有问题，很奇怪。目前还找不到具体原因。
-* 🗣 [导出 PDF 时文档上部的页边距太朝上，导致打印出来时显示不全。](https://ld246.com/article/1663922175403/comment/1664014890490#comments)
+  > 第一个问题下个版本修复 [链接] 第二个问题无法重现，是不是没有设置为跟随系统？
+* 🗣 [更新 2.2.2 后，通过浏览器访问，菜单栏看不到，与背景融合了，弹窗也是](https://ld246.com/article/1664272369425/comment/1664273004084#comments)
 
-  > 边距不要选择 None 就可以了
-* 💬 [导出 PDF 时预览窗口和参数设置页面覆盖重叠 v2.2.0](https://ld246.com/article/1664006727084/comment/1664025224619#comments)
+  > 建议使用跟随系统
+* 🗣 [关于 vditor.insertValue(）插入问题](https://ld246.com/article/1663056097679/comment/1664159927337#comments)
 
-  > 我这里是正常的。.sy 导出发 [链接]
-* 💬 [pdf 缩放在切换打开侧边栏后会变化](https://ld246.com/article/1664002896416/comment/1664025074644#comments)
+  > @lzsk 随意光标处插入可能会有问题哦。md 语法被打断会造成更多的问题。
+* 🗣 [【问题反馈】集市卸载按钮宽度不一致](https://ld246.com/article/1664263556216/comment/1664267552584#comments)
 
-  > 感觉是正常的，可以具体说说是哪里有问题么？ [视频]
+  > 可能是操作系统在渲染的时候有点问题吧。可以打开开发者工具看看具体大小。
 
 
 <!--events end -->
