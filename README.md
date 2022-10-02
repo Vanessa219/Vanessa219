@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-10-01 09:11:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-10-02 09:03:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [[提议] 增加公共主题 css 文件, 无论使用哪个主题, 该 css 都会生效](https://ld246.com/article/1663475885890/comment/1664604793557#comments)
+
+  > [链接] 这个搁置了，等反链面板改完就写
+* 💬 [思源笔记升级 v2.2.3，快捷键功能有点反向优化](https://ld246.com/article/1664583794906/comment/1664591711396#comments)
+
+  > 以前想要添加颜色必须为粗体，现在修改为不必使用粗体也可以添加颜色了
 * 🗣 [选中文字后点击引用块，选择新建文档，无法新建子文档。v2.2.3](https://ld246.com/article/1664375169591/comment/1664438824646#comments)
 
   > @Gaffey 好的
@@ -28,12 +34,6 @@
 * 💬 [最新版公式问题](https://ld246.com/article/1664514744060/comment/1664544390567#comments)
 
   > 第二个问题下个版本修复 [链接]
-* 💗📝 [最新版公式问题](https://ld246.com/article/1664514744060)
-
-  > 最新版是不支持 ctrl+M 在空行插入公式了吗？ 两个公式，选中，使用 ctrl+M 会导致公式消失 [图片]
-* 💬 [移除思源笔记 windowControl 的内联样式表](https://ld246.com/article/1664459584064/comment/1664544085907#comments)
-
-  > [链接]
 
 
 <!--events end -->
