@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-10-25 09:04:47`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-10-26 08:52:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [PDF 导出的问题](https://ld246.com/article/1666675617867)
+
+  > 导出 PDF 的时候思源的页面缩放会被强制重置，关闭预览界面也不会恢复。 预览界面中调整图中的这些选项，预览效果并没有发生变化。 [图片]
+* 💬 [PDF 导出的问题](https://ld246.com/article/1666675617867/comment/1666678333463#comments)
+
+  > 感谢反馈，下个版本改进 [链接] 目前页面大小和缩放无法预览。
 * 🗣 [关于 2.4.5 中“云端同步数据在启动后执行”的 bug 反馈](https://ld246.com/article/1666594023088/comment/1666594275368#comments)
 
   > 没有同步中的文件应该是可以编辑的，只读模式所有文档都无法编辑
@@ -28,12 +34,6 @@
 * 🗣 [新版外观的优化建议](https://ld246.com/article/1666338437497/comment/1666596617121#comments)
 
   > 第一个有点像 undo 和 redo 了，先改一下第二个吧 [链接]
-* 💗💬 [2.4.5 手机端题头图＋emoji bug。](https://ld246.com/article/1666534313533/comment/1666545053743#comments)
-
-  > ① 不建议一直显示。手机端显示空间有限，一直显示使外观体验不沉浸。 ②[链接] 只要是 B 站的视频都这样。
-* 🗣 [2.4.5 手机端题头图＋emoji bug。](https://ld246.com/article/1666534313533/comment/1666545053743#comments)
-
-  > 显示还是要显示的，要不点不到。下个版本优化下 [链接]。2. 后期修复，[链接] ,建议使用 https://www.bilibili.com/video/BV1UT411P7UX 这样的网址，我们有做过优化哦。
 
 
 <!--events end -->
