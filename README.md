@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-11-02 08:56:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-11-03 08:52:08`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [[2.4.8 Bug] 暗黑模式下，PDF 开启明亮模式后，原本标注显示异常](https://ld246.com/article/1667273118053/comment/1667300730764#comments)
+* 🗣 [【 SiYuan BUG】设置 - 快捷键 - 按键录入功能问题](https://ld246.com/article/1667368832378/comment/1667390407938#comments)
+
+  > 这篇文章无法回帖了，你是不是关闭了回帖功能？ 这个是参考了 IDE 的做法，按页签激活顺序来进行切换的。
+* 💗📝 [【 SiYuan BUG】设置 - 快捷键 - 按键录入功能问题](https://ld246.com/article/1667368832378)
+
+  > [图片] 如图，这个区域可以录入按键，但是我发现几个问题： 数字键盘的 /*-+. 识别失败，是其它内容 无法正常录入 alt + e（其他的还不知道） [视频]
+* 💬 [【 SiYuan BUG】设置 - 快捷键 - 按键录入功能问题](https://ld246.com/article/1667368832378/comment/1667383686280#comments)
+
+  > 感谢反馈，下个版本改进 [链接]，[链接] 快捷键设定的优先级无法高于应用本身，因此补充问题无法修改。
+* 💬 [【思源文档删除 BUG】](https://ld246.com/article/1667311960383/comment/1667355200706#comments)
 
   > 感谢反馈，下个版本修复 [链接]
-* 💗📝 [[2.4.8 Bug] 暗黑模式下，PDF 开启明亮模式后，原本标注显示异常](https://ld246.com/article/1667273118053)
+* 💗💬 [【 SiYuan 细节优化】](https://ld246.com/article/1667313622306/comment/1667313875671#comments)
 
-  > 暗黑皮肤 +PDF 暗黑： [图片] 暗黑皮肤 +PDF 明亮： [图片]
-* 🗣 [2.4.8 重启或 ctrl+f5 后会重置外观](https://ld246.com/article/1667226325617/comment/1667264316189#comments)
+  > 这是主题原因吧
+* 💗💬 [滚动条挤占宽度](https://ld246.com/article/1667350099309/comment/1667352248168#comments)
 
-  > @ciwoyipang 👌 虚惊一场
-* 🗣 [希望添加对阿拉伯语文本方向支持](https://ld246.com/article/1667176292033/comment/1667272802782#comments)
+  > 你可以添加 [链接]，即可实现效果 /* 有些界面不需要滚动条 */ .b3-tab-bar::-webkit-scrollbar, .b3-tab-container::-webkit-scrollbar { width: 0px !important; }
+* 💬 [滚动条挤占宽度](https://ld246.com/article/1667350099309/comment/1667352946889#comments)
 
-  > 会有一个全局配置和独立的配置，由于不太常用，快捷键先不加了。
-* 🗣 [2.4.8 重启或 ctrl+f5 后会重置外观](https://ld246.com/article/1667226325617/comment/1667264316189#comments)
+  > 其余面板也是有滚动条的，这样在其余没有视觉分割的面板上也可以让用户清楚知道下部分还有内容，如果个人不需要的话可参照上楼进行修改。
+* 💗📝 [【代码片段】通用弹出层支持滚动](https://ld246.com/article/1667314507717)
 
-  > 每次都会还是只有升级的第一次会？
-* 🗣 [f3 创建新文档的路径应跟随块引用新建文档设置](https://ld246.com/article/1667119635078/comment/1667219906082#comments)
-
-  > 不确定的讨论参见 [链接] 评论部分
-* 🗣 [2.4.8 重启或 ctrl+f5 后会重置外观](https://ld246.com/article/1667226325617/comment/1667227426898#comments)
-
-  > 如果还可以重现的话， at 我。谢谢
-* 🗣 [2.4.8 重启或 ctrl+f5 后会重置外观](https://ld246.com/article/1667226325617/comment/1667229025623#comments)
-
-  > ctrl+f5 是配置给了什么功能么？
+  > 当我在思源交流群看到这么一张图： [图片] 我敏感的意识到这是通用弹出层的问题，这个问题早在 10 天前的 Sofill- 0.34 就尝试解决，因为共用的场景实在太多，经历了几个版本，直到 0.56 版本才解决了样式污染。 [图片] 这个通用弹出层真是令人头大，设计我认为是不合理的，不过在官方给出解决方案之前，我们可 ..
 
 
 <!--events end -->
