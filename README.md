@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-11-25 08:42:55`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-11-26 08:38:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [导出时，希望所有级次的大纲都统一为实心点](https://ld246.com/article/1669389128052/comment/1669389715243#comments)
+
+  > 导出的类型是 HTML siyuan 还是其他什么？
+* 💬 [插入行内代码时输入 / 能呼出菜单](https://ld246.com/article/1669338106626/comment/1669339595257#comments)
+
+  > 这个同其他行内元素一样是可以的。也可以设置颜色、粗体等。
 * 🗣 [导出 pdf 能否带上窗体的底色](https://ld246.com/article/1669130190643/comment/1669259453455#comments)
 
   > PDF 会和导出看到的界面保持一致。需加到 protyle-wysiwyg 上才行。
@@ -28,12 +34,6 @@
 * 💗📝 [关于“移动”功能的优化建议](https://ld246.com/article/1669186144766)
 
   > [图片] 当光标位置在段落最右边的时候，使用“移动”快捷键呼出窗口，展现的面板内标题内容显示不全。 建议： 鼠标移动上去能出来内容 或者调整窗口的展现位置
-* 💬 [关于“移动”功能的优化建议](https://ld246.com/article/1669186144766/comment/1669193294034#comments)
-
-  > 感谢反馈，会在 [链接] 中一同处理。
-* 🗣 [[BUG] 关于正文添加评论后撤销报错](https://ld246.com/article/1669171486331/comment/1669171516035#comments)
-
-  > 可以使用备注功能
 
 
 <!--events end -->
