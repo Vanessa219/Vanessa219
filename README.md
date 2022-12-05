@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-04 08:39:50`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-05 08:39:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [跨块复制文字，为啥不能直接用鼠标，而是要开头单击 +shift+ 末尾单击的形式？](https://ld246.com/article/1669965307074/comment/1669994576502#comments)
+
+  > @iamqiz 理论上可以加载无限长的文章，就是滚动哪里显示哪里，其余部分不进行渲染。
 * 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1670063446381#comments)
 
   > 没太明白，可以截一下合并前（需画选一下合并内容）和合并后的图么？
@@ -31,9 +34,6 @@
 * 🗣 [最新版本文档树多选 shift+ 下箭头无效](https://ld246.com/article/1669863120667/comment/1669906890284#comments)
 
   > @ciwoyipang 右上角已经有编辑按钮了，没太理解你的意思
-* 🗣 [最新版本文档树多选 shift+ 下箭头无效](https://ld246.com/article/1669863120667/comment/1669906890284#comments)
-
-  > Shift 点击的话会在下方打开，类似这样的移动不太高频，当然在下方打开也不太高频。我们可以再调研一下有没有其他方案，或者说将在下方打开的便捷方式改为选中。
 
 
 <!--events end -->
