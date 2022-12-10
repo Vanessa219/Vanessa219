@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-09 08:40:33`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-10 08:37:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1670377964228#comments)
+
+  > @yan818181 md 不需要 css
 * 🗣 [代码块光标呈现量子运动（欢迎我的朋友们）](https://ld246.com/article/1650623107430/comment/1650852374557#comments)
 
   > 麻烦再看看是否好了
@@ -31,9 +34,6 @@
 * 🗣 [跨块复制文字，为啥不能直接用鼠标，而是要开头单击 +shift+ 末尾单击的形式？](https://ld246.com/article/1669965307074/comment/1670301286437#comments)
 
   > 看了一下，在更多中有保持已加载的内容选项，鼠标选取这个后续应该是可以改进的。可关注 [链接] @iamqiz
-* 🗣 [自定义表情与文字不能中轴线对齐](https://ld246.com/article/1670399411493/comment/1670415693380#comments)
-
-  > @lihuiv5 行号这个是根据每一行的高度来计算的，所以比较耗费性能。
 
 
 <!--events end -->
