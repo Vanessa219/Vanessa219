@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-16 08:38:30`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-17 08:36:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671179553827#comments)
+
+  > [图片]
+* 🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671117488330#comments)
+
+  > 看了一下表格都有这个特性，这属于正常现象，可在 新民主主义革命、社会主义改造革命 和 1949 中使用 Shift+Enter 来调整表格高度，从而进行对其。
 * 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671071145984#comments)
 
   > 如图所示，因此还是不太明白你是怎么合并的？ [图片]
@@ -28,12 +34,6 @@
 * 🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1670855287578#comments)
 
   > @soltus 可关注 [链接]
-* 💗🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1670855287578#comments)
-
-  > 话说表格生成的 col1 col2 col3 能去掉吗，每次都要删除挺麻烦
-* 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1670855287578#comments)
-
-  > 我模拟了一下表单，你看是不是这样的。我没有办法选中 2、3、1949 [视频]
 
 
 <!--events end -->
