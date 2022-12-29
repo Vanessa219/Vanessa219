@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-28 08:38:00`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-29 08:39:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1672212141952#comments)
+
+  > 上传完会有返回值
+* 💬 [思源笔记 1.5.5 在小尺寸下 UI 设计的改进建议](https://ld246.com/article/1672114347456/comment/1672196626203#comments)
+
+  > 感谢反馈，后续改进 [链接]
+* 💗📝 [思源笔记 1.5.5 在小尺寸下 UI 设计的改进建议](https://ld246.com/article/1672114347456)
+
+  > 我会把笔记软件缩小放在屏幕角落里，像便签 App 一样使用。在小的界面下，思源笔记的 UI 设计还能在细节上优化。下面是我的一些想法。 结论是：思源的 Electron App 应该设置最小窗口尺寸，宽 518px，高 411px。这是保证功能的极限。设置界面的 UI 需要多考虑小尺寸的场合。 该多小？ 工作生活中，我 ..
+* 💗📝 [[bug] 闪卡窗口叠加](https://ld246.com/article/1672129934885)
+
+  > 如题，使用快捷键打开闪卡窗口，再次使用快捷键时无法关闭闪卡窗口，而是继续叠加打开。 如下图所示： [图片]
+* 💬 [[bug] 闪卡窗口叠加](https://ld246.com/article/1672129934885/comment/1672194445166#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
 * 🗣 [ctrl+P 搜索失效](https://ld246.com/article/1671503347587/comment/1671613035873#comments)
 
   > 还是重现不了，麻烦在开发者工具中运行 localStorage.getItem('local-searchedata') 这个看看。还有 Ctrl+p 是在什么场景下使用的？
@@ -19,21 +34,6 @@
 * 🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671451272014#comments)
 
   > 可在 新民主主义革命、社会主义改造革命 和 1949 中使用 Shift+Enter 来调整表格高度，从而进行对其。
-* 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671179553827#comments)
-
-  > [图片]
-* 🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671117488330#comments)
-
-  > 看了一下表格都有这个特性，这属于正常现象，可在 新民主主义革命、社会主义改造革命 和 1949 中使用 Shift+Enter 来调整表格高度，从而进行对其。
-* 💬 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671071145984#comments)
-
-  > 如图所示，因此还是不太明白你是怎么合并的？ [图片]
-* 🗣 [表格合并单元格功能是不是有点问题？](https://ld246.com/article/1670058423507/comment/1671003980138#comments)
-
-  > 我这里没办法单独选中 新民主主义革命、社会主义改造革命、1949 这三个单元格，一选的话就会选中这两列。
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1671069266404#comments)
-
-  > md 的话不可以，除非使用 html 标记 img
 
 
 <!--events end -->
