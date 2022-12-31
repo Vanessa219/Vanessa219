@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-30 08:39:46`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2022-12-31 08:38:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [加粗的数字打上高亮标记，复习页面没有挖空效果](https://ld246.com/article/1672377627704)
+
+  > [图片]
+* 🗣 [加粗的数字打上高亮标记，复习页面没有挖空效果](https://ld246.com/article/1672377627704/comment/1672396926694#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💬 [加粗的数字打上高亮标记，复习页面没有挖空效果](https://ld246.com/article/1672377627704/comment/1672390994478#comments)
+
+  > 无法重现，是不是点过 show 了？
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1672212141952#comments)
 
   > @yan818181 服务器端设置一下
@@ -25,15 +34,6 @@
 * 💗📝 [[bug] 闪卡窗口叠加](https://ld246.com/article/1672129934885)
 
   > 如题，使用快捷键打开闪卡窗口，再次使用快捷键时无法关闭闪卡窗口，而是继续叠加打开。 如下图所示： [图片]
-* 💬 [[bug] 闪卡窗口叠加](https://ld246.com/article/1672129934885/comment/1672194445166#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
-* 🗣 [ctrl+P 搜索失效](https://ld246.com/article/1671503347587/comment/1671613035873#comments)
-
-  > 还是重现不了，麻烦在开发者工具中运行 localStorage.getItem('local-searchedata') 这个看看。还有 Ctrl+p 是在什么场景下使用的？
-* 💬 [ctrl+P 搜索失效](https://ld246.com/article/1671503347587/comment/1671537471694#comments)
-
-  > 没有找到重现步骤，还麻烦打开开发者工具看一看有没有报错。
 
 
 <!--events end -->
