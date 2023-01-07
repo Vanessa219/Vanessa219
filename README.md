@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-06 08:40:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-07 08:38:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [2.6.2 使用标记一定概率会出现多的空行 &amp; 丢失内容](https://ld246.com/article/1672929892880/comment/1673009705561#comments)
+
+  > 撤销以后再 Alt+D 还会重现么？和速度有关么？
+* 🗣 [2.6.2 使用标记一定概率会出现多的空行 &amp; 丢失内容](https://ld246.com/article/1672929892880/comment/1673005937136#comments)
+
+  > 可以使用超级块来做为闪卡，超级块第一个块以外的块都会做为答案，就不用这么麻烦的去标记了。
+* 🗣 [关于 pdf 跳转的问题](https://ld246.com/article/1672800421476/comment/1672823360594#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 🗣 [2.6.2 使用标记一定概率会出现多的空行 &amp; 丢失内容](https://ld246.com/article/1672929892880/comment/1672970157924#comments)
+
+  > 麻烦把这个文件发我一下，我这里重现不了
 * 💬 [思源笔记 2.6.2，图标无法加载](https://ld246.com/article/1672811562871/comment/1672812373317#comments)
 
   > 展开 def 看一下。再帮忙看看 Console 里面有没有报错，这里无法重现。
@@ -22,18 +34,6 @@
 * 💗💬 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1672749221892#comments)
 
   > options 里添加 preview: { theme: { current: 'light', path: 'vditor/dist/css/content-theme' } },
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1672586005988#comments)
-
-  > @addoil 参看 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1672586005988#comments)
-
-  > 自定义
-* 💗📝 [加粗的数字打上高亮标记，复习页面没有挖空效果](https://ld246.com/article/1672377627704)
-
-  > [图片]
-* 🗣 [加粗的数字打上高亮标记，复习页面没有挖空效果](https://ld246.com/article/1672377627704/comment/1672396926694#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
 
 
 <!--events end -->
