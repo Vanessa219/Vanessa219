@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-17 08:40:44`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-18 08:41:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Bug 反馈：无序列表中图片的居中操作](https://ld246.com/article/1668235720913/comment/1673915204106#comments)
+
+  > 已有数据的话需要手动处理一下。如果是新输入的话麻烦给一下重现步骤
 * 🗣 [关于嵌入的列表，鼠标点击嵌入块的问题](https://ld246.com/article/1673596577519/comment/1673767749885#comments)
 
   > 已经可以重现，下个版本修复 [链接]
@@ -31,9 +34,6 @@
 * 🗣 [[建议] 希望能提高文章导出 pdf 的排版效果](https://ld246.com/article/1673407361845/comment/1673570528332#comments)
 
   > @easn 可以的话把导出的 .sy 发送到 845765@qq.com，后面我们会逐一进行修改。谢谢
-* 🗣 [【视频反馈】长文档滚轮滑动的卡顿感与卡住](https://ld246.com/article/1673244514114/comment/1673666960405#comments)
-
-  > @ilovesiyuan 已经预加载了，但是滚动的速度会大于预加载的距离。正常查看内容的话应该是体会不到卡顿的。
 
 
 <!--events end -->
