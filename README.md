@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-23 08:38:27`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-24 08:42:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [【mac 版 bug】已经点击隐藏的 dock 栏和文档树会反复自动出现](https://ld246.com/article/1674127017828/comment/1674401103044#comments)
+
+  > 好像重现不了，默认主题也会这样么？
 * 💬 [【mac 版 bug】已经点击隐藏的 dock 栏和文档树会反复自动出现](https://ld246.com/article/1674127017828/comment/1674361646095#comments)
 
   > 抱歉，没看懂
@@ -31,9 +34,6 @@
 * 🗣 [关于嵌入的列表，鼠标点击嵌入块的问题](https://ld246.com/article/1673596577519/comment/1673767749885#comments)
 
   > 已经可以重现，下个版本修复 [链接]
-* 💗💬 [关于嵌入的列表，鼠标点击嵌入块的问题](https://ld246.com/article/1673596577519/comment/1673767749885#comments)
-
-  > [视频] 上面的那个嵌入快正常，下面的嵌入块有问题。 我的版本是 2.6.2，然后悬停出现浮窗功能我关闭了。 出现问题的嵌入块：  易百教程 - 批处理教程 Windows 命令 | Microsoft Learn  正常的嵌入块：  MDN - JavaScript 菜鸟教程 - JavaScript 教程 阮一峰  ..
 
 
 <!--events end -->
