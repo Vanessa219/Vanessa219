@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-25 08:39:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-26 08:39:58`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [为什么行级代码总是这样？？？什么问题](https://ld246.com/article/1674469514494/comment/1674622172545#comments)
+
+  > 这样的话如果行内代码超过一行就会有其他问题
+* 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
+
+  > 默认的就是只有 ☁️，没有其他符号的。
 * 🗣 [【mac 版 bug】已经点击隐藏的 dock 栏和文档树会反复自动出现](https://ld246.com/article/1674127017828/comment/1674401103044#comments)
 
   > 好像重现不了，默认主题也会这样么？
@@ -28,12 +34,6 @@
 * 💬 [【bug】带有序列表的文本“粘贴转义文本”出错](https://ld246.com/article/1674002542976/comment/1674051596152#comments)
 
   > 感谢反馈，下个版本修复 [链接]
-* 🗣 [Bug 反馈：无序列表中图片的居中操作](https://ld246.com/article/1668235720913/comment/1673915204106#comments)
-
-  > 已有数据的话需要手动处理一下。如果是新输入的话麻烦给一下重现步骤
-* 🗣 [关于嵌入的列表，鼠标点击嵌入块的问题](https://ld246.com/article/1673596577519/comment/1673767749885#comments)
-
-  > 已经可以重现，下个版本修复 [链接]
 
 
 <!--events end -->
