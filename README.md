@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-27 08:42:13`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-28 08:40:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [建议：打开搜索时应当关闭选区样式弹窗](https://ld246.com/article/1674791611967/comment/1674794301888#comments)
+
+  > 感谢反馈，下个版本改进 [链接]
+* 💗📝 [建议：打开搜索时应当关闭选区样式弹窗](https://ld246.com/article/1674791611967)
+
+  > 如下图所示，未关闭选区样式弹窗时打开搜索，点击搜索区域无法关闭弹窗： [图片] 思源版本：2.7.1-dev3 主题：默认主题
+* 💗📝 [这里可能是有 Bug 吧](https://ld246.com/article/1674740341684)
+
+  > [视频]
+* 💬 [这里可能是有 Bug 吧](https://ld246.com/article/1674740341684/comment/1674790380542#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗📝 [关于“闪卡”功能的建议](https://ld246.com/article/1674666586495)
+
+  > 经过使用了一段时间的闪卡，发现闪卡功能确实不好用，结合之前关于闪卡的讨论（https://ld246.com/article/1673512327205、https://ld246.com/article/1673762231617、https://ld246.com/article/1673100293107），发现 ..
+* 🗣 [为什么行级代码总是这样？？？什么问题](https://ld246.com/article/1674469514494/comment/1674622172545#comments)
+
+  > @ponconsoft 这个去掉以后光标就无法定位在行内代码内了
+* 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
+
+  > @ciwoyipang 没太明白你的意思，是默认图案不好看要进行替换还是其他什么的？
 * 💬 [为什么行级代码总是这样？？？什么问题](https://ld246.com/article/1674469514494/comment/1674622172545#comments)
 
   > 这样的话如果行内代码超过一行就会有其他问题
-* 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
-
-  > 默认的就是只有 ☁️，没有其他符号的。
-* 🗣 [【mac 版 bug】已经点击隐藏的 dock 栏和文档树会反复自动出现](https://ld246.com/article/1674127017828/comment/1674401103044#comments)
-
-  > 好像重现不了，默认主题也会这样么？
-* 💬 [【mac 版 bug】已经点击隐藏的 dock 栏和文档树会反复自动出现](https://ld246.com/article/1674127017828/comment/1674361646095#comments)
-
-  > 抱歉，没看懂
-* 💗📝 [【bug】2.7.0,MacOS 上 SiYuan 按钮菜单会重复出现](https://ld246.com/article/1674054944171)
-
-  > 这个 bug2.6.3 就有，2.7.0 依然有，不知有人发现没。 连续点击(或多次点击)SiYuan 按钮后会出现。 默认主题也是同样的情况。 我的是 MacOS12.6.1，思源笔记 2.7.0 [图片]
-* 💬 [【bug】2.7.0,MacOS 上 SiYuan 按钮菜单会重复出现](https://ld246.com/article/1674054944171/comment/1674057496337#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
-* 💗📝 [【bug】带有序列表的文本“粘贴转义文本”出错](https://ld246.com/article/1674002542976)
-
-  > [图片] 将上文“粘贴转义文本”到思源后，效果如下： [图片]
-* 💬 [【bug】带有序列表的文本“粘贴转义文本”出错](https://ld246.com/article/1674002542976/comment/1674051596152#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
 
 
 <!--events end -->
