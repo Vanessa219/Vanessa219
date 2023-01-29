@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-28 08:40:44`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-29 08:44:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
+
+  > @ciwoyipang 右下脚的话，他不会转动。已经修改了，你更新代码。默认的叫 iconCloudSucc
 * 💬 [建议：打开搜索时应当关闭选区样式弹窗](https://ld246.com/article/1674791611967/comment/1674794301888#comments)
 
   > 感谢反馈，下个版本改进 [链接]
@@ -31,9 +34,6 @@
 * 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
 
   > @ciwoyipang 没太明白你的意思，是默认图案不好看要进行替换还是其他什么的？
-* 💬 [为什么行级代码总是这样？？？什么问题](https://ld246.com/article/1674469514494/comment/1674622172545#comments)
-
-  > 这样的话如果行内代码超过一行就会有其他问题
 
 
 <!--events end -->
