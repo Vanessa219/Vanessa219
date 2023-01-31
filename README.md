@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-30 08:36:47`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-01-31 08:42:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1674897530684#comments)
+
+  > @addoil 参考 [链接]
+* 🗣 [Vditor v3.4.7 发布，支持自定义自动补全](https://ld246.com/article/1598366555458/comment/1674981180203#comments)
+
+  > 需要使用同步
+* 💗💬 [【建议】图片菜单加入复制 OCR 结果的选项](https://ld246.com/article/1674196940851/comment/1674921319439#comments)
+
+  > @88250 @Vanessa 您能看看我这个建议吗？
+* 🗣 [【建议】图片菜单加入复制 OCR 结果的选项](https://ld246.com/article/1674196940851/comment/1674921319439#comments)
+
+  > 感谢反馈，后续支持 [链接]
+* 🗣 [大纲的字号问题](https://ld246.com/article/1674223498028/comment/1674997467991#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗💬 [大纲的字号问题](https://ld246.com/article/1674223498028/comment/1674997467991#comments)
+
+  > @Vanessa
 * 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
 
   > @ciwoyipang 右下脚的话，他不会转动。已经修改了，你更新代码。默认的叫 iconCloudSucc
 * 💬 [建议：打开搜索时应当关闭选区样式弹窗](https://ld246.com/article/1674791611967/comment/1674794301888#comments)
 
   > 感谢反馈，下个版本改进 [链接]
-* 💗📝 [建议：打开搜索时应当关闭选区样式弹窗](https://ld246.com/article/1674791611967)
-
-  > 如下图所示，未关闭选区样式弹窗时打开搜索，点击搜索区域无法关闭弹窗： [图片] 思源版本：2.7.1-dev3 主题：默认主题
-* 💗📝 [这里可能是有 Bug 吧](https://ld246.com/article/1674740341684)
-
-  > [视频]
-* 💬 [这里可能是有 Bug 吧](https://ld246.com/article/1674740341684/comment/1674790380542#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
-* 💗📝 [关于“闪卡”功能的建议](https://ld246.com/article/1674666586495)
-
-  > 经过使用了一段时间的闪卡，发现闪卡功能确实不好用，结合之前关于闪卡的讨论（https://ld246.com/article/1673512327205、https://ld246.com/article/1673762231617、https://ld246.com/article/1673100293107），发现 ..
-* 🗣 [为什么行级代码总是这样？？？什么问题](https://ld246.com/article/1674469514494/comment/1674622172545#comments)
-
-  > @ponconsoft 这个去掉以后光标就无法定位在行内代码内了
-* 🗣 [2.6.3 顶栏云端同步按钮优化建议](https://ld246.com/article/1673420979805/comment/1674575433139#comments)
-
-  > @ciwoyipang 没太明白你的意思，是默认图案不好看要进行替换还是其他什么的？
 
 
 <!--events end -->
