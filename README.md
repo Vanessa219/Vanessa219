@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-07 08:41:45`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-08 08:41:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor md2HTML 后锚点定位不生效](https://ld246.com/article/1675675932915/comment/1675695189447#comments)
+
+  > 可以数据库存 MD，渲染走服务端用 Lute
 * 💬 [Vditor md2HTML 后锚点定位不生效](https://ld246.com/article/1675675932915/comment/1675692643211#comments)
 
   > 保存 HTML 的话，五线谱、图表等可能会出现问题。 html2md 时 new Vditor 实例上的方法
@@ -31,9 +34,6 @@
 * 💗📝 [[反馈] 粘贴行内代码之后, 光标不能移动到代码块边界的右边](https://ld246.com/article/1675214015995)
 
   > 复现 粘贴从 vscode 里复制的代码之后, 生成一个行内代码块, 光标位于块内最后一个字符右边, 我想通过按下 right 键将光标移动到块边界的右边,如下图 '期望移动'所指位置, [图片] 但是实际按下 right 方向键之后,光标会跳到下一行行首(如果有下一行的话) 视频: [视频]
-* 💬 [[反馈] 粘贴行内代码之后, 光标不能移动到代码块边界的右边](https://ld246.com/article/1675214015995/comment/1675239021033#comments)
-
-  > 感谢反馈，下个版本修复 [链接]
 
 
 <!--events end -->
