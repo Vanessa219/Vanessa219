@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-11 08:36:27`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-12 08:44:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [列表块合并超级块后，对不齐，特别别扭](https://ld246.com/article/1675772015728/comment/1676126895386#comments)
+
+  > 这样为了让用户可以区分超级块里面的到底由什么组成，以免构建错误的超级块。如果需要两个任务列表对其可以按照一下进行操作： [视频]
 * 💬 [公式块后的隐藏行](https://ld246.com/article/1676022720056/comment/1676025233237#comments)
 
   > 这个是用来标识当前块的，这样才使用快捷键对该块进行操作。间距都是统一的，不会为每中数学公式单独进行计算。
@@ -31,9 +34,6 @@
 * 🗣 [Vditor md2HTML 后锚点定位不生效](https://ld246.com/article/1675675932915/comment/1675695189447#comments)
 
   > 可以数据库存 MD，渲染走服务端用 Lute
-* 💬 [Vditor md2HTML 后锚点定位不生效](https://ld246.com/article/1675675932915/comment/1675692643211#comments)
-
-  > 保存 HTML 的话，五线谱、图表等可能会出现问题。 html2md 时 new Vditor 实例上的方法
 
 
 <!--events end -->
