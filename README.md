@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-27 08:42:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-02-28 08:42:27`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [思源笔记 PDF 的标记功能能不能默认先使用一种颜色？](https://ld246.com/article/1676616109890/comment/1677491036988#comments)
+
+  > 嗯，这个可以使用矩形标注功能。
 * 🗣 [PDF 阅读分屏建议](https://ld246.com/article/1677334174045/comment/1677339930569#comments)
 
   > 感谢反馈，已经记录，后期改进 [链接]
@@ -31,9 +34,6 @@
 * 💬 [PDF 导出优化](https://ld246.com/article/1676382396561/comment/1677294583688#comments)
 
   > 感谢反馈，后期改进 [链接]
-* 🗣 [思源笔记 PDF 的标记功能能不能默认先使用一种颜色？](https://ld246.com/article/1676616109890/comment/1677214494207#comments)
-
-  > 你指的是左上角的矩形标注功能么？
 
 
 <!--events end -->
