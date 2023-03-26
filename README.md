@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-03-25 08:38:27`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-03-26 08:41:55`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Solo 皮肤开发指南](https://ld246.com/article/1493814851007/comment/1679667963950#comments)
+
+  > 没有哦
 * 🗣 [MAC 客户端当天日志莫名其妙会出现一个“5”](https://ld246.com/article/1679618995926/comment/1679637815208#comments)
 
   > 还是无法重现，你的 Mac OS 版本是？
@@ -31,9 +34,6 @@
 * 💬 [MAC 客户端当天日志莫名其妙会出现一个“5”](https://ld246.com/article/1679618995926/comment/1679621351336#comments)
 
   > 无法重现，你的输入法是？
-* 🗣 [一个笔记中有多个 mermaid 思维导图会出现显示问题 -Siyuan2.8](https://ld246.com/article/1679482894435/comment/1679537377852#comments)
-
-  > 麻烦看一下帮助文档是否正常，正常的话请发送一下有问题的 .sy 文件到 845765@qq.com。谢谢
 
 
 <!--events end -->
