@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-20 08:36:36`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-21 08:37:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [2.8.5 新版设置顶栏太上不是很美观](https://ld246.com/article/1681803790986/comment/1681911375664#comments)
+
+  > 嗯嗯，发现可以改进的点都会进行优化的。欢迎提出更细节的建议。
 * 🗣 [2.8.5 新版设置顶栏太上不是很美观](https://ld246.com/article/1681803790986/comment/1681819507062#comments)
 
   > @EberhardLin 这个可能还需要再想想，有些不太好分，比如资源其实没有设置，只是清理。
@@ -31,9 +34,6 @@
 * 💗📝 [新窗口下打开大纲 bug](https://ld246.com/article/1681806412774)
 
   > [图片] 新窗口下按 alt+o 打开大纲，不能显示文档页签，而且顶部有空白
-* 🗣 [提示无法关闭，影响体验](https://ld246.com/article/1681798241794/comment/1681798510067#comments)
-
-  > 提示会有很多个，这个是关闭所有提示的。如果离太近可能会误以为是关闭最后一个。
 
 
 <!--events end -->
