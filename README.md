@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-24 08:38:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-25 08:38:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [对于移动端搜索的改进提议](https://ld246.com/article/1682242761514/comment/1682247912304#comments)
+
+  > 低栏可以考虑一下
+* 🗣 [对于移动端搜索的改进提议](https://ld246.com/article/1682242761514/comment/1682248390164#comments)
+
+  > 正常滚动编辑器无意间弹出搜索怕是不太好
+* 🗣 [2.8.1 PDF 标注不能用](https://ld246.com/article/1680079869375/comment/1682306194946#comments)
+
+  > 浅色主题没这些问题吧？
 * 💬 [对于移动端搜索的改进提议](https://ld246.com/article/1682242761514/comment/1682247047036#comments)
 
   > 如果使用命名查询进行保存和修改是否会好一点。左侧主要是放 pc 端的 dock 面板
@@ -25,15 +34,6 @@
 * 🗣 [分屏能不能在侧边栏增加一个按钮？](https://ld246.com/article/1679428185556/comment/1682082867611#comments)
 
   > @xnyshu 右下角打开开发者工具
-* 💬 [深色模式下 PDF 中无法看见标注](https://ld246.com/article/1682172993873/comment/1682213967881#comments)
-
-  > 请更新到最新版本后调整 PDF 模式再看看。
-* 💬 [思源的移动端改进是结束了吗？](https://ld246.com/article/1682163196975/comment/1682213898176#comments)
-
-  > 文档内搜索后续改进 [链接]，搜索条件下个版本修改了和 PC 端一致：使用命名查询后，搜索条件会一直使用命名查询的。清空后则保留上一次的。
-* 🗣 [2.8.5 新版设置顶栏太上不是很美观](https://ld246.com/article/1681803790986/comment/1682171690357#comments)
-
-  > 嗯嗯，看到不合适的地方目前都有在逐步修改。
 
 
 <!--events end -->
