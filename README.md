@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-26 08:38:14`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-04-27 08:40:27`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [思源笔记宽度发生变化时文章内容发生大幅跳转](https://ld246.com/article/1682412185056/comment/1682428727344#comments)
+
+  > 拖动过程中最上一块的位置会根据自适应不断变化，外加没有提供 beforeResize 和 afterResize 方法，因此无法记录。
+* 💬 [当在 PDF 内点击无法访问的链接时，软件白屏无法操作](https://ld246.com/article/1682409477657/comment/1682471304189#comments)
+
+  > 对了，问一下这个地址是怎么来的？是手输的，还是什么自动生成的？
 * 💗📝 [当在 PDF 内点击无法访问的链接时，软件白屏无法操作](https://ld246.com/article/1682409477657)
 
   > 如视频所示，点击链接后无法访问，没有任何返回的方式，只能通过任务管理器强制关闭 [视频]
@@ -28,12 +34,6 @@
 * 🗣 [对于移动端搜索的改进提议](https://ld246.com/article/1682242761514/comment/1682247912304#comments)
 
   > 低栏可以考虑一下
-* 🗣 [对于移动端搜索的改进提议](https://ld246.com/article/1682242761514/comment/1682248390164#comments)
-
-  > 正常滚动编辑器无意间弹出搜索怕是不太好
-* 🗣 [2.8.1 PDF 标注不能用](https://ld246.com/article/1680079869375/comment/1682306194946#comments)
-
-  > 浅色主题没这些问题吧？
 
 
 <!--events end -->
