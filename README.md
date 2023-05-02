@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-01 08:43:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-02 08:38:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [建议移动端在块引跳转时去掉圈圈加载的显示](https://ld246.com/article/1682833271719/comment/1682865811642#comments)
+
+  > 这样的话，加载的圆圈可以延迟 1s 左右再出现，如果时间太短就不出现了？
 * 💬 [无线端题头图 bug 反馈](https://ld246.com/article/1682827779325/comment/1682863782662#comments)
 
   > 感谢反馈，后期改进 [链接]
@@ -31,9 +34,6 @@
 * 💗💬 [一个小建议：[[ 调出来引用列表时，包含当前页的标题，这样的好处是方便移动到其他页面下](https://ld246.com/article/1682575804598/comment/1682580423283#comments)
 
   > 看起来跟搜索排序规则有关，那我只能到页面标题，Ctrl+Shift+C 复制引用，来使用了 😄
-* 🗣 [当在 PDF 内点击无法访问的链接时，软件白屏无法操作](https://ld246.com/article/1682409477657/comment/1682471304189#comments)
-
-  > @lhx423 这个地址和思源的链接相同，不太好识别。所以还想问问 ppt 里面的地址又是怎么来的呢？
 
 
 <!--events end -->
