@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-14 08:40:28`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-15 08:39:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1684050536349#comments)
+
+  > 我这里是正常的，你看一下是不是返回的 originalURL 不符合要求
+* 💗💬 [两个小问题反馈](https://ld246.com/article/1683879149632/comment/1683973093056#comments)
+
+  > V 姐，今天试了下设置中的搜索，发现还有一些搜不到的 编辑器中的“动态加载块数”和“块引动态锚文本最大长度” 闪卡下的全部选项 导出中的“添加文档标题”和“导出 Markdown 添加 YFM” 以上选项不是所有关键词都搜不到。 比如搜“动态”，是搜不到内容的； 但是搜“渲染”或者“块”，则会出现“动态加载块数”和“块 ..
 * 🗣 [两个小问题反馈](https://ld246.com/article/1683879149632/comment/1683904463379#comments)
 
   > @Reader 客气了，搜索如果还有什么无法搜到的继续说哦 😄
@@ -28,12 +34,6 @@
 * 🗣 [鼠标移上显示的 &lt;Alt+Enter&gt; 这个浮动工具栏有啥用呢, 能禁用么](https://ld246.com/article/1639104581868/comment/1644993410796#comments)
 
   > @yahuian 看一下重置 CSS 行不行
-* 🗣 [大纲 Bug，点击标题不能到指定标题](https://ld246.com/article/1683893859282/comment/1683898375670#comments)
-
-  > 嗯嗯
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1683463810375#comments)
-
-  > @iamqiz 复制链接后再粘贴变为一个链接，具体可以复制后 ctrl+k 试一下
 
 
 <!--events end -->
