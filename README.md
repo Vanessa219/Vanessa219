@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-27 08:40:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-28 08:41:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记 MAC 版本 按住 CMD+ 滚轮调整字体大小的功能容易误按](https://ld246.com/article/1685072630330/comment/1685196646174#comments)
+
+  > 参见 [链接]，下个版本改进。
 * 💬 [搜索中的查询条件优化](https://ld246.com/article/1685018695418/comment/1685024725636#comments)
 
   > 这个已经讨论在 [链接] 讨论过了，目前还没有比较好的解决方案。
@@ -31,9 +34,6 @@
 * 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1684973244265#comments)
 
   > 移动端屏蔽了斜杠菜单，所以无法渲染出来
-* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1684923311403#comments)
-
-  > 目前还没有对应的设备，只能先顶顶了。
 
 
 <!--events end -->
