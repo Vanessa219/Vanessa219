@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-05-31 08:43:28`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-01 08:53:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685531054636#comments)
+
+  > 单元格无法缩进，只有列表可以。渲染为移动端的话使用底部工具栏，否则使用 tab。
 * 💬 [思源笔记 MAC 版本 按住 CMD+ 滚轮调整字体大小的功能容易误按](https://ld246.com/article/1685072630330/comment/1685196646174#comments)
 
   > 参见 [链接]，下个版本改进。
@@ -31,9 +34,6 @@
 * 🗣 [已关闭的笔记本：仍然出现虚拟引用](https://ld246.com/article/1684676062113/comment/1684817598435#comments)
 
   > @JINSILI 和 [链接] 是一个问题？
-* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1684973244265#comments)
-
-  > 移动端屏蔽了斜杠菜单，所以无法渲染出来
 
 
 <!--events end -->
