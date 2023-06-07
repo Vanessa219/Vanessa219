@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-06 08:45:00`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-07 08:45:31`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1686045314423#comments)
+
+  > 目前只有思源有插件
 * 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685583390181#comments)
 
   > 桌面端外接键盘和 Tab 都不能用么？
@@ -31,9 +34,6 @@
 * 🗣 [2.8.9 缺陷汇总](https://ld246.com/article/1684818799160/comment/1684939574337#comments)
 
   > 这样点击了以后焦点会到输入框中，可以使用上下键和回车进行操作
-* 🗣 [版本 2.89：虚拟引用 shift + 悬浮 无法展示反向链接，和 ctrl + 悬浮 一样](https://ld246.com/article/1684904979791/comment/1684943412477#comments)
-
-  > 不按住 shift 就可以了
 
 
 <!--events end -->
