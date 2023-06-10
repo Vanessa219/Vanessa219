@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-09 08:46:29`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-10 08:41:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [使用 (( 新建文档块，ctrl+shift+v 的粘贴方式不会触发](https://ld246.com/article/1686314115355)
+
+  > ctrl+v 可以触发，ctrl+shift+v 不会触发 因为有时候复制的是带样式的文本，所以需要 ctrl+shift+v
+* 💬 [使用 (( 新建文档块，ctrl+shift+v 的粘贴方式不会触发](https://ld246.com/article/1686314115355/comment/1686320936469#comments)
+
+  > 感谢反馈，下个版本改进 [链接]
+* 💗📝 [bug: 2.90 版本，点击三次文字无法同时选中，光标会跳动到块的最前方](https://ld246.com/article/1686065237701)
+
+  > 如题所示 @88250 @Vanessa
+* 💬 [bug: 2.90 版本，点击三次文字无法同时选中，光标会跳动到块的最前方](https://ld246.com/article/1686065237701/comment/1686316869949#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 🗣 [建议预览模式能使用大纲进行页面跳转](https://ld246.com/article/1633320460004/comment/1686235362882#comments)
+
+  > 好的，继续打开该 issue，后续改进
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1686045314423#comments)
 
   > 目前只有思源有插件
@@ -19,21 +34,6 @@
 * 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685531054636#comments)
 
   > 单元格无法缩进，只有列表可以。渲染为移动端的话使用底部工具栏，否则使用 tab。
-* 💬 [思源笔记 MAC 版本 按住 CMD+ 滚轮调整字体大小的功能容易误按](https://ld246.com/article/1685072630330/comment/1685196646174#comments)
-
-  > 参见 [链接]，下个版本改进。
-* 💬 [搜索中的查询条件优化](https://ld246.com/article/1685018695418/comment/1685024725636#comments)
-
-  > 这个已经讨论在 [链接] 讨论过了，目前还没有比较好的解决方案。
-* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685009175715#comments)
-
-  > 意思是启动的时候是正常的显示 PC 端的界面，但分屏了以后就变为移动端？
-* 🗣 [Vditor 快捷键](https://ld246.com/article/1582778815353/comment/1685006145461#comments)
-
-  > 你重置 css 试一下
-* 🗣 [2.8.9 缺陷汇总](https://ld246.com/article/1684818799160/comment/1684939574337#comments)
-
-  > 这样点击了以后焦点会到输入框中，可以使用上下键和回车进行操作
 
 
 <!--events end -->
