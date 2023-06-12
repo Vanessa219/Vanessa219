@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-11 08:48:35`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-12 08:46:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [如下图所示，三栏式布局：可能是插件导致的偶然，但是真的很不错](https://ld246.com/article/1686486119758/comment/1686497480742#comments)
+
+  > 可把右侧按钮移动到左侧就不会显示了
 * 💗📝 [使用 (( 新建文档块，ctrl+shift+v 的粘贴方式不会触发](https://ld246.com/article/1686314115355)
 
   > ctrl+v 可以触发，ctrl+shift+v 不会触发 因为有时候复制的是带样式的文本，所以需要 ctrl+shift+v
@@ -31,9 +34,6 @@
 * 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685583390181#comments)
 
   > 桌面端外接键盘和 Tab 都不能用么？
-* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685531054636#comments)
-
-  > 单元格无法缩进，只有列表可以。渲染为移动端的话使用底部工具栏，否则使用 tab。
 
 
 <!--events end -->
