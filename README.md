@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-15 08:43:00`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-16 08:44:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [部分图标失效，外观设置是否删除了某项？](https://ld246.com/article/1686035012818/comment/1686632129829#comments)
+
+  > 用插件试试
+* 💬 [关于思源笔记 KaTex 渲染问题](https://ld246.com/article/1686820148408/comment/1686828629952#comments)
+
+  > 这个官网上也有相同的问题，需要等他们解决 [图片]
 * 💬 [如下图所示，三栏式布局：可能是插件导致的偶然，但是真的很不错](https://ld246.com/article/1686486119758/comment/1686497480742#comments)
 
   > 可把右侧按钮移动到左侧就不会显示了
@@ -28,12 +34,6 @@
 * 🗣 [建议预览模式能使用大纲进行页面跳转](https://ld246.com/article/1633320460004/comment/1686235362882#comments)
 
   > 好的，继续打开该 issue，后续改进
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1686045314423#comments)
-
-  > 目前只有思源有插件
-* 🗣 [平板端竖屏外接键盘输“/”无法唤出菜单](https://ld246.com/article/1684415144501/comment/1685583390181#comments)
-
-  > 桌面端外接键盘和 Tab 都不能用么？
 
 
 <!--events end -->
