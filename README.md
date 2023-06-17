@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-16 08:44:12`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-17 08:40:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [部分图标失效，外观设置是否删除了某项？](https://ld246.com/article/1686035012818/comment/1686632129829#comments)
+
+  > @larryggao 给插件提 issue，或者再换个插件试试
 * 🗣 [部分图标失效，外观设置是否删除了某项？](https://ld246.com/article/1686035012818/comment/1686632129829#comments)
 
   > 用插件试试
@@ -31,9 +34,6 @@
 * 💬 [bug: 2.90 版本，点击三次文字无法同时选中，光标会跳动到块的最前方](https://ld246.com/article/1686065237701/comment/1686316869949#comments)
 
   > 感谢反馈，下个版本修复 [链接]
-* 🗣 [建议预览模式能使用大纲进行页面跳转](https://ld246.com/article/1633320460004/comment/1686235362882#comments)
-
-  > 好的，继续打开该 issue，后续改进
 
 
 <!--events end -->
