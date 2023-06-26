@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-25 08:53:48`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-26 08:50:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗💬 [求教：日记存放路径是什么意思，怎么改回正常的 daily note？](https://ld246.com/article/1687668229768/comment/1687674172003#comments)
+
+  > 在对应的笔记本菜单下点设置，然后看对应的日记路径，想要换回默认的，可以新建一个笔记本看下默认的 [图片]
 * 🗣 [【BUG】设置搜索](https://ld246.com/article/1687330375058/comment/1687563082201#comments)
 
   > 这个和搜索 居中 是一个道理。
@@ -31,9 +34,6 @@
 * 💬 [【BUG】设置搜索](https://ld246.com/article/1687330375058/comment/1687358778371#comments)
 
   > 这是为了方便搜索快捷键
-* 💬 [【功能建议】文档树增强](https://ld246.com/article/1687340854014/comment/1687358731030#comments)
-
-  > 展开折叠可以使用左右键
 
 
 <!--events end -->
