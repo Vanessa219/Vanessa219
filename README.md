@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-26 08:50:48`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-06-27 08:48:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [任务列表输入分割线后就不能够再输入了](https://ld246.com/article/1687697297708/comment/1687796451417#comments)
+
+  > 分割线这个块是无法进行编辑的，光标在该位置只是方便对分割线的操作。
 * 💗💬 [求教：日记存放路径是什么意思，怎么改回正常的 daily note？](https://ld246.com/article/1687668229768/comment/1687674172003#comments)
 
   > 在对应的笔记本菜单下点设置，然后看对应的日记路径，想要换回默认的，可以新建一个笔记本看下默认的 [图片]
@@ -31,9 +34,6 @@
 * 💗🗣 [【BUG】设置搜索](https://ld246.com/article/1687330375058/comment/1687438392602#comments)
 
   > 用具体的键或者功能去搜索
-* 💬 [【BUG】设置搜索](https://ld246.com/article/1687330375058/comment/1687358778371#comments)
-
-  > 这是为了方便搜索快捷键
 
 
 <!--events end -->
