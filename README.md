@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-07-01 08:53:45`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-07-02 08:52:02`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [分享个优化小点](https://ld246.com/article/1688208715598/comment/1688209711647#comments)
+
+  > 有代码块的话可以使用 ctrl+shift+v，小 bug 无法重现，是否之前做过什么操作？
 * 💗📝 [强烈建议预览模式 ctrl+ 鼠标点击可以跳转到文件所在位置](https://ld246.com/article/1687957869375)
 
   > [图片] 因为经常需要发条款文件给客户 但在预览模式下 发现 ctrl+ 鼠标点击 是打开文件 但如果切回编辑模式 再去找到同样位置 点击一下 又会很麻烦 所以希望预览模式下 可以支持 ctrl+ 鼠标点击 打开文件所在位置 十分感谢
@@ -31,9 +34,6 @@
 * 🗣 [任务列表输入分割线后就不能够再输入了](https://ld246.com/article/1687697297708/comment/1687821251531#comments)
 
   > 感谢反馈，下个版本改进 [链接]
-* 📝 [赠送 Parallels Desktop 激活码](https://ld246.com/article/1687831240712)
-
-  > 买电脑送了个 Parallels Desktop 激活码，但是自己用不上。 如有需要的话可按照打赏区进行操作，第一个操作的用户可获取激活码哦 [图片]
 
 
 <!--events end -->
