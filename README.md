@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-06 08:33:31`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-06 19:54:05`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v2.10.3 PDF 标注的 BUG](https://ld246.com/article/1693907895080/comment/1693971314985#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗📝 [v2.10.3 PDF 标注的 BUG](https://ld246.com/article/1693907895080)
+
+  > 明亮模式下没有问题。 暗黑模式下，PDF 标注失效了。如下录屏： [视频]
 * 💬 [安卓 app 滑动 bug](https://ld246.com/article/1693898737852/comment/1693921123739#comments)
 
   > 感谢反馈，下个版本修复 [链接]
@@ -28,12 +34,6 @@
 * 💬 [建议：稍微调整二级菜单](https://ld246.com/article/1693479725920/comment/1693570297454#comments)
 
   > 应该是有滚动条的情况才会不贴边。刚才修改为贴边的，但鼠标滑动时滚动条会闪动，很影响使用 [视频]
-* 💬 [【功能建议】希望优化一下手机端的图片显示比例](https://ld246.com/article/1693396083945/comment/1693453784494#comments)
-
-  > 这个目前还没想到优化的方案，如果把 33% 在移动端移除，那么用户在移动端设置百分比宽度就无法看到效果。
-* 💬 [导出为 pdf 时，LaTex 公式会被折叠](https://ld246.com/article/1692947255480/comment/1692958812763#comments)
-
-  > 我这里会等比缩小公式，你是进行过什么配置么？ [图片]
 
 
 <!--events end -->
