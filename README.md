@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-05 08:32:48`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-06 08:33:31`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [安卓 app 滑动 bug](https://ld246.com/article/1693898737852/comment/1693921123739#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
+* 💗📝 [安卓 app 滑动 bug](https://ld246.com/article/1693898737852)
+
+  > 安卓 app，编辑界面左滑或右划操作之后，出现的页面变灰卡死，使用左上角和右上角的按钮跳转页面则不影响
 * 🗣 [移动端 3 条优化建议](https://ld246.com/article/1693474636852/comment/1693576173575#comments)
 
   > 当滑动到代码块滚动条极限时继续滑动才会拉出左右菜单。
@@ -28,12 +34,6 @@
 * 💬 [导出为 pdf 时，LaTex 公式会被折叠](https://ld246.com/article/1692947255480/comment/1692958812763#comments)
 
   > 我这里会等比缩小公式，你是进行过什么配置么？ [图片]
-* 💬 [当代码长度超出编辑器宽度时，代码块的代码区域和代码行区域高度不一致](https://ld246.com/article/1692947790467/comment/1692949807688#comments)
-
-  > 有滚动条的时候，滚动条会多出一部分位置。
-* 💬 [列表聚焦后使用 ctrl+z 后产生的 bug 以及建议](https://ld246.com/article/1692674670997/comment/1692932283349#comments)
-
-  > 感谢反馈，后续改进 [链接]
 
 
 <!--events end -->
