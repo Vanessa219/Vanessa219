@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-23 08:32:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-24 08:36:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [【BUG】搜索界面页面数显示错误](https://ld246.com/article/1695205118504/comment/1695358997888#comments)
+
+  > @ilovesiyuan 呃，要不画个图？
 * 🗣 [【BUG】搜索界面页面数显示错误](https://ld246.com/article/1695205118504/comment/1695358997888#comments)
 
   > 这是光标在搜索框中，左右需要移动搜索文本
@@ -31,9 +34,6 @@
 * 💬 [反馈：iPad 上大纲位置；页签保存](https://ld246.com/article/1695204944772/comment/1695266122831#comments)
 
   > 感谢反馈，下个版本改进 [链接] 由于设备问题还麻烦下个版本再帮忙看看，谢谢。
-* 🗣 [图片在缩放等操作后会在顶部多出一个空行的空间](https://ld246.com/article/1695116415931/comment/1695175317300#comments)
-
-  > @xnyshu 以前字号是多少？ 我把所在段落块的自号改为 29 后按照昨天说的步骤依旧无法重现
 
 
 <!--events end -->
