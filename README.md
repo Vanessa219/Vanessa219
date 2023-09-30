@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-29 08:34:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-09-30 08:33:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [在搜索面板里面中关于新建 page 的情况](https://ld246.com/article/1695965429553/comment/1695995165128#comments)
+
+  > 看了下代码，并没有使用配置，下个版本改进 [链接]
 * 💗💬 [最新版本移动端无法通过删除键删除分割线，只能长按分割线删除](https://ld246.com/article/1695541984543/comment/1695813427402#comments)
 
   > @Vanessa 大佬们，问题更严重了，移动端现在用删除键删除分割线，键盘直接自动关闭
@@ -31,9 +34,6 @@
 * 🗣 [【下个版本修复】搜索界面页面数显示错误](https://ld246.com/article/1695205118504/comment/1695524300517#comments)
 
   > @ilovesiyuan 编辑器中 ctrl+ 上 是折叠，会冲突的
-* 🗣 [【下个版本修复】搜索界面页面数显示错误](https://ld246.com/article/1695205118504/comment/1695524300517#comments)
-
-  > @ilovesiyuan 或许可以加个辅助键，比如 ctl+ 左/右
 
 
 <!--events end -->
