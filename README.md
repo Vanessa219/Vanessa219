@@ -6,7 +6,7 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-10-01 08:39:14`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-10-02 08:34:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
@@ -22,7 +22,7 @@
 * 💬 [代码块在特殊位置粘贴后显示异常](https://ld246.com/article/1696056074322/comment/1696075306909#comments)
 
   > 感谢反馈，下个版本修复 [链接] 顺便问一下 代码块语言是怎么弄为 undefined 的？
-* 💬 [中秋快乐，反馈个 Bug](https://ld246.com/article/1695957826032/comment/1696051900678#comments)
+* 💬 [中秋快乐，iOS 17.0.2 使用 Sidebar 下的菜单点击无效](https://ld246.com/article/1695957826032/comment/1696051900678#comments)
 
   > 终于升级好了，16 的最后一个版本都还是好的。下个版本看看能不能修复 [链接]
 * 💗📝 [小白求助，仅块标的提示关闭](https://ld246.com/article/1695994594526)
