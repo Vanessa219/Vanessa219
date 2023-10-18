@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-10-17 08:34:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-10-18 08:34:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [超链接 删空锚文本后 默认为 * 号](https://ld246.com/article/1697304554851/comment/1697513356362#comments)
+
+  > 感谢反馈，下个版本改进 [链接]
+* 💗📝 [超链接 删空锚文本后 默认为 * 号](https://ld246.com/article/1697304554851)
+
+  > 希望可以保持与 pdf 的一致
 * 🗣 [表格的图文排版什么时候能优化一下啊？](https://ld246.com/article/1690555777162/comment/1697326786888#comments)
 
   > 好的，有问题再 at 我。
@@ -28,12 +34,6 @@
 * 🗣 [2.10.8 自定义 SVG 图标不显示](https://ld246.com/article/1697031777567/comment/1697082018905#comments)
 
   > 看来是的，@Sharpness3336 发我的也是可以显示的
-* 💬 [2.10.8 自定义 SVG 图标不显示](https://ld246.com/article/1697031777567/comment/1697081231730#comments)
-
-  > 我的 svg 是这样的，你们的发我看看 [链接]
-* 💬 [2.10.8 自定义 SVG 图标不显示](https://ld246.com/article/1697031777567/comment/1697040377086#comments)
-
-  > 我的是可以的，你看一下 network 里面的访问地址 [图片]
 
 
 <!--events end -->
