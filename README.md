@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-01 08:37:03`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-02 08:34:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [块菜单区域太大](https://ld246.com/article/1698742398737/comment/1698756078451#comments)
+
+  > 这个距离是在应用被拖窄或分屏的情况下也比较适中的一个距离。
 * 💬 [块菜单区域太大](https://ld246.com/article/1698742398737/comment/1698752516585#comments)
 
   > [图片] 我这感觉很远呀。
@@ -31,9 +34,6 @@
 * 🗣 [【dev 问题】数据库列宽度不会保存，关闭文档再打开依然会恢复为默认](https://ld246.com/article/1698591240662/comment/1698625235510#comments)
 
   > @ciwoyipang 才 2 次，不高频，😄
-* 🗣 [【dev 问题】数据库列宽度不会保存，关闭文档再打开依然会恢复为默认](https://ld246.com/article/1698591240662/comment/1698625235510#comments)
-
-  > 应该不会经常修改类型吧
 
 
 <!--events end -->
