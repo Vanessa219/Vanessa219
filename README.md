@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-09 08:34:58`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-10 08:34:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [关于数据表格调整列宽时左边空白的问题](https://ld246.com/article/1699530609541/comment/1699532676379#comments)
+
+  > 左边是勾选框，为了美观，进行了隐藏。字段和 Excel 一样都不可以动哦。
+* 💬 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699518683693#comments)
+
+  > 应该是这样才对，你的为什么会有一个 style 呢？ [图片]
+* 💬 [上次分屏块标提示的问题还有这一种现象能再次优化下吗](https://ld246.com/article/1699423849916/comment/1699502919225#comments)
+
+  > 这个在 windows 和 mac 上都无法重现 [视频]
+* 🗣 [关于数据库表格的一个问题](https://ld246.com/article/1699151270454/comment/1699365140171#comments)
+
+  > 目前设置为 58px
 * 🗣 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699332979224#comments)
 
   > 我就是这样操作的，你禁用所有插件，然后使用默认主题再试试。
@@ -22,18 +34,6 @@
 * 🗣 [数据库拖拽按钮消失](https://ld246.com/article/1699077234816/comment/1699089601194#comments)
 
   > 感谢反馈，下个版本改进
-* 🗣 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699114366867#comments)
-
-  > 你说的是块级公式吧？我用 esc 退出公式编辑框后，块级公式会高亮，行级公式光标会在其后面。
-* 💗💬 [图片尺寸小问题](https://ld246.com/article/1699023470136/comment/1699270491967#comments)
-
-  > @88250 D 大那边还是不能复现吗？
-* 🗣 [图片尺寸小问题](https://ld246.com/article/1699023470136/comment/1699270491967#comments)
-
-  > 可以了，下个版本改进 [链接]
-* 💬 [1.2.5 alpha5 有长批注的图片调整手柄不跟随图片大小调整位置](https://ld246.com/article/1629013139960/comment/1699283112251#comments)
-
-  > 由于 [链接] ，该问题只能回滚，待后续找到合适的方法再进行改进。抱歉。
 
 
 <!--events end -->
