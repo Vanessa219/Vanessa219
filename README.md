@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-16 08:36:30`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-17 08:36:23`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [什么都不选择时 Ctrl+c 会复制整行](https://ld246.com/article/1700052173008/comment/1700066924196#comments)
+* 💗🗣 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700130425132#comments)
 
-  > 没有选中内容的时候为什么要 ctrl+c 呢？看了一下 notion 也是复制整个块的。
-* 🗣 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699518683693#comments)
+  > @Vanessa 那就把「设置」改为「管理」？更贴近实际含义
+* 🗣 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700130425132#comments)
 
-  > @EmptyLight 好的，感谢理解。
-* 🗣 [关于导出 PDF 的一些建议](https://ld246.com/article/1700050071695/comment/1700051016832#comments)
+  > 界面是一样，但是鼠标移到右上角图标的时候显示的是插件，点击后出现集市选项，范围不太对。
+* 🗣 [Siyuan Android 有不少的時候很難顯示 Notebook 下的筆記，求改善](https://ld246.com/article/1700106326188/comment/1700108733500#comments)
 
-  > 导出 PDF 是基于 Electron 的，docker 没有办法哦，可以导出 HTML SiYuan 后用浏览器的打印功能
-* 💬 [关于导出 PDF 的一些建议](https://ld246.com/article/1700050071695/comment/1700061126901#comments)
+  > 点击 notebook 都是展开，不会进行跳转。具体是什么样的 notebook 难点开呢？
+* 💬 [为什么列表制作闪卡后，在复习的时候，第一个列表项不被识别成问题呢？](https://ld246.com/article/1700125160436/comment/1700129368230#comments)
 
-  > 我导出为 HTML（Siyuan） 后用 Chrome 打印，无论怎么设置都无法在同一页。我们的导出 PDF 是基于这个的，目前没有办法进行改进。 字体可以使用代码片段，加入以下代码试试。 body &gt; #preview {font-family:xxx}
-* 🗣 [如何在进入编辑页面时就可以调用图中的预览功能](https://ld246.com/article/1699953476242/comment/1699953529799#comments)
+  > 这样做的话，如果有用户在闪卡中并不想展开这个列表，就没办法双方都满足了。不行的话就写个 css 代码片段吧。
+* 🗣 [vditor 本地图片和文字混合粘贴上传本地图片](https://ld246.com/article/1631783404035/comment/1700127156119#comments)
 
-  > @north999 可以的，使用 md 就可以了
-* 🗣 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699518683693#comments)
+  > 图片使用 md 链接，剪贴板内容如下即可贴入文字和图片： test ![title](url)
+* 💬 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700127392766#comments)
 
-  > @EmptyLight 应该是解决不了，新的改动会影响其他问题，我回滚代码了。抱歉。 dc7f7630545649d4b950964f1bedb7d4cec907cf
-* 🗣 [如何在进入编辑页面时就可以调用图中的预览功能](https://ld246.com/article/1699953476242/comment/1699953529799#comments)
+  > 这个只有已安装的插件，先这样吧。
+* 🗣 [什么都不选择时 Ctrl+c 会复制整行](https://ld246.com/article/1700052173008/comment/1700066924196#comments)
 
-  > 不进行操作的话直接渲染为文章即可，不需要使用编辑器。可参照 [链接]
-* 🗣 [2.10.13 行级公式块问题](https://ld246.com/article/1698932173040/comment/1699518683693#comments)
+  > @jasonzoe 在这些软件上换个快捷键吧，IDE 和其他笔记软件都是这样的。
+* 🗣 [什么都不选择时 Ctrl+c 会复制整行](https://ld246.com/article/1700052173008/comment/1700066924196#comments)
 
-  > @EmptyLight 好的，新版测试以后还是给我一个反馈。 谢谢。
+  > @jasonzoe autohotkey 可以换一个选词的快捷键么？毕竟这个是复制呀
 
 
 <!--events end -->
