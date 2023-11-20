@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-19 08:39:12`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-20 08:36:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [代码文本前面删除，如果没有文字光标会跳进代码语法](https://ld246.com/article/1700203496548)
+
+  > 用 `` 语法创建的代码文本。 [图片] 在代码文本前删除，光标会跳进代码文本里。 [图片] 其实这个问题一般也很少遇到啦，发个贴给官方说一下。
+* 💬 [代码文本前面删除，如果没有文字光标会跳进代码语法](https://ld246.com/article/1700203496548/comment/1700378055853#comments)
+
+  > 感谢反馈，下个版本改进 [链接]
 * 💗🗣 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700130425132#comments)
 
   > @Vanessa 那就把「设置」改为「管理」？更贴近实际含义
@@ -28,12 +34,6 @@
 * 💬 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700127392766#comments)
 
   > 这个只有已安装的插件，先这样吧。
-* 🗣 [什么都不选择时 Ctrl+c 会复制整行](https://ld246.com/article/1700052173008/comment/1700066924196#comments)
-
-  > @jasonzoe 在这些软件上换个快捷键吧，IDE 和其他笔记软件都是这样的。
-* 🗣 [什么都不选择时 Ctrl+c 会复制整行](https://ld246.com/article/1700052173008/comment/1700066924196#comments)
-
-  > @jasonzoe autohotkey 可以换一个选词的快捷键么？毕竟这个是复制呀
 
 
 <!--events end -->
