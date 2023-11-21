@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-20 08:36:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-21 08:36:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [剪切保留块 id](https://ld246.com/article/1629457831021/comment/1629474973004#comments)
+
+  > @mark-j 我们 id 不能重复的，因此不会进行保留
 * 💗📝 [代码文本前面删除，如果没有文字光标会跳进代码语法](https://ld246.com/article/1700203496548)
 
   > 用 `` 语法创建的代码文本。 [图片] 在代码文本前删除，光标会跳进代码文本里。 [图片] 其实这个问题一般也很少遇到啦，发个贴给官方说一下。
@@ -31,9 +34,6 @@
 * 🗣 [vditor 本地图片和文字混合粘贴上传本地图片](https://ld246.com/article/1631783404035/comment/1700127156119#comments)
 
   > 图片使用 md 链接，剪贴板内容如下即可贴入文字和图片： test ![title](url)
-* 💬 [建议将插件按钮下的「设置」字样改为「集市」](https://ld246.com/article/1700112207945/comment/1700127392766#comments)
-
-  > 这个只有已安装的插件，先这样吧。
 
 
 <!--events end -->
