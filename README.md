@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-25 08:34:38`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-11-26 08:38:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [关于全局锁定（只读）目前的暂定方案，请社区投票](https://ld246.com/article/1700817185016/comment/1700903557633#comments)
+
+  > 已修改，各位稍后可前往 dev 版本体验。
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1700793698232#comments)
+
+  > 可参考 [链接]
 * 🗣 [代码片段解决图片插入后默认新增一行以输入文字的问题](https://ld246.com/article/1692254723415/comment/1700816933015#comments)
 
   > 使用斜杠弹出的插入图片或文件么？我这里是正常的，使用默认主题试试
@@ -28,12 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1700739986926#comments)
 
   > 示例代码用代码块重新发一下吧
-* 🗣 [数据库表格视图添加行后输入框出现在顶部](https://ld246.com/article/1700537839021/comment/1700705591432#comments)
-
-  > 有用户是不建立引用的。复杂的方案就先不考虑了。
-* 🗣 [数据库数字列编辑没反应](https://ld246.com/article/1700619560995/comment/1700705209927#comments)
-
-  > 这个问题已经修复，不建议这样使用，否则会影响筛选功能或其他功能。
 
 
 <!--events end -->
