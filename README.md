@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-01 08:40:04`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-02 08:35:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
+
+  > @Vanessa 反正现在也没打算改界面，那就明年，明年不改就后年——移动端很难用总得改的 😏
+* 💗🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
+
+  > @Vanessa 以目前思源的交互，加上下移动的位置是差不多的。
+* 💗📝 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470)
+
+  > 思源安卓怎么软换行？
+* 🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
+
+  > @ciwoyipang [链接]
+* 🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
+
+  > @a2930610542 目前只能提一点改一点了。
 * 💗📝 [调整文档树的文档图标时，文档树缩回去了](https://ld246.com/article/1701343432999)
 
   > [视频]
@@ -19,21 +34,6 @@
 * 🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
 
   > 加哪呀？上下移动的后面？
-* 🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
-
-  > @a2930610542 是要大改成什么样？怎么我不知道
-* 🗣 [两个表格之间文档锁定解锁会增加间距](https://ld246.com/article/1701242708814/comment/1701245057977#comments)
-
-  > @a2930610542 git 的 revision number，由于没有建立 issue，方便后期查找。
-* 🗣 [几个样式相关提议](https://ld246.com/article/1700965006430/comment/1701311212599#comments)
-
-  > @svchord dev 分支上已修改好，可以拉下来看看。
-* 💗💬 [几个样式相关提议](https://ld246.com/article/1700965006430/comment/1701311212599#comments)
-
-  > 感觉还行，起码剩下的我都能靠 css 搞定了。不过总觉得翻页按钮放在最上面挺奇怪的
-* 🗣 [几个样式相关提议](https://ld246.com/article/1700965006430/comment/1701311212599#comments)
-
-  > 那就先这样吧，下个版本改进 [链接]，不放上面的话暂时找不到其他地方了。
 
 
 <!--events end -->
