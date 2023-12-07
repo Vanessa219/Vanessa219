@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-05 08:37:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-07 08:36:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [v2.11.0 使用 PDF「矩形标注」时，某些页面标注框漂移](https://ld246.com/article/1701152004247/comment/1701759968451#comments)
+
+  > pdf 文档下载不了
+* 💗💬 [左右 Dock 栏 钉住和取消顶住 目前图标是一样的，取消顶住要换个图标](https://ld246.com/article/1701756529280/comment/1701756543245#comments)
+
+  > @Vanessa
+* 🗣 [左右 Dock 栏 钉住和取消顶住 目前图标是一样的，取消顶住要换个图标](https://ld246.com/article/1701756529280/comment/1701756543245#comments)
+
+  > unpin 还没有图标，我先记录一下 [链接]
+* 💬 [有没有小伙伴遇到图片宽度显示不正常的](https://ld246.com/article/1701600888777/comment/1701738173348#comments)
+
+  > 找到 NodeImage 中的 max-width 移除即可。 'Type': 'NodeImage', 'Data': 'span', 'Properties': { 'parent-style': 'width: 250px;max-width: 200px;', 'style': 'width: 240px;'  ..
 * 💬 [使用方括号新建文档的一个小 BUG](https://ld246.com/article/1701670704754/comment/1701688924331#comments)
 
   > 这个改进不建 issue 了，下个版本修复 [链接]
@@ -22,18 +34,6 @@
 * 🗣 [有没有小伙伴遇到图片宽度显示不正常的](https://ld246.com/article/1701600888777/comment/1701611365750#comments)
 
   > 非常抱歉，这个应该是以前版本的遗留问题。可以直接修改 .sy 文件后点击重建索引试试。
-* 💗📝 [Recent Documents 无法侧边返回](https://ld246.com/article/1701546114904)
-
-  > 笔记正文左划进入菜单，菜单右划返回正文 这个功能设计得非常好，易用好用 但是当我进入 recent documents 之后，我只能点击右上角的叉叉才能返回菜单，无法右划返回，我希望知道为什么 我希望 recent documents 支持右划返回
-* 💬 [Recent Documents 无法侧边返回](https://ld246.com/article/1701546114904/comment/1701610069547#comments)
-
-  > 右侧菜单弹出的面板都不行，我先记录一下吧。 [链接]
-* 💬 [有没有小伙伴遇到图片宽度显示不正常的](https://ld246.com/article/1701600888777/comment/1701610005474#comments)
-
-  > 是不是 PC 端设置过宽度？
-* 💗🗣 [思源安卓可以软换行吗？](https://ld246.com/article/1701146485470/comment/1701331592416#comments)
-
-  > @Vanessa 反正现在也没打算改界面，那就明年，明年不改就后年——移动端很难用总得改的 😏
 
 
 <!--events end -->
