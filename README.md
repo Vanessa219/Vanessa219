@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-09 08:36:01`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-10 08:39:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源 mac 客户端快捷指令异常](https://ld246.com/article/1702062084562/comment/1702087399340#comments)
+
+  > 无法重现，使用默认主题、重置快捷键、关闭插件后再试试。comand+ 数字是切换页签。
 * 🗣 [如何把思源文档里面的图片复制到微信或者其他地方呢](https://ld246.com/article/1702004560121/comment/1702025601571#comments)
 
   > 不知道怎么弄，可以导出图片发过去
@@ -31,9 +34,6 @@
 * 💗💬 [v2.11.0 使用 PDF「矩形标注」时，某些页面标注框漂移](https://ld246.com/article/1701152004247/comment/1701869138660#comments)
 
   > 辛苦了，看来这本书没法正常标注了。😂
-* 🗣 [v2.11.0 使用 PDF「矩形标注」时，某些页面标注框漂移](https://ld246.com/article/1701152004247/comment/1701869138660#comments)
-
-  > 该页制作的时候被旋转了 180 度，目前只能改进选中位置，但复制后的图片无法对应，建议修改该页 PDF。 [链接]
 
 
 <!--events end -->
