@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-10 08:39:44`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-12 08:37:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [思源 mac 客户端快捷指令异常](https://ld246.com/article/1702062084562/comment/1702087399340#comments)
+* 🗣 [思源 mac 客户端快捷指令异常](https://ld246.com/article/1702062084562/comment/1702262097782#comments)
 
-  > 无法重现，使用默认主题、重置快捷键、关闭插件后再试试。comand+ 数字是切换页签。
-* 🗣 [如何把思源文档里面的图片复制到微信或者其他地方呢](https://ld246.com/article/1702004560121/comment/1702025601571#comments)
+  > 还麻烦再观察一下如何重现的，是不是触碰了什么键盘或做了什么操作？
+* 💬 [在存在非编辑器窗口时应当不触发侧栏悬浮](https://ld246.com/article/1702260521198/comment/1702301561170#comments)
 
-  > 不知道怎么弄，可以导出图片发过去
-* 🗣 [v2.11.1 bug：ctrl+d 未能正确重复；块引锚文本编辑时异常退出](https://ld246.com/article/1702001482861/comment/1702019001247#comments)
+  > 那目前就先不动了，再看看反馈。
+* 🗣 [能否给个开关临时关闭所有 CSS / JS 代码片段？](https://ld246.com/article/1702140066419/comment/1702236509420#comments)
 
-  > 目前还没有线索，需要找到复现步骤，还麻烦注意观察一下。
-* 💬 [保存查询条件问题反馈](https://ld246.com/article/1701953776709/comment/1702040656464#comments)
+  > @a2930610542 什么情况下需要全部禁用 css 或 js？如果禁用 css 的情况下都需要禁用 js，可以在外面弄一个就行了。
+* 🗣 [能否给个开关临时关闭所有 CSS / JS 代码片段？](https://ld246.com/article/1702140066419/comment/1702236509420#comments)
 
-  > 保存查询条件后下次打开会记住查询条件，想要清楚的话可以点击右侧的 remove query criteria
-* 💬 [v2.11.1 bug：ctrl+d 未能正确重复；块引锚文本编辑时异常退出](https://ld246.com/article/1702001482861/comment/1702004841710#comments)
+  > 这就弄复杂了。为什么要禁用全部呢？
+* 🗣 [数据库行数据消失](https://ld246.com/article/1702089774253/comment/1702101377811#comments)
 
-  > 是 macOS 么？只有在 macOS 下按住 control+D 才会产生问题 1，复制必须按 command+D 问题 2 是不是按到了 command+w?
-* 💗📝 [思源 2.11.1，输入中文顿号会触发功能菜单](https://ld246.com/article/1702003246899)
+  > @li80 这个我还真确定不了
+* 💬 [能否给个开关临时关闭所有 CSS / JS 代码片段？](https://ld246.com/article/1702140066419/comment/1702224396250#comments)
 
-  > 思源版本：Windows 版 2.11.1 升级到 2.11.1 后，输入中文顿号会触发功能菜单，影响录入体验，希望能够还原成以前的方式，只在输入 / 时才触发。
-* 💬 [思源 2.11.1，输入中文顿号会触发功能菜单](https://ld246.com/article/1702003246899/comment/1702004084802#comments)
+  > 如果是为了排查问题全部禁用的话，加在设置下面会不会更好一点？[图片]
+* 🗣 [数据库行数据消失](https://ld246.com/article/1702089774253/comment/1702101377811#comments)
 
-  > 感谢反馈，下个版本修复 [链接]
-* 💗💬 [v2.11.0 使用 PDF「矩形标注」时，某些页面标注框漂移](https://ld246.com/article/1701152004247/comment/1701869138660#comments)
+  > @li80 这个线条太多感觉有点局促，空间感不够。每个人都有每个人的喜欢吧。这个就先不修改了
+* 💬 [数据库行数据消失](https://ld246.com/article/1702089774253/comment/1702181806610#comments)
 
-  > 辛苦了，看来这本书没法正常标注了。😂
+  > 区分绑定与否下个版本改进 [链接]
 
 
 <!--events end -->
