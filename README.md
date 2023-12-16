@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-15 08:37:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-16 08:36:02`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [合并单元格 &lt;th&gt; 块内的 rowspan 在特定情况下稳定生成错误](https://ld246.com/article/1702617855337/comment/1702630489289#comments)
+
+  > 按照视频中操作最终 Dom 如下，console.log 是如何打印出来的？ 视频中行不对，应该如下图中一行一个颜色 [图片]
+* 💬 [代码片段解决图片插入后默认新增一行以输入文字的问题](https://ld246.com/article/1692254723415/comment/1702630054412#comments)
+
+  > 使用代码片段会导致 [链接] 我这里还是无法重现，是不是以前的数据？现在新建的会这样么？
+* 🗣 [代码片段解决图片插入后默认新增一行以输入文字的问题](https://ld246.com/article/1692254723415/comment/1700816933015#comments)
+
+  > @ilovesiyuan 无法重现，具体是从哪里复制，粘贴到的地方是空块么？
 * 💬 [solo 发布文章和文章管理（更新）异常](https://ld246.com/article/1702535619033/comment/1702538737725#comments)
 
   > dev 分支切换到 jsdelivr 上
@@ -25,15 +34,6 @@
 * 🗣 [能否单独让数据库的各列内容分别 靠左 / 居中 / 靠右 对齐？](https://ld246.com/article/1702294369034/comment/1702357159635#comments)
 
   > @li80 [链接]
-* 💗🗣 [能否单独让数据库的各列内容分别 靠左 / 居中 / 靠右 对齐？](https://ld246.com/article/1702294369034/comment/1702357159635#comments)
-
-  > @Vanessa Wolai Seatable 都实现了这样的功能。 假如 C 列第 5 行是数字 1，你选中 C5 这个单元格，往下拉，它就是复制，1，1，1，这样子。 假如 C6 是 2，你同时选择了 C5 的 1 和 C6 的 2，往下拉，它就是增加，3，4，5，这样子。 简单的下拉复制或者下拉增加就行。主要解决 ..
-* 🗣 [重新加载界面出现的问题](https://ld246.com/article/1702408791267/comment/1702446444721#comments)
-
-  > 下个版本添加 [链接]
-* 💗💬 [重新加载界面出现的问题](https://ld246.com/article/1702408791267/comment/1702446444721#comments)
-
-  > @Vanessa V 大您好，能不能在插件框架里面提供 exportLayout 方法？
 
 
 <!--events end -->
