@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-20 08:29:46`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-21 08:36:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [建议 IFrame 内部链接能够被解析和跳转](https://ld246.com/article/1702980254251/comment/1702994457313#comments)
+* 💬 [pdf 文件的选择高亮有问题求处理](https://ld246.com/article/1703063820890/comment/1703090345805#comments)
 
-  > 这个是什么？
-* 💬 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1702994402911#comments)
+  > 使用官网上的同样也会选中全部。 [视频]
+* 🗣 [侧栏面板的最小宽度太宽了](https://ld246.com/article/1703055144692/comment/1703059538701#comments)
 
-  > [链接]
-* 🗣 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183/comment/1702965948123#comments)
+  > @Yylicon 这个是在英语情况下最小的宽度，再小头部横向位置不够就会产生滚动条了。
+* 🗣 [侧栏面板的最小宽度太宽了](https://ld246.com/article/1703055144692/comment/1703059538701#comments)
 
-  > @Yylicon 还麻烦留意观察下，我这里目前为止还没遇到过。
-* 🗣 [2.11.3 粘贴内容后文档滚动问题](https://ld246.com/article/1702954975550/comment/1702966090460#comments)
+  > @devzyh 打开 F12 看着拖
+* 💬 [侧栏面板的最小宽度太宽了](https://ld246.com/article/1703055144692/comment/1703059538701#comments)
 
-  > 粘贴内容后会滚动到末尾，这个 GIF 由于无法暂停和慢速播放，看了很多遍也看不太清滚动的问题。还麻烦把 .sy 和粘贴的内容上传我复现一下。谢谢
-* 🗣 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183/comment/1702965783469#comments)
+  > 最小的时候，鼠标移上去看到的已经不多了。再小的话可能没发看了。 [图片]
+* 💗📝 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183)
 
-  > 可以说一下如何操作会导致该问题么？
-* 🗣 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183/comment/1702965948123#comments)
+  > win11，每次重启软件会导致停靠栏图标布局恢默认，钉住的页签被自动取消是怎么回事啊 [图片] ...... 我把所有代码片段重启了一下暂时解决了这个问题
+* 💬 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183/comment/1703058609267#comments)
 
-  > 应该是检测到错误后重置了窗口，但是重置后文档树是会打开的。你的缺没有很奇怪。可以说一下进行了什么操作嘛？
-* 💬 [关于 PDF 管理和批注以及其他问题的一些想法和建议](https://ld246.com/article/1702963413735/comment/1702977278798#comments)
+  > 不关闭文档树的情况下，大家看看还会不会重置。 下个版本修复 [链接]
+* 💗💬 [v2.11.3 每次重启软件后停靠栏图标恢复默认布局，钉住的页签被取消](https://ld246.com/article/1702964350183/comment/1703053358497#comments)
 
-  > 目前用的工具是 pdf.js，他前久加了批注功能，看看是否够用了。 [链接]
+  > @Vanessa V 姐，我这边有一种情况下会稳定触发“重置布局”。 打开任意一篇文档，然后关闭文档树 dock 的情况下，使用快捷键里的刷新，或者打开开发者工具使用 cmd+r 刷新，会稳定触发 fetch error。就是下图这种状态： [图片] 错误信息： fetch post error TypeError:  ..
 * 🗣 [vditor 在预览模式下 vditor-outline__item--current 这个类名是 怎么在滚动和 hover、click 的时候添加进去的](https://ld246.com/article/1702437481371/comment/1702870281771#comments)
 
-  > @EddiePeng 用 text-indent
+  > @EddiePeng 如果规范后面支持的话，我们会进行跟进的
 
 
 <!--events end -->
