@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-22 08:35:56`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-23 08:34:37`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [超级块横向排版的逻辑](https://ld246.com/article/1703144120743/comment/1703174999410#comments)
+* 🗣 [备注消失](https://ld246.com/article/1703170610418/comment/1703257037607#comments)
 
-  > 将图片宽度设置为默认，就可自适应。如果设置过宽度的话会优先使用宽度。
-* 💗📝 [最新版在特定条件下程序崩溃](https://ld246.com/article/1703090558910)
+  > 嘻嘻的备注是在列表上，后面变为列表项，列表上的内容自然也不存在了。
+* 🗣 [iOS 最新版在关于里面点击工作空间的减号会闪退](https://ld246.com/article/1703151906396/comment/1703243819230#comments)
 
-  > 输入一行公式后，如果连续两次 shift+Enter，再输入一行公式，即在同一段内两行公式间有空行时，程序就会崩溃，提示需要重新建立或重启程序，然后那两行公式就不见了。 请核实，感谢作者。
-* 🗣 [最新版在特定条件下程序崩溃](https://ld246.com/article/1703090558910/comment/1703150784851#comments)
+  > 开始只是删除目录，最后物理删除才有提示。
+* 💬 [增强闪卡右侧黄色标记的功能](https://ld246.com/article/1703238118677/comment/1703256656700#comments)
 
-  > 感谢反馈，下个版本修复 [链接]
-* 🗣 [pdf 文件的选择高亮有问题求处理](https://ld246.com/article/1703063820890/comment/1703154656342#comments)
+  > 看了下不太好弄，本来想着右侧缩进就可以区分，但是有背景的话 3331 列右侧没对齐就不太好看了。等有好的解决方案再改进吧，目前只能先维持现状。 [图片]
+* 💬 [增强闪卡右侧黄色标记的功能](https://ld246.com/article/1703238118677/comment/1703251164736#comments)
 
-  > 我用官网的 PDF 导入到思源中是没有问题的，是不是 PDF 的问题？
-* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703120756207#comments)
+  > 这个是个样式，鼠标移上去需要高亮的话要和备注一样加到块属性上。
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1703239112753#comments)
 
-  > 没有问题，你需要运行一下 npm run build
-* 🗣 [侧栏面板的最小宽度太宽了](https://ld246.com/article/1703055144692/comment/1703134782842#comments)
+  > 参照文档配置 cdn 为本地即可
+* 🗣 [iOS 端换行时自动跳动](https://ld246.com/article/1703183150038/comment/1703210834030#comments)
 
-  > 不可以哦，这个是点开侧面的，不是上面的。
-* 💬 [pdf 文件的选择高亮有问题求处理](https://ld246.com/article/1703063820890/comment/1703090345805#comments)
+  > @SYUSER001 好的，谢谢
+* 🗣 [超级块横向排版的逻辑](https://ld246.com/article/1703144120743/comment/1703206918053#comments)
 
-  > 使用官网上的同样也会选中全部。 [视频]
-* 🗣 [侧栏面板的最小宽度太宽了](https://ld246.com/article/1703055144692/comment/1703059538701#comments)
+  > 这个调整的不是分栏，是图片的宽度。
+* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
 
-  > @Yylicon 这个是在英语情况下最小的宽度，再小头部横向位置不够就会产生滚动条了。
+  > @qiaoguoxing 导出需要去 github 上面自己编译最新代码，还没有发布
 
 
 <!--events end -->
