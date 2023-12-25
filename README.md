@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-24 08:39:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-25 08:37:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [侧栏面板覆盖设置、两个样式的小问题](https://ld246.com/article/1703392227458)
+
+  > 未钉住的侧栏面板会覆盖到设置界面上方，影响设置界面使用 [图片] 选中文字时菜单，按钮变成方角 [图片][图片] 设置文档 emoji 面板中，选中搜索框的时候阴影变成方角 [图片] [图片] 希望能得到修复 💖
+* 💬 [侧栏面板覆盖设置、两个样式的小问题](https://ld246.com/article/1703392227458/comment/1703437431503#comments)
+
+  > 第一个是动态计算的，如果面板展现后 ctrl+p 是会覆盖在面板之上。 另外两个问题下个版本改进 [链接]
 * 🗣 [备注消失](https://ld246.com/article/1703170610418/comment/1703257037607#comments)
 
   > 嘻嘻的备注是在列表上，后面变为列表项，列表上的内容自然也不存在了。
@@ -28,12 +34,6 @@
 * 🗣 [iOS 端换行时自动跳动](https://ld246.com/article/1703183150038/comment/1703210834030#comments)
 
   > @SYUSER001 好的，谢谢
-* 🗣 [超级块横向排版的逻辑](https://ld246.com/article/1703144120743/comment/1703206918053#comments)
-
-  > 这个调整的不是分栏，是图片的宽度。
-* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
-
-  > @qiaoguoxing 导出需要去 github 上面自己编译最新代码，还没有发布
 
 
 <!--events end -->
