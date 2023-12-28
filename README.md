@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-27 20:02:15`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-28 08:34:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [mac 客户端下面莫名其妙出现两个框](https://ld246.com/article/1703644765568/comment/1703665346972#comments)
+
+  > 设置中恢复默认窗口后，看一下是否还能重现，如果可以的话麻烦把操作步骤告诉我们。
+* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
+
+  > @north999 是导出 PDF 还有 unpkg 嘛？配置了没有？ 具体操作步骤和现象是？
 * 💬 [2114 版本，数据库中选多选的时候选不到，切换下视图再回来就可以了，这算是个 bug 吗](https://ld246.com/article/1703577415510/comment/1703580947437#comments)
 
   > 我这里是正常的。 重启后就是“题库”为当前视图，然后点击多选无法选中。还是之前有做过什么其他操作？
@@ -28,12 +34,6 @@
 * 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
 
   > @qiaoguoxing 要按照上面的 “导出需要去 github 上面自己编译最新代码，还没有发布”
-* 🗣 [侧栏面板覆盖设置、两个样式的小问题](https://ld246.com/article/1703392227458/comment/1703466619518#comments)
-
-  > @CKlimeths 谢谢反馈，我们再看看其他用户有没有这个需求。目前怕修改了，有些用户就无法查看侧边面板了。
-* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
-
-  > @qiaoguoxing _lutePath 是不是设置过这个参数
 
 
 <!--events end -->
