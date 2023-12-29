@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-28 08:34:52`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2023-12-29 08:29:59`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [请问文档制成的闪卡，在复习页面不突出显示文档名称是出于什么考虑呢？](https://ld246.com/article/1703700381769/comment/1703777426990#comments)
+
+  > 统一编辑器设计，高亮的话可能会造成干扰。
+* 💬 [关于浮动侧边栏层级太高影响操作问题](https://ld246.com/article/1703775003493/comment/1703776532456#comments)
+
+  > 正文右侧也可能是其他内容，因此使用光标位置进行计算。这种情况只能修改插件，使其靠左一点或者添加一个让光标在上不产生浮动效果的属性。
 * 🗣 [mac 客户端下面莫名其妙出现两个框](https://ld246.com/article/1703644765568/comment/1703665346972#comments)
 
   > 设置中恢复默认窗口后，看一下是否还能重现，如果可以的话麻烦把操作步骤告诉我们。
@@ -28,12 +34,6 @@
 * 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
 
   > @north999 等明天发 3.9.8
-* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
-
-  > @qiaoguoxing 看你说的是升级到 3.9.7。我看了下最新代码本地运行后是没有问题的，你有空再看看吧，有什么问题再 at 我就可以了。
-* 🗣 [vditor 自建 cdn 之后，基本功能是可以使用的，但是有部分功能还是会走线上的 cdn](https://ld246.com/article/1702980134143/comment/1703212885464#comments)
-
-  > @qiaoguoxing 要按照上面的 “导出需要去 github 上面自己编译最新代码，还没有发布”
 
 
 <!--events end -->
