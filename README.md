@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-09 13:51:41`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-10 08:37:33`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [关闭图标建议](https://ld246.com/article/1704803145134/comment/1704806779080#comments)
+
+  > 关闭图标还有 iconClose，你是希望在那里使用 iconClose 这个图标？
 * 💬 [弹窗类型增加唯一值](https://ld246.com/article/1704723984245/comment/1704768782970#comments)
 
   > 这个主要是用于记录弹窗上一次拖拽位置的。目前弹窗比较多，需要逐一添加，需要到的再加。或者可以 PR。
@@ -31,9 +34,6 @@
 * 🗣 [* 号不能替换为空](https://ld246.com/article/1704285860053/comment/1704528635155#comments)
 
   > [链接]
-* 💗💬 [* 号不能替换为空](https://ld246.com/article/1704285860053/comment/1704528635155#comments)
-
-  > 「搜索方式」应该可以放到「类型」的右边，因为二者都是筛选方式。 然后「类型」是不是可以改为「搜索类型」，就像下面那个叫「替换类型」。 [图片]
 
 
 <!--events end -->
