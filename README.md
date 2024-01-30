@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-29 08:35:14`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-30 08:34:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [手机伺服不支持 ctrl + shift + v 快捷键](https://ld246.com/article/1706426121675/comment/1706496223600#comments)
+
+  > 请检查一下浏览器端是不是没有剪切板权限
 * 💗📝 [Mac 的思源为什么最大化以后就不能缩小了](https://ld246.com/article/1706433678577)
 
   > [图片] 左上角的三个键 为什么只有关闭键可以使用了？
@@ -31,9 +34,6 @@
 * 💬 [表格一键缩放到窗口显示](https://ld246.com/article/1706314809821/comment/1706323925237#comments)
 
   > 没太理解，是粘贴后列宽太宽了，需要调窄么？
-* 💬 [功能请求：插件系统 api 增加 开 / 关 / 切换 全局只读模式](https://ld246.com/article/1706274210261/comment/1706323142164#comments)
-
-  > 插件开关需求的使用场景是？编辑器只读这个可以直接调用 API，没有其他的额外方法
 
 
 <!--events end -->
