@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-30 08:34:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-01-31 08:35:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [mac 侧边栏大纲以及文档树按键失效](https://ld246.com/article/1706580766161/comment/1706587483137#comments)
+
+  > 新版本已经修改快捷键为 opiton+number 了
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1706581358547#comments)
+
+  > 不能
 * 💬 [手机伺服不支持 ctrl + shift + v 快捷键](https://ld246.com/article/1706426121675/comment/1706496223600#comments)
 
   > 请检查一下浏览器端是不是没有剪切板权限
@@ -28,12 +34,6 @@
 * 💗📝 [块图标点击后的上下文菜单的文案建议](https://ld246.com/article/1705563034793)
 
   > 末尾插入行 改成 下方插入块 起始插入行 改成 上方插入块 因为目前这个文案会让人搞不清楚是在块内插入软换行，还是插入新块 实际上这两个操作实现的是插入新块
-* 🗣 [块图标点击后的上下文菜单的文案建议](https://ld246.com/article/1705563034793/comment/1706357374199#comments)
-
-  > @zxkmm 那就把 行 改为 块 吧 [链接]
-* 💬 [表格一键缩放到窗口显示](https://ld246.com/article/1706314809821/comment/1706323925237#comments)
-
-  > 没太理解，是粘贴后列宽太宽了，需要调窄么？
 
 
 <!--events end -->
