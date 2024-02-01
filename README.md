@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-02-01 08:36:46`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-02-01 17:06:18`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [移动端思源笔记超级块分栏](https://ld246.com/article/1706671324451/comment/1706750928008#comments)
+
+  > [图片] 移动端是竖着排列的，你们说的细小的一条是不是调整过宽度？
 * 💬 [行级公式、公式块编辑器的 tab 缩进](https://ld246.com/article/1702814433219/comment/1706713268156#comments)
 
   > 这个用的是默认值 8。调整的话需要使用 css tab-size: 4;
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1706581358547#comments)
 
   > 不能
-* 💬 [手机伺服不支持 ctrl + shift + v 快捷键](https://ld246.com/article/1706426121675/comment/1706496223600#comments)
-
-  > 请检查一下浏览器端是不是没有剪切板权限
 
 
 <!--events end -->
