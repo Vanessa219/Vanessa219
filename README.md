@@ -6,11 +6,11 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-02-08 08:34:40`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-02-09 08:34:13`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💬 [v2.12.7 Mark 功能的建议](https://ld246.com/article/1707318230687/comment/1707318826815#comments)
+* 💬 [v2.12.7 Mark 功能的建议（已解决）](https://ld246.com/article/1707318230687/comment/1707318826815#comments)
 
   > 我这里是可以正常显示的，你是什么场景下无法显示？ [图片]
 * 💬 [苹果手机打开白屏](https://ld246.com/article/1707269178095/comment/1707282375546#comments)
