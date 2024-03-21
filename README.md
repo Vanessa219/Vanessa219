@@ -6,31 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-20 08:34:43`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-21 08:36:23`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 💗💬 [无法回车问题](https://ld246.com/article/1710771960981/comment/1710777494878#comments)
+* 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
 
-  > @Vanessa 在 - 的数量大于 2 之后就无法换行了： --
-* 💗📝 [无法回车问题](https://ld246.com/article/1710771960981)
+  > @li80 插件我也不太清楚，爬楼看看
+* 🗣 [能否提供更多 PDF 文件的打开方式](https://ld246.com/article/1710368904744/comment/1710832782379#comments)
 
-  > 一行内三个短横杠，'---'，会自动变为分割线，然后光标移到下一行，这是 Markdown 的基本语法，没有问题。 按回车键，光标会移到下一行行首，这也没有问题。 在一个空行的行首输入一个空格，然后输入三个短横杠，即' ---'，不会自动变为分割线。这也没有问题。 如果已经有了一个空行，用' ---'的方式，会保留三个 ..
-* 💬 [无法回车问题](https://ld246.com/article/1710771960981/comment/1710850616975#comments)
+  > @XeroChina 下载的问题下个版本修复
+* 💗📝 [希望数据库表格能增加的功能](https://ld246.com/article/1710486417808)
 
-  > 感谢反馈，下个版本改进 [链接]
-* 💬 [关于思源默认颜色种类建议](https://ld246.com/article/1710827052394/comment/1710840775653#comments)
+  > 不知道能不能实现，但还是想提一下 希望能批量新增空条目，如果条目多一个一个的点，感觉有点麻烦 希望对单选，多选这样的内容可以批量填充和修改
+* 💗💬 [希望数据库表格能增加的功能](https://ld246.com/article/1710486417808/comment/1710907716178#comments)
 
-  > 可以在代码片段上修改这几个变量为你喜欢的颜色 :root { --b3-font-color1: var(--b3-card-error-color); --b3-font-color2: var(--b3-card-warning-color); --b3-font-color3: var(--b3-card-inf ..
-* 💗🗣 [关于手机端自定义表情的问题](https://ld246.com/article/1710291637770/comment/1710559754416#comments)
+  > 飞书的多维表是这样的： [图片]
+* 🗣 [希望数据库表格能增加的功能](https://ld246.com/article/1710486417808/comment/1710907716178#comments)
 
-  > @Vanessa 已测试修复正常
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1710746218094#comments)
+  > 没想到在这呀，下个版本改进 [链接]
+* 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
 
-  > [链接] 这个上面是正常的，我这里没有你的环境，具体的失效原因可能需要你对比一下。
-* 🗣 [Vditor 对视频、音频、站点链接的解析](https://ld246.com/article/1589813914768/comment/1710565574612#comments)
+  > @li80 这样的用户可能不多，先用插件吧
+* 💬 [思源 3.0.4 导出 PDF/ 图片 与主题不一致](https://ld246.com/article/1710901752778/comment/1710929482492#comments)
 
-  > @lulu2jinchi 下个版本添加 [链接]
+  > 导出图片无黄绿灯应该是受到 html2canvas 这个库的制约，需要看一下是否能解决这样 css 的问题 导出 PDF 我这里是没有滚动条的，语言高度不一致需要用 css 设置一下即可。
+* 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
+
+  > @li80 这样有的用户可能会认为新建的文档丢失了，就像聚焦一样，总有用户以为丢数据了
 
 
 <!--events end -->
