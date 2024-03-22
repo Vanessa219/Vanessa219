@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-21 08:36:23`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-22 08:34:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1711005734337#comments)
+
+  > 参考一下 vue 的使用方法
+* 🗣 [反向链接展示 颗粒度统一问题](https://ld246.com/article/1710739014112/comment/1710988679586#comments)
+
+  > 那就先用 quicker 吧，后面再看看此类需求的用户多不多
 * 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
 
   > @li80 插件我也不太清楚，爬楼看看
@@ -28,12 +34,6 @@
 * 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
 
   > @li80 这样的用户可能不多，先用插件吧
-* 💬 [思源 3.0.4 导出 PDF/ 图片 与主题不一致](https://ld246.com/article/1710901752778/comment/1710929482492#comments)
-
-  > 导出图片无黄绿灯应该是受到 html2canvas 这个库的制约，需要看一下是否能解决这样 css 的问题 导出 PDF 我这里是没有滚动条的，语言高度不一致需要用 css 设置一下即可。
-* 🗣 [隐藏某个文档下的所有子文档](https://ld246.com/article/1710040093539/comment/1710745072443#comments)
-
-  > @li80 这样有的用户可能会认为新建的文档丢失了，就像聚焦一样，总有用户以为丢数据了
 
 
 <!--events end -->
