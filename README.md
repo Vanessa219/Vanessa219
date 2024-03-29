@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-28 08:35:16`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-03-29 08:35:09`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1711597746515#comments)
+
+  > 自己编译的话可以直接修改 [链接]
+* 🗣 [数据库在页面锁定编辑的情况下，仍可隐藏列](https://ld246.com/article/1711591180971/comment/1711596170350#comments)
+
+  > 嗯嗯，是同一个问题。
+* 💬 [MacOS 系统下，不能打开文件链接](https://ld246.com/article/1711614703089/comment/1711617618803#comments)
+
+  > 可以发一下链接地址，我们这边模拟看一下是什么问题
+* 💬 [数据库在页面锁定编辑的情况下，仍可隐藏列](https://ld246.com/article/1711591180971/comment/1711595557029#comments)
+
+  > 是不是发重复了 [链接]
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1711533633122#comments)
 
   > 重新安装一下 diff_match_patch
@@ -22,18 +34,6 @@
 * 🗣 [闪卡→间隔重复→在新页签中打开→移动到新窗口→全屏切换 顶部部分按钮失效](https://ld246.com/article/1711505277671/comment/1711505878552#comments)
 
   > @hihaojie [链接] 👌
-* 💬 [关于“使用鼠标中键打开文档”在书签栏无效的问题](https://ld246.com/article/1711382400412/comment/1711531429446#comments)
-
-  > 默认没有中键。文档树比较常用，是做过了优化。
-* 🗣 [列表里嵌套标题时，按删除键应先删除标题](https://ld246.com/article/1711415525973/comment/1711448504978#comments)
-
-  > @wxtgood 光标前面是列表项，再看看其他用户反馈吧
-* 🗣 [列表里嵌套标题时，按删除键应先删除标题](https://ld246.com/article/1711415525973/comment/1711510016996#comments)
-
-  > @wxtgood 可以修改
-* 🗣 [列表里嵌套标题时，按删除键应先删除标题](https://ld246.com/article/1711415525973/comment/1711510016996#comments)
-
-  > 标题是默认的快捷键，直接使用就行。
 
 
 <!--events end -->
