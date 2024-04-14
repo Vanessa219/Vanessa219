@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-13 08:30:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-14 08:35:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [ios 端两端对齐不生效](https://ld246.com/article/1712966342059/comment/1713020225045#comments)
+
+  > 这个是由于 [链接] 这个问题导致的，在 safari 上没有办法对这两个都兼容，只能选一个
 * 🗣 [数据库表格宽度不能自设定](https://ld246.com/article/1712373928096/comment/1712493659494#comments)
 
   > @Kootea 反正就几行代码的事情，先自己折腾折腾。后面提的人多了再想办法
@@ -31,9 +34,6 @@
 * 🗣 [思源安卓 APP 行级公式块右滑显示效果异常](https://ld246.com/article/1712790840232/comment/1712796056936#comments)
 
   > 我的 mac 上和你手机上一样
-* 🗣 [思源安卓 APP 行级公式块右滑显示效果异常](https://ld246.com/article/1712790840232/comment/1712793327212#comments)
-
-  > 边缘是 Android 的返回。要不设置在距边缘 36px 以内才起作用？
 
 
 <!--events end -->
