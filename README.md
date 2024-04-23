@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-22 08:37:37`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-23 08:36:19`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [经常被困扰，跨文档拖拽非常困惑，为什么会变成两个？](https://ld246.com/article/1713768540622/comment/1713786308671#comments)
+
+  > ？
 * 💗💬 [数据库拖动更改行的位置时卡顿](https://ld246.com/article/1713541217115/comment/1713682324369#comments)
 
   > V 姐，帖子里的录屏，就是我新开了一个工作空间进行录屏的，里面没有任何插件和额外添加的代码片段，主题也是默认的，还真别说默认主题真挺好看
@@ -31,9 +34,6 @@
 * 🗣 [v3.0.10 搜索功能问题](https://ld246.com/article/1713336942155/comment/1713534772847#comments)
 
   > 下个版本修改文案为 搜索条件将保存到下一次查询中
-* 🗣 [backlink 面板问题](https://ld246.com/article/1713333872510/comment/1713504991605#comments)
-
-  > 没太理解，需要张开才可以看到条目呀
 
 
 <!--events end -->
