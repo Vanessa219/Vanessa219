@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-23 08:36:19`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-24 08:36:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源的几个问题 v202404210044](https://ld246.com/article/1713763756846/comment/1713837359063#comments)
+
+  > 第一点无法重现，是不是同步导致的刷新文档树
 * 🗣 [经常被困扰，跨文档拖拽非常困惑，为什么会变成两个？](https://ld246.com/article/1713768540622/comment/1713786308671#comments)
 
   > ？
@@ -31,9 +34,6 @@
 * 🗣 [backlink 面板问题](https://ld246.com/article/1713333872510/comment/1713535535727#comments)
 
   > 哦，明白了，下个版本改进 [链接]
-* 🗣 [v3.0.10 搜索功能问题](https://ld246.com/article/1713336942155/comment/1713534772847#comments)
-
-  > 下个版本修改文案为 搜索条件将保存到下一次查询中
 
 
 <!--events end -->
