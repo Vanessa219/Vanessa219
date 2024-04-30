@@ -6,7 +6,7 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-29 08:37:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-04-30 08:35:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
@@ -24,7 +24,7 @@
   > 我在 iPad mini5 端打开伺服后，发现没有浏览器链接的选项，很是无奈 而且 iPad mini 端似乎没有适配，界面都比较小，按钮不容易按到
 * 💬 [iPad mini 端似乎不能伺服](https://ld246.com/article/1714058303511/comment/1714310933461#comments)
 
-  > 可以伺服的，只是没有浏览器打开的按钮。下个版本添加一下。由于没有 iPad ，还麻烦下个版本帮忙测试一下，谢谢。 [链接]
+  > 可以伺服的，只是没有浏览器打开的按钮。下个版本添加一下。由于没有 iPad ，还麻烦下个版本帮忙测试一下，谢谢。 [图片] :art: fix https://ld246.com/article/1714058303511 · siyuan-note/siyuan@3176740 A privacy-first, se ..
 * 💬 [行内代码过长时奇怪的断行渲染方式](https://ld246.com/article/1714223772557/comment/1714279183769#comments)
 
   > 我试了下好像不行，还是会有残留的零宽字符在上面。单词被隔断看着很不舒服。 [图片]
