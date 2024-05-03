@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-02 08:36:04`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-03 08:38:54`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [delete 键的删除行为和点击链接无反应](https://ld246.com/article/1714544830305/comment/1714557388424#comments)
+
+  > @3Woods 那表格和数据库都不删除了 [链接]
 * 💬 [delete 键的删除行为和点击链接无反应](https://ld246.com/article/1714544830305/comment/1714557388424#comments)
 
   > Delete 是把后面的内容删除，等同于把光标置于下一个元素的开头后按 Backspace 的效果。如果要删除空行需使用 Backspace，而不是选择把后面的内容删除。 光标在表格前无法删除，这个和数据库没有统一，还需要调研一下是统一都删除还是都不删除。 @JeffreyChen
@@ -31,9 +34,6 @@
 * 💬 [代码块里面怎么反缩进多行代码](https://ld246.com/article/1714444734128/comment/1714445369239#comments)
 
   > 目前需要选中整行，建议放在 IDE 中格式化后再贴入思源。
-* 🗣 [行内代码过长时奇怪的断行渲染方式](https://ld246.com/article/1714223772557/comment/1714312597417#comments)
-
-  > 导出的时候可以处理一下。移动端估计就没有办法了
 
 
 <!--events end -->
