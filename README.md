@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-28 08:37:57`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-29 08:41:09`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [切换保存的查询条件时 没有执行查询](https://ld246.com/article/1716702133631/comment/1716784577276#comments)
+
+  > @NieJianYing 你新建一个工作空间试试，是不是插件的问题？
+* 💗💬 [只读模式下 Ctrl+D 快捷键仍能编辑文档](https://ld246.com/article/1716863042617/comment/1716863780258#comments)
+
+  > [链接]
+* 💗📝 [只读模式下 Ctrl+D 快捷键仍能编辑文档](https://ld246.com/article/1716863042617)
+
+  > [图片] @Vanessa
+* 🗣 [在新建文档时自动抓取其文档名并生成标题在第一行](https://ld246.com/article/1613748382565/comment/1613749711155#comments)
+
+  > @huomy2 不写标题和自动生成第一行不是一个事情吧？
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1716811990104#comments)
 
   > 使用 range 定位后调用 insert 方法
@@ -22,18 +34,6 @@
 * 🗣 [应用从后台切换到前台后这个提醒是做什么用的](https://ld246.com/article/1716694350885/comment/1716782371272#comments)
 
   > 收到，后续改进 [链接]
-* 🗣 [切换保存的查询条件时 没有执行查询](https://ld246.com/article/1716702133631/comment/1716784577276#comments)
-
-  > 还是无法重现，麻烦具体说一下重现步骤
-* 🗣 [扩选快捷键无效](https://ld246.com/article/1716635371149/comment/1716635788378#comments)
-
-  > 我这里也无法重现。
-* 💗💬 [全局搜索中 按 Ctrl+F 搜索当前文档 会消失, 固定搜索却可以](https://ld246.com/article/1716632837934/comment/1716636106994#comments)
-
-  > @Vanessa 在搜索界面点击这个 搜索 按钮之后会关闭搜索界面，而不是将搜索路径改为这篇文档
-* 💗📝 [全局搜索中 按 Ctrl+F 搜索当前文档 会消失, 固定搜索却可以](https://ld246.com/article/1716632837934)
-
-  > 实用场景: 定位到目标文档后, 想要继续查找
 
 
 <!--events end -->
