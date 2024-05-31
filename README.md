@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-30 08:38:14`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-05-31 08:38:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [切换保存的查询条件时 没有执行查询](https://ld246.com/article/1716702133631/comment/1716995176606#comments)
+
+  > 界面有 loading ，这个肯定是执行过查询了，只是查询条件为空。
 * 💗📝 [建议重置类的按钮最好加个弹窗](https://ld246.com/article/1716945402131)
 
   > 不小心点错了，给我默认重置窗口了 [图片]
@@ -31,9 +34,6 @@
 * 🗣 [切换保存的查询条件时 没有执行查询](https://ld246.com/article/1716702133631/comment/1716784577276#comments)
 
   > @NieJianYing 桌面端移除插件和代码片段了么？
-* 🗣 [切换保存的查询条件时 没有执行查询](https://ld246.com/article/1716702133631/comment/1716784577276#comments)
-
-  > @NieJianYing 是手机上的问题，不是桌面的的问题？
 
 
 <!--events end -->
