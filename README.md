@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-06 08:38:18`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-07 08:39:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717637625220#comments)
+
+  > 试了下 notion，无论光标在何处都是粘贴在块下方的，正常理解也是在下方才对呀。
 * 🗣 [代码块中，第一行如果为空，那么退格键无效](https://ld246.com/article/1717394313379/comment/1717395572594#comments)
 
   > @JeffreyChen 用户怎么操作就按照用户的意思来吧。
