@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-11 08:39:02`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-12 08:39:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [带有 FlowChart 内容的笔记在导出 PDF 时一直无法导出](https://ld246.com/article/1718102426934/comment/1718117439470#comments)
+
+  > 麻烦发一下带有 flowchart 无法导出的 .sy 文件，我这里无法重现
+* 🗣 [有打算对 PDF 文件进行索引以及查询支持么？](https://ld246.com/article/1718096363449/comment/1718098991753#comments)
+
+  > @ringx 第二点指的是 [链接]
+* 💗📝 [手机端自定义的图标变形](https://ld246.com/article/1718005385354)
+
+  > 最新版手机端，在文档树页面，打开“移动”功能页，会出现自定义的图标变形情况， 在“设置”里打开“最近的文档”，该页面也会出现自定义的图标变形 [图片]
+* 💬 [手机端自定义的图标变形](https://ld246.com/article/1718005385354/comment/1718095731277#comments)
+
+  > 感谢反馈，下个版本改进 [链接]
 * 🗣 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717731571478#comments)
 
   > @realysy [链接] 后续改进
@@ -22,18 +34,6 @@
 * 🗣 [思源笔记保存的布局可以做成支持同步的么？](https://ld246.com/article/1717786603262/comment/1717816606625#comments)
 
   > local.json 是被排除的，layout 在不同分辨率下可能会有问题，就没有同步。
-* 🗣 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717731571478#comments)
-
-  > Word 如果在中间是粘贴在中间的，我们和他的结构不太一致。只能做到如果在开头的话粘贴在上方，否则都在下方。
-* 🗣 [数据库链接无法编辑无法修改只会跳转](https://ld246.com/article/1717664766709/comment/1717664936917#comments)
-
-  > 我们不行呀，被用于右侧打开了
-* 💬 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717637625220#comments)
-
-  > 试了下 notion，无论光标在何处都是粘贴在块下方的，正常理解也是在下方才对呀。
-* 🗣 [代码块中，第一行如果为空，那么退格键无效](https://ld246.com/article/1717394313379/comment/1717395572594#comments)
-
-  > @JeffreyChen 用户怎么操作就按照用户的意思来吧。
 
 
 <!--events end -->
