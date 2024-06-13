@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-12 08:39:07`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-06-13 08:38:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [如果表格中有软换行（shift+enter），会出现奇怪的问题](https://ld246.com/article/1718027317164/comment/1718031873167#comments)
+
+  > @JeffreyChen 那就 @ D 吧 😄
+* 💗📝 [如果表格中有软换行（shift+enter），会出现奇怪的问题](https://ld246.com/article/1718027317164)
+
+  > 光标无法向下移动 [视频] 这个视频从第 20 妙开始，我按向下箭头，光标无法向下移动。 光标无法上行到第一行 下面这个视频，表格内第一行末尾插入软换行（shift+enter），然后向上箭头无法回到第一行，直接跳到上方的单元格中去了。 另外，也可以看到向下移动光标失效的情形 [视频]
+* 💬 [如果表格中有软换行（shift+enter），会出现奇怪的问题](https://ld246.com/article/1718027317164/comment/1718157580621#comments)
+
+  > 感谢反馈， 后续修复 [链接]
+* 🗣 [如果表格中有软换行（shift+enter），会出现奇怪的问题](https://ld246.com/article/1718027317164/comment/1718031873167#comments)
+
+  > 如果可以重现的 bug 可以直接在 GitHub 上建 issue，不用 at 我了 😊
 * 💬 [带有 FlowChart 内容的笔记在导出 PDF 时一直无法导出](https://ld246.com/article/1718102426934/comment/1718117439470#comments)
 
   > 麻烦发一下带有 flowchart 无法导出的 .sy 文件，我这里无法重现
@@ -22,18 +34,6 @@
 * 💬 [手机端自定义的图标变形](https://ld246.com/article/1718005385354/comment/1718095731277#comments)
 
   > 感谢反馈，下个版本改进 [链接]
-* 🗣 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717731571478#comments)
-
-  > @realysy [链接] 后续改进
-* 💗🗣 [建议粘贴的块放到光标所在块之前](https://ld246.com/article/1717561430343/comment/1717731571478#comments)
-
-  > @Vanessa 嗯嗯，能做到这样就很好了，在开头的话粘贴在上方，否则都在下方
-* 🗣 [数据库链接无法编辑无法修改只会跳转](https://ld246.com/article/1717664766709/comment/1717664936917#comments)
-
-  > @llej 毕竟编辑的情况少呀
-* 🗣 [思源笔记保存的布局可以做成支持同步的么？](https://ld246.com/article/1717786603262/comment/1717816606625#comments)
-
-  > local.json 是被排除的，layout 在不同分辨率下可能会有问题，就没有同步。
 
 
 <!--events end -->
