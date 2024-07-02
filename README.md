@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-01 08:44:49`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-02 08:39:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1719581569670#comments)
+
+  > 不可以只返回一个 url ， 要返回 { 'msg': '', 'code': 0, 'data': { 'errFiles': ['filename', 'filename2'], 'succMap': { 'filename3': 'filepath3', 'filename3': 'filepath3' } }  ..
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1719191071184#comments)
 
   > 把 select 伪装为 button
@@ -31,9 +34,6 @@
 * 🗣 [思源笔记的「布局」保存，可以增加下拉菜单支持么？](https://ld246.com/article/1718691663751/comment/1718692469640#comments)
 
   > @ringx 上面说了，在新建的时候选择下拉会导致歧义，用户不知道是新建还是覆盖。
-* 🗣 [提议调整更新频率](https://ld246.com/article/1718615754184/comment/1718793843274#comments)
-
-  > 已投
 
 
 <!--events end -->
