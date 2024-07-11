@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-10 08:40:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-11 08:40:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1720160868120#comments)
+
+  > 临时记录一下自动刷新选项？
 * 🗣 [Vditor 表格换行问题](https://ld246.com/article/1715658531067/comment/1720160015446#comments)
 
   > 分屏模式后期会重写，相关 bug 就不处理了
@@ -31,9 +34,6 @@
 * 🗣 [思源笔记的「布局」保存，可以增加下拉菜单支持么？](https://ld246.com/article/1718691663751/comment/1718849161141#comments)
 
   > 这个不是下拉就不会造成歧义。
-* 🗣 [思源笔记的「布局」保存，可以增加下拉菜单支持么？](https://ld246.com/article/1718691663751/comment/1718692469640#comments)
-
-  > @ringx 操作系统保存也没有下拉呀
 
 
 <!--events end -->
