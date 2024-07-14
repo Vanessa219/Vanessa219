@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-13 08:40:32`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-14 08:44:26`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [希望 pdf 能优化高亮在夜间模式下的显示](https://ld246.com/article/1720670204212/comment/1720671473889#comments)
+
+  > 颜色可以自己修改 --b3-pdf-background1
 * 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1720160868120#comments)
 
   > 临时记录一下自动刷新选项？
@@ -31,9 +34,6 @@
 * 💬 [思源笔记的公式有没有方法让它自适应改变大小？](https://ld246.com/article/1718933532253/comment/1718980571255#comments)
 
   > 公式大小由字体大小决定，由于性能和过小看不清等问题，可参考导出时对公式的处理，从而使用插件进行实现。
-* 🗣 [思源笔记的「布局」保存，可以增加下拉菜单支持么？](https://ld246.com/article/1718691663751/comment/1718849161141#comments)
-
-  > 这个不是下拉就不会造成歧义。
 
 
 <!--events end -->
