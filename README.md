@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-07-31 08:33:59`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-08-01 08:45:06`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722305881164#comments)
+
+  > 弹出的内容是自己写的，自定义的是菜单上的按钮
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722305843079#comments)
+
+  > 必须为 json 格式
 * 🗃📝 [求助在 docker 部署思源 3.1.1 后不能通过 ipv4 内网地址访问](https://ld246.com/article/1722248640028)
 
   > 前几天突然发现不能通过内网 ipv4 地址进行访问，今天排查发现容器内和宿主机在开启容器时都没有监听 ipv4 的 6806 端口，只有 ipv6 的，通过 ipv6 能够正常访问，尝试过换成 host 模式依旧不能解决
@@ -28,12 +34,6 @@
 * 🗣 [希望 pdf 能优化高亮在夜间模式下的显示](https://ld246.com/article/1720670204212/comment/1720671473889#comments)
 
   > 颜色可以自己修改 --b3-pdf-background1
-* 🗣 [使用 Mermaid、Graphviz 等卡顿严重](https://ld246.com/article/1633156099001/comment/1720160868120#comments)
-
-  > 临时记录一下自动刷新选项？
-* 🗣 [Vditor 表格换行问题](https://ld246.com/article/1715658531067/comment/1720160015446#comments)
-
-  > 分屏模式后期会重写，相关 bug 就不处理了
 
 
 <!--events end -->
