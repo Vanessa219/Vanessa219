@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-08-03 08:40:12`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-08-04 08:44:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722579665341#comments)
+
+  > CommonMark 没有这样的语法，可以自己用 html 标签实现
+* 🗣 [苹果电脑文档树，鼠标放到最小化的按钮上，提示的快捷键是错误的，不应该是窗口按键 +w](https://ld246.com/article/1722516080684/comment/1722562849395#comments)
+
+  > 那应该焦点没在文档树上，你看一下 dock 栏上文档树图标需要高亮才是聚焦状态。
 * 💬 [苹果电脑文档树，鼠标放到最小化的按钮上，提示的快捷键是错误的，不应该是窗口按键 +w](https://ld246.com/article/1722516080684/comment/1722523658644#comments)
 
   > 没太理解应该显示什么，焦点在面板上按 command+w 可以关闭当前面板。
@@ -28,12 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1721358608762#comments)
 
   > 滚动高亮可参见 [链接]
-* 🗣 [Vditor 自定义渲染](https://ld246.com/article/1588412297062/comment/1721802232269#comments)
-
-  > 方法里面可以调用组件
-* 🗣 [aac 格式的文件其实是音频文件，目前在笔记上会展示成普通文件，需要用系统浏览器才能打开播放](https://ld246.com/article/1718683299790/comment/1720844059921#comments)
-
-  > 要新上传的才可以，原来的数据不会动
 
 
 <!--events end -->
