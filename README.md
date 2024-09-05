@@ -6,10 +6,25 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-04 08:43:30`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-05 08:44:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722305843079#comments)
+
+  > @loveNan 你去 github 上面提 issue 记录一下，我最近抽空改改。
+* 💬 [v3.1.15 dom 元素 display 为 flex 的前提下，flex-wrap: warp 会失效，3.1.13 都还不会](https://ld246.com/article/1725440349684/comment/1725463964511#comments)
+
+  > 具体表现出来的是什么问题？
+* 🗣 [彻底解决思源 3.1.4 代码块选择的问题](https://ld246.com/article/1724861627569/comment/1725171324920#comments)
+
+  > 插件问题的话我也不太清楚
+* 💗📝 [Linux 3.1.5 版本代码块](https://ld246.com/article/1725356267802)
+
+  > Linux 3.1.5 版本代码块异常，不如之前的美观，是 bug 还是设计如此： [图片] 更新下，此异常是 Savor 主题导致的。
+* 💬 [Linux 3.1.5 版本代码块](https://ld246.com/article/1725356267802/comment/1725463675001#comments)
+
+  > 没有用代码块主题的颜色，下个版本改进 [链接]
 * 🗣 [彻底解决思源 3.1.4 代码块选择的问题](https://ld246.com/article/1724861627569/comment/1724912566131#comments)
 
   > 已修改，多谢。
@@ -19,21 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1724938548369#comments)
 
   > 有特殊的处理
-* 💬 [彻底解决思源 3.1.4 代码块选择的问题](https://ld246.com/article/1724861627569/comment/1724901936910#comments)
-
-  > .hljs 上可能会设置 max-height 这样的话无法兼容竖向滚动条 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722949266825#comments)
-
-  > @qzx 看了一下由于以下 issue [链接] [链接] 导致的。不考虑这些因素可移除 [链接] 判断
-* 🗣 [Vditor 自定义渲染](https://ld246.com/article/1588412297062/comment/1723556509080#comments)
-
-  > [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722949266825#comments)
-
-  > 有改动的话，都会重新渲染
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1723083679871#comments)
-
-  > 这个需要看一下复制到剪切板中的内容
 
 
 <!--events end -->
