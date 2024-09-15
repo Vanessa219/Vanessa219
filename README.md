@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-14 08:43:43`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-15 08:51:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 自定义渲染](https://ld246.com/article/1588412297062/comment/1726159332114#comments)
+
+  > 使用接口就行了
 * 🗣 [v3.1.15 dom 元素 display 为 flex 的前提下，flex-wrap: warp 会失效，3.1.13 都还不会](https://ld246.com/article/1725440349684/comment/1726111109950#comments)
 
   > [链接]
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1725525231771#comments)
 
   > @loveNan sv 模式会重写，相关 bug 就不处理了
-* 🗣 [v3.1.15 dom 元素 display 为 flex 的前提下，flex-wrap: warp 会失效，3.1.13 都还不会](https://ld246.com/article/1725440349684/comment/1725536661385#comments)
-
-  > 里面块没有宽度，设置一个宽度的话就可以了。
 
 
 <!--events end -->
