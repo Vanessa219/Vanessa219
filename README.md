@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-27 08:46:49`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-09-28 08:46:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Mac 电脑和安卓平板，文档界面显示异常和内容响应异常](https://ld246.com/article/1727353424706/comment/1727354479275#comments)
+
+  > 嗯，第一次点开大纲的时候有点问题。下个版本修复 [链接]
 * 🗣 [改进 隐藏停靠栏的时候 未钉住的停靠栏触发范围太小](https://ld246.com/article/1718240778154/comment/1718240793298#comments)
 
   > @lsb900226 看了一下代码，主要是由于 [链接] 问题而进行的改动。目前无法进行修改
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1725525231771#comments)
 
   > @loveNan 可关注 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1725768494145#comments)
-
-  > 要做为 html 插入，你是不是做为代码块了？
 
 
 <!--events end -->
