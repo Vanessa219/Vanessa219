@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-10-21 08:49:38`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-10-22 08:47:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [搜索页可否显示完整的块内容？](https://ld246.com/article/1729471878997/comment/1729480063654#comments)
+
+  > 👌 [链接]
 * 🗣 [清除行级元素不选中则无效，是逻辑改变了还是？](https://ld246.com/article/1717469163615/comment/1729264184619#comments)
 
   > @JeffreyChen 页签一直开着呢，每次都准备看又去改其他的了。
@@ -31,9 +34,6 @@
 * 🗣 [虚拟引用窗口显示不可调节](https://ld246.com/article/1728572923223/comment/1728726999647#comments)
 
   > 这个是一行的高度，以前比较高，用户说浪费空间。。。
-* 🗣 [虚拟引用窗口显示不可调节](https://ld246.com/article/1728572923223/comment/1728574022321#comments)
-
-  > 每个都调节，也很累呀
 
 
 <!--events end -->
