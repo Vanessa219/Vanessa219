@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-06 08:46:20`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-07 08:46:26`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
+
+  > @JeffreyChen 现在这个设置太多了，我都找不到，这个怕是没必要加了
+* 🗣 [思源笔记在苹果手机端，无法导出 zip、图片、markdown 等格式文件，跳转后浏览器无效](https://ld246.com/article/1730537012801/comment/1730897903723#comments)
+
+  > 切到思源看看是否正常运行，正常的话速度切换到浏览器，刷新看看是否能下载。
+* 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
+
+  > 逗号没有办法区分是原有标签的还是需要分割的
 * 💬 [iPad 端挂件中的 kmind 无法完成拖动调整大小](https://ld246.com/article/1730428142082/comment/1730628104548#comments)
 
   > 汇总到 [链接]
@@ -25,15 +34,6 @@
 * 💬 [链滴社区回帖样式](https://ld246.com/article/1730370679686/comment/1730385963200#comments)
 
   > 公式发我一下。
-* 🗣 [建议按 'Esc' 退出公式块将光标置于块后](https://ld246.com/article/1730263684341/comment/1730306118051#comments)
-
-  > 公式块是点击编辑的，因此是无法输入内容的
-* 💬 [建议按 'Esc' 退出公式块将光标置于块后](https://ld246.com/article/1730263684341/comment/1730301885297#comments)
-
-  > 这样可以方便再次打开修改，如果不选中的话，还是需要回车，相当于只少了一步。
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1730289257434#comments)
-
-  > 直接调用就可以了，是实例上的方法
 
 
 <!--events end -->
