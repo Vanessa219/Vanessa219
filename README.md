@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-07 08:46:26`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-08 08:46:07`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [清除行级元素不选中则无效，是逻辑改变了还是？](https://ld246.com/article/1717469163615/comment/1730915117619#comments)
+
+  > 嗯嗯，想到会改进的，谢谢。
 * 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
 
   > @JeffreyChen 现在这个设置太多了，我都找不到，这个怕是没必要加了
@@ -31,9 +34,6 @@
 * 💬 [建议按 'Esc' 退出公式块将光标置于块后](https://ld246.com/article/1730263684341/comment/1730386963313#comments)
 
   > 捐赠属于个人对产品的情怀，合理的功能不捐赠也会考虑添加的，有兴趣可以看看我们的 [链接]。 代码块和图表、五线谱等块属于展现块，设计上是不允许在编辑器内进行编辑的，需要通过浮窗进行编辑。
-* 💬 [链滴社区回帖样式](https://ld246.com/article/1730370679686/comment/1730385963200#comments)
-
-  > 公式发我一下。
 
 
 <!--events end -->
