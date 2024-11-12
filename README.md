@@ -6,7 +6,7 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-11 08:48:18`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-12 08:45:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
@@ -16,7 +16,7 @@
 * 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
 
   > @JeffreyChen 现在这个设置太多了，我都找不到，这个怕是没必要加了
-* 🗣 [思源笔记在苹果手机端，无法导出 zip、图片、markdown 等格式文件，跳转后浏览器无效](https://ld246.com/article/1730537012801/comment/1730897903723#comments)
+* 🗣 [思源笔记在苹果手机端无法导出 zip、图片、markdown 等格式文件，跳转后浏览器无效](https://ld246.com/article/1730537012801/comment/1730897903723#comments)
 
   > 切到思源看看是否正常运行，正常的话速度切换到浏览器，刷新看看是否能下载。
 * 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
