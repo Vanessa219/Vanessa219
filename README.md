@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-17 08:53:36`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-11-18 08:52:22`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [能否更新优化文档？](https://ld246.com/article/1731565202069/comment/1731640325108#comments)
+
+  > img 元素的 loading 特性是?
 * 💗📝 [思源笔记的收集箱能不能加一个复制的功能啊？](https://ld246.com/article/1731382162955)
 
   > 有时候发了长文到收集箱，只能一个字一个字打到笔记本上，能有个复制的功能好多了。
@@ -31,9 +34,6 @@
 * 🗣 [清除行级元素不选中则无效，是逻辑改变了还是？](https://ld246.com/article/1717469163615/comment/1730915117619#comments)
 
   > 嗯嗯，想到会改进的，谢谢。
-* 🗣 [数据库视图多选粘贴优化建议](https://ld246.com/article/1730797541762/comment/1730800515360#comments)
-
-  > @JeffreyChen 现在这个设置太多了，我都找不到，这个怕是没必要加了
 
 
 <!--events end -->
