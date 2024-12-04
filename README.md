@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-03 08:53:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-04 08:53:00`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记 Mermaid 渲染公式问题](https://ld246.com/article/1732047800194/comment/1733272730648#comments)
+
+  > 核对一下版本号 [图片]
 * 💬 [v3.1.8 代码块连词关掉还是连词的效果](https://ld246.com/article/1727688144141/comment/1732412801927#comments)
 
   > 连字的效果是 [图片]，看图中不是这样的，是已经关闭了的。 开启两侧对齐就是这样的效果，如果不需要的话可以关闭两侧对齐。即使非要使用代码片段请使用 .code-block { text-align: left; }
@@ -31,9 +34,6 @@
 * 🗣 [能否更新优化文档？](https://ld246.com/article/1731565202069/comment/1731640325108#comments)
 
   > @Wetoria ok [链接]
-* 🗣 [能否更新优化文档？](https://ld246.com/article/1731565202069/comment/1731640325108#comments)
-
-  > @Wetoria 哦，现在还可以这么玩，vditor 和社区用的是自己写的。看来有空可以更新一下了。
 
 
 <!--events end -->
