@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-09 08:54:31`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-10 08:53:53`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [建议改进搜索条件选中样式](https://ld246.com/article/1733642150153/comment/1733675104549#comments)
+
+  > 这个已经修改好了。
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1722305843079#comments)
 
   > @loveNan 注释去了就正常了
@@ -31,9 +34,6 @@
 * 💬 [pdf 跨页标注存在缺陷](https://ld246.com/article/1732610937549/comment/1733447190061#comments)
 
   > 这个看上去没有分页，麻烦发一下 PDF
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1733389259792#comments)
-
-  > 初始化时保证 DOM 中没有内容
 
 
 <!--events end -->
