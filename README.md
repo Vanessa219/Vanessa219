@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-10 08:53:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-11 08:52:39`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1733715055554#comments)
+
+  > 这个应该是在 vditor 页面添加就可以了
 * 🗣 [建议改进搜索条件选中样式](https://ld246.com/article/1733642150153/comment/1733675104549#comments)
 
   > 这个已经修改好了。
@@ -31,9 +34,6 @@
 * 💬 [MACOS 12.7.6 更新到 3.1.14 后，拼音输入发现吃字情况](https://ld246.com/article/1733583659083/comment/1733621566378#comments)
 
   > 15.1.1 上搜狗是正常的，具体是操作了什么以后首字母消失的？
-* 💬 [pdf 跨页标注存在缺陷](https://ld246.com/article/1732610937549/comment/1733447190061#comments)
-
-  > 这个看上去没有分页，麻烦发一下 PDF
 
 
 <!--events end -->
