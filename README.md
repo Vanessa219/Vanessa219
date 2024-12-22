@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-22 08:52:39`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2024-12-22 21:44:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [输入数字后标点怎么不能自动转换？](https://ld246.com/article/1734849648331/comment/1734856445239#comments)
+
+  > 什么输入法？
 * 💗📝 [v3.1.16 图片居中后调整大小导致居中失效](https://ld246.com/article/1734665662652)
 
   > [图片]
@@ -31,9 +34,6 @@
 * 🗣 [系统的块面包屑为啥一打字就不见了](https://ld246.com/article/1734315530572/comment/1734331839992#comments)
 
   > 还有列表项
-* 🗣 [为什么更新后超级块间距变得特别大？](https://ld246.com/article/1733980600936/comment/1734142781657#comments)
-
-  > 我们没有 editor.css，你需要在设置-外观-代码片段中进行添加
 
 
 <!--events end -->
