@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-02-20 08:48:25`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-02-21 08:48:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [当引用文档块时，期望在鼠标移动上后显示出的悬浮窗口能显示出红框中的“数据库”和“被引用的计数”标识](https://ld246.com/article/1739958581880/comment/1740019212439#comments)
+
+  > 由于没有标题的存在，此处加上的话会被误认为是第一个块的
 * 🗣 [似乎发现一个盲点：如何在浮窗中修改文档标题？](https://ld246.com/article/1735908653643/comment/1735965676963#comments)
 
   > 文档数和这个菜单有很多区别的
@@ -31,9 +34,6 @@
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1735293080312#comments)
 
   > @dongyuhua 这个是个规范
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1735293080312#comments)
-
-  > 没看明白，指的是粗体后面没有空格，复制过来多了一个空格么？
 
 
 <!--events end -->
