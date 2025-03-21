@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-03-20 08:50:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-03-21 08:51:54`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [编辑器语言设置英文模式下的中文内容大小不一致问题](https://ld246.com/article/1741920376849/comment/1741929071848#comments)
+
+  > 麻烦下个版本再看看
 * 💬 [Vditor getHTML()或者 html2md(value: string) 方法逻辑有误，不能完全转换](https://ld246.com/article/1741222885064/comment/1742281067211#comments)
 
   > value 是没有缓存的，修改 html 后，直接获取 value 就是更新后的 html 所转换的。应该不需要那么复杂的操作
@@ -31,9 +34,6 @@
 * 💬 [当引用文档块时，期望在鼠标移动上后显示出的悬浮窗口能显示出红框中的“数据库”和“被引用的计数”标识](https://ld246.com/article/1739958581880/comment/1740019212439#comments)
 
   > 由于没有标题的存在，此处加上的话会被误认为是第一个块的
-* 🗣 [似乎发现一个盲点：如何在浮窗中修改文档标题？](https://ld246.com/article/1735908653643/comment/1735965676963#comments)
-
-  > 文档数和这个菜单有很多区别的
 
 
 <!--events end -->
