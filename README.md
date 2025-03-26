@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-03-25 08:52:18`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-03-26 08:51:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [mac 中粘贴为纯文本快捷键不起作用](https://ld246.com/article/1742698634512/comment/1742801434727#comments)
+
+  > 照楼上的看看
 * 💬 [mac 中粘贴为纯文本快捷键不起作用](https://ld246.com/article/1742698634512/comment/1742701898499#comments)
 
   > 无法复现，ctrl+x 后 ctrl+shift+v 用作用么?
@@ -31,9 +34,6 @@
 * 🗣 [当引用文档块时，期望在鼠标移动上后显示出的悬浮窗口能显示出红框中的“数据库”和“被引用的计数”标识](https://ld246.com/article/1739958581880/comment/1740158446424#comments)
 
   > 浮窗原本就小，显示出来太占地方而且不太美观。基于目前需求可以得到解决，就先不处理了。
-* 🗣 [当引用文档块时，期望在鼠标移动上后显示出的悬浮窗口能显示出红框中的“数据库”和“被引用的计数”标识](https://ld246.com/article/1739958581880/comment/1740025611039#comments)
-
-  > 如果是标题的话面包屑第一个会高亮，修改名称可以点击浮窗后 F2
 
 
 <!--events end -->
