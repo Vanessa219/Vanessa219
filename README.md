@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-05-27 08:55:05`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-05-28 08:56:30`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记 v3.1.31 mermaid 语法与官方不一致](https://ld246.com/article/1748339121768/comment/1748354986168#comments)
+
+  > [链接]
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1748340968127#comments)
+
+  > 可参看 [链接] 和 [链接]
 * 🗣 [键盘快捷键](https://ld246.com/article/1474030007391/comment/1747747768897#comments)
 
   > 没有新功能添加，就没有对应的更新了。
@@ -28,12 +34,6 @@
 * 💬 [mac 中粘贴为纯文本快捷键不起作用](https://ld246.com/article/1742698634512/comment/1742701898499#comments)
 
   > 无法复现，ctrl+x 后 ctrl+shift+v 用作用么?
-* 🗣 [编辑器语言设置英文模式下的中文内容大小不一致问题](https://ld246.com/article/1741920376849/comment/1741929071848#comments)
-
-  > 麻烦下个版本再看看
-* 💬 [Vditor getHTML()或者 html2md(value: string) 方法逻辑有误，不能完全转换](https://ld246.com/article/1741222885064/comment/1742281067211#comments)
-
-  > value 是没有缓存的，修改 html 后，直接获取 value 就是更新后的 html 所转换的。应该不需要那么复杂的操作
 
 
 <!--events end -->
