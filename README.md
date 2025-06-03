@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-06-02 08:59:08`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-06-03 08:57:41`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [新版 3.1.30 输入卡顿，基本无法正常使用（3.1.27 正常）](https://ld246.com/article/1747813879688/comment/1748874938719#comments)
+
+  > 是什么输入法？ 我这里 macOS 15.5 以下输入法都正常。 [图片]
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1748530972151#comments)
 
   > 后端存 md 就可以了。渲染好的 html 包括图形、canvas 等，无法存储。
@@ -31,9 +34,6 @@
 * 🗣 [一种输入标题导致运行时错误的情况](https://ld246.com/article/1742783821706/comment/1745158976825#comments)
 
   > 还是无法重现，range 也是正常的，换个输入发试试，或者输入数字再试试。
-* 💬 [一种输入标题导致运行时错误的情况](https://ld246.com/article/1742783821706/comment/1744814840803#comments)
-
-  > 我这里也无法重现。 正常的结构应该是这样的，看上去是 rang 不对，导致使用了浏览器默认的输入行为。 [图片] 目前只能逐一排查问题。 用伺服使用浏览器打开试试；关闭鼠标指针样式试试。 不行的话在鼠标点击编辑器后和输入 # 及每一个字符后都在控制台输入 getSelection().getRangeAt(0) 并回车 ..
 
 
 <!--events end -->
