@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-06-27 08:58:17`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-06-28 08:56:14`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [关于 PDF 管理和批注以及其他问题的一些想法和建议](https://ld246.com/article/1702963413735/comment/1750908142477#comments)
+
+  > 理论上是可以的
 * 🗣 [新版 3.1.30 输入卡顿，基本无法正常使用（3.1.27 正常）](https://ld246.com/article/1747813879688/comment/1749172458348#comments)
 
   > 我系统为 15.5，没有异常，可以升级系统看看。有可能是 electron 版本和 mac 系统不匹配。
@@ -31,9 +34,6 @@
 * 🗣 [键盘快捷键](https://ld246.com/article/1474030007391/comment/1747747768897#comments)
 
   > 没有新功能添加，就没有对应的更新了。
-* 💗🗣 [一种输入标题导致运行时错误的情况](https://ld246.com/article/1742783821706/comment/1745158976825#comments)
-
-  > @Vanessa 感谢 V 大指点，最新测试中发现问题限制到小狼毫输入法复现了，之前微软拼音也会的，今天测试不出来了，我准备检查一下触发情况，去那边反馈问问
 
 
 <!--events end -->
