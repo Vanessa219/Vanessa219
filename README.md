@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-10-18 08:50:06`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-10-19 08:59:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [代码块搜索无法跳转到具体代码位置](https://ld246.com/article/1658644877474/comment/1760529994885#comments)
+
+  > 现在已经可以了，不可以是三年前的事情了
 * 🗣 [退出聚焦后定位动画时间太长](https://ld246.com/article/1759631091897/comment/1759674431024#comments)
 
   > [链接]
@@ -31,9 +34,6 @@
 * 💬 [mermaid 块默认提供支持更多图形](https://ld246.com/article/1757077011113/comment/1757493866418#comments)
 
   > [链接]
-* 💬 [Mac 上光标如何一次移动多个字符](https://ld246.com/article/1757268243167/comment/1757493265315#comments)
-
-  > 我这里移除聚焦和退出聚焦后，是可以移动多个字符的。是不是用了什么插件？
 
 
 <!--events end -->
