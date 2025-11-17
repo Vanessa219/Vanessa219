@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-11-16 08:59:56`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-11-17 08:57:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1763027962095#comments)
+
+  > customWysiwygToolbar 需要赋值为 function
 * 🗣 [新版 3.1.30 输入卡顿，基本无法正常使用（3.1.27 正常）](https://ld246.com/article/1747813879688/comment/1761613204409#comments)
 
   > @fsy0718 我从 15.5 到 26.0.1 没出现过问题，要不升级系统看看？
@@ -31,9 +34,6 @@
 * 🗣 [退出聚焦后定位动画时间太长](https://ld246.com/article/1759631091897/comment/1759674431024#comments)
 
   > [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1758932215746#comments)
-
-  > 可以自己设置 cdn 为离线的即可。
 
 
 <!--events end -->
