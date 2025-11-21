@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-11-20 08:54:59`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2025-11-21 08:55:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [版本升级到 v3.4.0 后，大纲失效](https://ld246.com/article/1763598190179/comment/1763600855560#comments)
+
+  > 下个版本修复 [链接]
 * 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1763027962095#comments)
 
   > customWysiwygToolbar 需要赋值为 function
@@ -31,9 +34,6 @@
 * 🗣 [代码块搜索无法跳转到具体代码位置](https://ld246.com/article/1658644877474/comment/1760529994885#comments)
 
   > 现在已经可以了，不可以是三年前的事情了
-* 🗣 [退出聚焦后定位动画时间太长](https://ld246.com/article/1759631091897/comment/1759674431024#comments)
-
-  > [链接]
 
 
 <!--events end -->
