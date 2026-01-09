@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-01-08 09:00:59`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-01-09 09:01:45`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [v3.5.2 引用块和提示块里的标题下的链接无法跳转](https://ld246.com/article/1767770694194/comment/1767839837443#comments)
+
+  > 还需要保持大纲标题展开
+* 💬 [v3.5.2 引用块和提示块里的标题下的链接无法跳转](https://ld246.com/article/1767770694194/comment/1767838858155#comments)
+
+  > 引述块内的标题不在大纲上导致。3.5.3 修复。
 * 💬 [ipad 和 mac 端现在操作极度卡顿](https://ld246.com/article/1766812745796/comment/1767712591005#comments)
 
   > @OneZee 可以在卡顿的时候进行录制导出一个发我看看。 [图片]
@@ -28,12 +34,6 @@
 * 💬 [版本升级到 v3.4.0 后，大纲失效](https://ld246.com/article/1763598190179/comment/1763600855560#comments)
 
   > 下个版本修复 [链接]
-* 🗣 [Vditor 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式](https://ld246.com/article/1549638745630/comment/1763027962095#comments)
-
-  > customWysiwygToolbar 需要赋值为 function
-* 🗣 [新版 3.1.30 输入卡顿，基本无法正常使用（3.1.27 正常）](https://ld246.com/article/1747813879688/comment/1761613204409#comments)
-
-  > @fsy0718 我从 15.5 到 26.0.1 没出现过问题，要不升级系统看看？
 
 
 <!--events end -->
