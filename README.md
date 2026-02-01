@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-01-31 09:07:48`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-02-01 09:22:56`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v3.5.3 搜索条件初始化问题](https://ld246.com/article/1769310653842/comment/1769868694970#comments)
+
+  > 符合预期。搜索缓存在初次加载的时候会进行默认设置。后面再修改搜索选项并不会更新搜索缓存。
 * 🗣 [v3.5.3 搜索界面存在的问题——薛定谔的查询条件自动保存](https://ld246.com/article/1769335457436/comment/1769423477034#comments)
 
   > [链接]
@@ -31,9 +34,6 @@
 * 💬 [ipad 和 mac 端现在操作极度卡顿](https://ld246.com/article/1766812745796/comment/1767712477895#comments)
 
   > 用了什么输入法么？我 Mac 没有出现过这种情况。
-* 💬 [关于有序列表的两个问题](https://ld246.com/article/1764801641224/comment/1764818602554#comments)
-
-  > 排序规则修改：[链接] 序号有些也是居中的，就不进行改动了。
 
 
 <!--events end -->
