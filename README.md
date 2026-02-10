@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-02-09 09:16:47`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-02-10 09:25:23`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v3.5.4 搜索预览窗口文档锁定状态显示错误](https://ld246.com/article/1770132984152/comment/1770630290735#comments)
+
+  > 下个版本改进，感谢反馈。
 * 💬 [v3.5.3 搜索条件初始化问题](https://ld246.com/article/1769310653842/comment/1769868694970#comments)
 
   > 符合预期。搜索缓存在初次加载的时候会进行默认设置。后面再修改搜索选项并不会更新搜索缓存。
@@ -31,9 +34,6 @@
 * 💬 [ipad 和 mac 端现在操作极度卡顿](https://ld246.com/article/1766812745796/comment/1767712591005#comments)
 
   > @OneZee 可以在卡顿的时候进行录制导出一个发我看看。 [图片]
-* 💬 [ipad 和 mac 端现在操作极度卡顿](https://ld246.com/article/1766812745796/comment/1767712477895#comments)
-
-  > 用了什么输入法么？我 Mac 没有出现过这种情况。
 
 
 <!--events end -->
