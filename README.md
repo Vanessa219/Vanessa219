@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-02-13 09:19:28`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-02-14 09:12:38`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v3.5.3 块滚动条的行为是符合预期的吗？](https://ld246.com/article/1769259760033/comment/1770988369116#comments)
+
+  > 符合预期，最后一个块只有一个块，没有滚动条，就会显示所有的内容。
 * 💬 [v3.5.4 搜索预览窗口文档锁定状态显示错误](https://ld246.com/article/1770132984152/comment/1770630290735#comments)
 
   > 下个版本改进，感谢反馈。
@@ -31,9 +34,6 @@
 * 💬 [v3.5.2 引用块和提示块里的标题下的链接无法跳转](https://ld246.com/article/1767770694194/comment/1767838858155#comments)
 
   > 引述块内的标题不在大纲上导致。3.5.3 修复。
-* 💬 [ipad 和 mac 端现在操作极度卡顿](https://ld246.com/article/1766812745796/comment/1767712591005#comments)
-
-  > @OneZee 可以在卡顿的时候进行录制导出一个发我看看。 [图片]
 
 
 <!--events end -->
