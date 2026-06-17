@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-06-16 10:48:02`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-06-17 10:44:51`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781572983622#comments)
+
+  > 那就麻烦下个版本再试试了。
 * 💬 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781534336096#comments)
 
   > 发一下 Apple ID 邮箱给我，然后我发邀请链接给你。
@@ -31,9 +34,6 @@
 * 💬 [v3.5.4 搜索预览窗口文档锁定状态显示错误](https://ld246.com/article/1770132984152/comment/1770630290735#comments)
 
   > 下个版本改进，感谢反馈。
-* 💬 [v3.5.3 搜索条件初始化问题](https://ld246.com/article/1769310653842/comment/1769868694970#comments)
-
-  > 符合预期。搜索缓存在初次加载的时候会进行默认设置。后面再修改搜索选项并不会更新搜索缓存。
 
 
 <!--events end -->
