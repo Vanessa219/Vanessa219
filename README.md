@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-06-22 10:47:37`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-06-23 10:13:47`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781656964666#comments)
+
+  > 目前我的机型无此现象，是否可以发一下 Apple ID 邮箱给我，然后我发邀请链接给你进行内部测试
 * 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781572983622#comments)
 
   > 那就麻烦下个版本再试试了。
@@ -31,9 +34,6 @@
 * 💬 [v3.5.3 块滚动条的行为是符合预期的吗？](https://ld246.com/article/1769259760033/comment/1770988369116#comments)
 
   > 符合预期，最后一个块只有一个块，没有滚动条，就会显示所有的内容。
-* 💬 [v3.5.4 搜索预览窗口文档锁定状态显示错误](https://ld246.com/article/1770132984152/comment/1770630290735#comments)
-
-  > 下个版本改进，感谢反馈。
 
 
 <!--events end -->
