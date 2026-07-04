@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-03 09:59:49`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-04 09:57:56`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [3.7.0 版本 ios 端闪卡问题](https://ld246.com/article/1783000332928/comment/1783060358541#comments)
+
+  > 块可以上下拖拽，双击无法扩大范围这个可以重现 [链接]
+* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
+
+  > iOS ≥ 26.4 嘛？ 是的话下个版本修复 [链接]
 * 💬 [3.7.0 版本 ios 端闪卡问题](https://ld246.com/article/1783000332928/comment/1783037775335#comments)
 
   > 指的是没有块标么？还是有其他的什么操作？
@@ -28,12 +34,6 @@
 * 🗣 [新版的思源笔记苹果手机版所有图片都显示不出来](https://ld246.com/article/1782861221612/comment/1782866401893#comments)
 
   > 可以重现，应是 kernel 的问题，D 在排查了
-* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781656964666#comments)
-
-  > 目前我的机型无此现象，是否可以发一下 Apple ID 邮箱给我，然后我发邀请链接给你进行内部测试
-* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1781572983622#comments)
-
-  > 那就麻烦下个版本再试试了。
 
 
 <!--events end -->
