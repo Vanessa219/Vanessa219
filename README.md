@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-07 10:06:24`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-08 09:47:28`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783474107567#comments)
+
+  > 只是文档树有问题么？其他面板的拖拽有问题么？ 目前修改了一下，还麻烦下个版本再试试。
+* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
+
+  > @Green2023 [链接] 下个版本修复
 * 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
 
   > @Green2023 具体发一个我试试。
@@ -28,12 +34,6 @@
 * 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
 
   > @Green2023 你更新到 3.7.1 再看看
-* 🗣 [3.7.0 版本 ios 端闪卡问题](https://ld246.com/article/1783000332928/comment/1783060358541#comments)
-
-  > 块可以上下拖拽，双击无法扩大范围这个可以重现 [链接]
-* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
-
-  > iOS ≥ 26.4 嘛？ 是的话下个版本修复 [链接]
 
 
 <!--events end -->
