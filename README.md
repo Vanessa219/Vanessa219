@@ -6,34 +6,34 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-13 09:50:46`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-14 09:27:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
+
+  > @xnyshu 账号发我
+* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
+
+  > @xnyshu 这个是 iPad 的机制，可以搜索一下如何回退。但注意备份好你的数据。如果懒得折腾可以在 TestFlight 中回退。
+* 💬 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
+
+  > 新建工作空间有问题么？可以的话发一下日志
+* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1782953917265#comments)
+
+  > @qq195255222 我们很重视的，后面又修改了。3.7.1 还可以重现么？
+* 💬 [iOS 端导出为 html 功能无法使用](https://ld246.com/article/1783416806236/comment/1783944744687#comments)
+
+  > 还在讨论中，可关注 [链接]
+* 🗣 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783658154115#comments)
+
+  > 可以了么？
 * 💬 [智能体输入框里面输入 @，什么都没有，正常吗？](https://ld246.com/article/1782918612952/comment/1783475530059#comments)
 
   > [链接]
 * 💬 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783474107567#comments)
 
   > 只是文档树有问题么？其他面板的拖拽有问题么？ 目前修改了一下，还麻烦下个版本再试试。
-* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
-
-  > @Green2023 [链接] 下个版本修复
-* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
-
-  > @Green2023 具体发一个我试试。
-* 💬 [iOS 端内置预览 127.0.0.1 本地 http 被系统强制 HTTPS 拦截，无法预览附件](https://ld246.com/article/1782980645323/comment/1783261353230#comments)
-
-  > 你是开启了强制 HTTPS 策略么？ “设置” &gt; “Safari 浏览器” &gt; 开启“欺骗性网站警告”。
-* 💬 [iOS 端内置预览 127.0.0.1 本地 http 被系统强制 HTTPS 拦截，无法预览附件](https://ld246.com/article/1782980645323/comment/1783221093269#comments)
-
-  > 可以下载下来么？如果需要预览的话，使用 Chrome 打开看看
-* 💬 [iOS 3.7.1 闪念速记问题](https://ld246.com/article/1783150008582/comment/1783179991082#comments)
-
-  > [链接] 下个版本修改
-* 🗣 [iOS 端内置预览 127.0.0.1 本地 http 被系统强制 HTTPS 拦截，无法预览附件](https://ld246.com/article/1782980645323/comment/1783164816556#comments)
-
-  > 我的 xlsx 用 chrome 是可以预览的，safari 是提示下载。你访问的完整地址发我看看
 
 
 <!--events end -->
