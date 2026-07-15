@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-14 09:27:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-15 09:24:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
+
+  > @xnyshu 我在开发环境和正式环境之间切换不会。保险起见还是先同步到云端或本地备份一下。如果可以打开的话还麻烦发一下日志，谢谢。
+* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
+
+  > @xnyshu 收到邀请邮件了么? 或者看看用这个链接行不行 [链接]
 * 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
 
   > @xnyshu 账号发我
@@ -28,12 +34,6 @@
 * 🗣 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783658154115#comments)
 
   > 可以了么？
-* 💬 [智能体输入框里面输入 @，什么都没有，正常吗？](https://ld246.com/article/1782918612952/comment/1783475530059#comments)
-
-  > [链接]
-* 💬 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783474107567#comments)
-
-  > 只是文档树有问题么？其他面板的拖拽有问题么？ 目前修改了一下，还麻烦下个版本再试试。
 
 
 <!--events end -->
