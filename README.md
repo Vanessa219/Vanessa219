@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-16 09:44:40`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-17 09:48:03`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [ipad mini 5 升级到最新版后左上与右上点不动](https://ld246.com/article/1783869120580/comment/1784193259786#comments)
+
+  > 下个版本修复 [链接]
+* 💬 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784172867002#comments)
+
+  > 是点哪里收起的？手机系统版本是？方便录屏么？
 * 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
 
   > @xnyshu 我在开发环境和正式环境之间切换不会。保险起见还是先同步到云端或本地备份一下。如果可以打开的话还麻烦发一下日志，谢谢。
@@ -28,12 +34,6 @@
 * 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1782953917265#comments)
 
   > @qq195255222 我们很重视的，后面又修改了。3.7.1 还可以重现么？
-* 💬 [iOS 端导出为 html 功能无法使用](https://ld246.com/article/1783416806236/comment/1783944744687#comments)
-
-  > 还在讨论中，可关注 [链接]
-* 🗣 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783658154115#comments)
-
-  > 可以了么？
 
 
 <!--events end -->
