@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-17 09:48:03`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-18 09:28:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
+
+  > @Green2023 3.7.3 修复
 * 💬 [ipad mini 5 升级到最新版后左上与右上点不动](https://ld246.com/article/1783869120580/comment/1784193259786#comments)
 
   > 下个版本修复 [链接]
@@ -31,9 +34,6 @@
 * 💬 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
 
   > 新建工作空间有问题么？可以的话发一下日志
-* 🗣 [iphone 手机端无法启动键盘输入文字](https://ld246.com/article/1780621476333/comment/1782953917265#comments)
-
-  > @qq195255222 我们很重视的，后面又修改了。3.7.1 还可以重现么？
 
 
 <!--events end -->
