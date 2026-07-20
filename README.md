@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-19 09:46:13`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-20 10:02:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
+
+  > [链接] 我这里无法重现，但还是修改了一下，麻烦下个版本再看看。
+* 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
+
+  > 有进行过横竖屏切换么？
+* 💬 [docker 版的块超链接打开的是本地版的](https://ld246.com/article/1632733271468/comment/1784434123578#comments)
+
+  > [链接] 下个版本改进
 * 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
 
   > @Green2023 3.7.3 修复
@@ -25,15 +34,6 @@
 * 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
 
   > @xnyshu 收到邀请邮件了么? 或者看看用这个链接行不行 [链接]
-* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
-
-  > @xnyshu 账号发我
-* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
-
-  > @xnyshu 这个是 iPad 的机制，可以搜索一下如何回退。但注意备份好你的数据。如果懒得折腾可以在 TestFlight 中回退。
-* 💬 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
-
-  > 新建工作空间有问题么？可以的话发一下日志
 
 
 <!--events end -->
