@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-21 09:46:17`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-22 09:45:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784627473147#comments)
+
+  > 已修复，更新到 3.7.3 再试试
+* 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
+
+  > @MiracleKill 待会发版，麻烦稍后再看看
 * 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
 
   > [链接] 我这里无法重现，但还是修改了一下，麻烦下个版本再看看。
@@ -28,12 +34,6 @@
 * 💬 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784172867002#comments)
 
   > 是点哪里收起的？手机系统版本是？方便录屏么？
-* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
-
-  > @xnyshu 我在开发环境和正式环境之间切换不会。保险起见还是先同步到云端或本地备份一下。如果可以打开的话还麻烦发一下日志，谢谢。
-* 🗣 [iPadOS 怎样退回旧版思源？](https://ld246.com/article/1783565399428/comment/1783954084161#comments)
-
-  > @xnyshu 收到邀请邮件了么? 或者看看用这个链接行不行 [链接]
 
 
 <!--events end -->
