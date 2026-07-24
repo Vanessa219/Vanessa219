@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-23 09:52:38`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-24 09:48:21`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784823688761#comments)
+
+  > 下个版本修复 [链接] 感谢反馈
+* 💬 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784812011261#comments)
+
+  > 目前是这样的 [视频]
 * 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784627473147#comments)
 
   > 已修复，更新到 3.7.3 再试试
@@ -28,12 +34,6 @@
 * 🗣 [v3.7.0 版本 IOS 移动端分享找不到思源图标](https://ld246.com/article/1782957716792/comment/1783040404405#comments)
 
   > @Green2023 3.7.3 修复
-* 💬 [ipad mini 5 升级到最新版后左上与右上点不动](https://ld246.com/article/1783869120580/comment/1784193259786#comments)
-
-  > 下个版本修复 [链接]
-* 💬 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784172867002#comments)
-
-  > 是点哪里收起的？手机系统版本是？方便录屏么？
 
 
 <!--events end -->
