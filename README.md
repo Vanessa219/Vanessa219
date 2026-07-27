@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-26 09:51:19`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-27 09:59:17`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [华为平板上文档锁定后点击嵌入块会自动弹键盘，求解决方案](https://ld246.com/article/1785041585020/comment/1785056514777#comments)
+
+  > 网速慢的时候有可能出现这种情况，下个版本改进。 [链接]
 * 🗣 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784857513835#comments)
 
   > 这个没有想到好的交互
@@ -31,9 +34,6 @@
 * 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
 
   > [链接] 我这里无法重现，但还是修改了一下，麻烦下个版本再看看。
-* 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
-
-  > 有进行过横竖屏切换么？
 
 
 <!--events end -->
