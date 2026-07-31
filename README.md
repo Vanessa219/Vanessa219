@@ -6,10 +6,16 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-30 09:26:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-31 09:53:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [智能体输出的内容不可复制](https://ld246.com/article/1785243857131/comment/1785337305665#comments)
+
+  > 你这个是什么版本，什么系统？
+* 🗣 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783658154115#comments)
+
+  > @QingRang 不太行具体指的是？
 * 💬 [智能体输出的内容不可复制](https://ld246.com/article/1785243857131/comment/1785251644177#comments)
 
   > 是如何选中的，我这里也可以复制
@@ -28,12 +34,6 @@
 * 💬 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784812011261#comments)
 
   > 目前是这样的 [视频]
-* 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784627473147#comments)
-
-  > 已修复，更新到 3.7.3 再试试
-* 🗣 [弹出输入法界面后再收起输入法后界面有问题](https://ld246.com/article/1784104281931/comment/1784387986436#comments)
-
-  > @MiracleKill 待会发版，麻烦稍后再看看
 
 
 <!--events end -->
