@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-07-31 09:53:11`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-08-01 09:54:32`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [建议希望能够让三星的 spen 悬停触发浮窗就像电脑上鼠标悬停的效果](https://ld246.com/article/1785246684656/comment/1785467879670#comments)
+
+  > 还麻烦下个版本帮忙测试一下 [链接]
 * 🗣 [智能体输出的内容不可复制](https://ld246.com/article/1785243857131/comment/1785337305665#comments)
 
   > 你这个是什么版本，什么系统？
@@ -31,9 +34,6 @@
 * 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784823688761#comments)
 
   > 下个版本修复 [链接] 感谢反馈
-* 💬 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784812011261#comments)
-
-  > 目前是这样的 [视频]
 
 
 <!--events end -->
