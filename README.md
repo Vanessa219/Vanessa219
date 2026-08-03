@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-08-02 09:50:29`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-08-03 09:53:04`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [v3.7.3 版本钉住无图标](https://ld246.com/article/1785626077315/comment/1785678978814#comments)
+
+  > 要对文档添加图标才行
 * 💬 [建议希望能够让三星的 spen 悬停触发浮窗就像电脑上鼠标悬停的效果](https://ld246.com/article/1785246684656/comment/1785467879670#comments)
 
   > 还麻烦下个版本帮忙测试一下 [链接]
@@ -31,9 +34,6 @@
 * 🗣 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784857352813#comments)
 
   > 没理解你想要的功能，目前的操作和你图片上的操作是一致的
-* 💬 [闪念速记上传附件无法打开](https://ld246.com/article/1784588931423/comment/1784823688761#comments)
-
-  > 下个版本修复 [链接] 感谢反馈
 
 
 <!--events end -->
