@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-08-28 15:58:54`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-08-29 12:49:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [iOS 设备谷歌浏览器适配问题](https://ld246.com/article/1787715678425/comment/1787933284233#comments)
+
+  > 下个版本改进 [链接]
 * 💬 [思源突然打开黑屏，无法使用求帮助！](https://ld246.com/article/1785841983312/comment/1785853167971#comments)
 
   > 参照这个步骤试试 [链接]
@@ -31,9 +34,6 @@
 * 💬 [华为平板上文档锁定后点击嵌入块会自动弹键盘，求解决方案](https://ld246.com/article/1785041585020/comment/1785056514777#comments)
 
   > 网速慢的时候有可能出现这种情况，下个版本改进。 [链接]
-* 🗣 [建议光标点击嵌入块内和外实现不同的功能](https://ld246.com/article/1784794823345/comment/1784857513835#comments)
-
-  > 这个没有想到好的交互
 
 
 <!--events end -->
