@@ -6,10 +6,22 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-09 10:10:26`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-10 10:08:11`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [小米平板使用 esc 会导致软件错误退出](https://ld246.com/article/1759193527088/comment/1789000161561#comments)
+
+  > 目前已无法重现，还有问题可继续留言。
+* 💬 [思源应用的几个问题](https://ld246.com/article/1725157288525/comment/1788963882196#comments)
+
+  > 目前 1,2,3 都无法重现，可能在其他修改中修复了。
+* 💬 [iPad 思源表格问题反馈](https://ld246.com/article/1726904815299/comment/1788963702659#comments)
+
+  > 已修复
+* 🗣 [Sym 商业版优势](https://ld246.com/article/1500543226433/comment/1788789453066#comments)
+
+  > 公司使用都属于商用，除非为非营利组织
 * 💬 [iOS 设备谷歌浏览器适配问题](https://ld246.com/article/1787715678425/comment/1787933284233#comments)
 
   > 下个版本改进 [链接]
@@ -22,18 +34,6 @@
 * 💬 [建议希望能够让三星的 spen 悬停触发浮窗就像电脑上鼠标悬停的效果](https://ld246.com/article/1785246684656/comment/1785467879670#comments)
 
   > 还麻烦下个版本帮忙测试一下 [链接]
-* 🗣 [智能体输出的内容不可复制](https://ld246.com/article/1785243857131/comment/1785337305665#comments)
-
-  > 你这个是什么版本，什么系统？
-* 🗣 [3.7 版本问题反馈](https://ld246.com/article/1782807514089/comment/1783658154115#comments)
-
-  > @QingRang 不太行具体指的是？
-* 💬 [智能体输出的内容不可复制](https://ld246.com/article/1785243857131/comment/1785251644177#comments)
-
-  > 是如何选中的，我这里也可以复制
-* 💬 [华为平板上文档锁定后点击嵌入块会自动弹键盘，求解决方案](https://ld246.com/article/1785041585020/comment/1785056514777#comments)
-
-  > 网速慢的时候有可能出现这种情况，下个版本改进。 [链接]
 
 
 <!--events end -->
