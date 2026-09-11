@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-10 10:08:11`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-11 10:05:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [iPad 搜索无法打开文档](https://ld246.com/article/1660469370402/comment/1789007882576#comments)
+
+  > 需要双击
 * 💬 [小米平板使用 esc 会导致软件错误退出](https://ld246.com/article/1759193527088/comment/1789000161561#comments)
 
   > 目前已无法重现，还有问题可继续留言。
@@ -31,9 +34,6 @@
 * 💬 [v3.7.3 版本钉住无图标](https://ld246.com/article/1785626077315/comment/1785678978814#comments)
 
   > 要对文档添加图标才行
-* 💬 [建议希望能够让三星的 spen 悬停触发浮窗就像电脑上鼠标悬停的效果](https://ld246.com/article/1785246684656/comment/1785467879670#comments)
-
-  > 还麻烦下个版本帮忙测试一下 [链接]
 
 
 <!--events end -->
