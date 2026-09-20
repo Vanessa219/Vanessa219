@@ -6,10 +6,19 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-19 10:16:04`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-20 10:24:46`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [ipad air5 光标自动跳转](https://ld246.com/article/1789751809009/comment/1789791678199#comments)
+
+  > 没有真机，还麻烦下个版本再看看 [链接]
+* 💬 [iPad mini 点击左侧状态栏的“文档”“大纲”树，会自动打开点击位置的文件](https://ld246.com/article/1789745642180/comment/1789788519248#comments)
+
+  > 可以打开帮助文档进行录屏，从你的描述中无法重现这些现象。
+* 💬 [3.8.5a3 列表转思维导图的优化反馈（github 又上不去了……）](https://ld246.com/article/1789777581683/comment/1789784349622#comments)
+
+  > 菜单上添加了切换为列表视图 [链接] 左上角的图标是为了快速切换为列表，而且空白位置比较多，可以放一下 编辑状态时无法删除的，esc 问题见 [链接] 已修改
 * 💬 [iPad 搜索无法打开文档](https://ld246.com/article/1660469370402/comment/1789007882576#comments)
 
   > 需要双击
@@ -25,15 +34,6 @@
 * 🗣 [Sym 商业版优势](https://ld246.com/article/1500543226433/comment/1788789453066#comments)
 
   > 公司使用都属于商用，除非为非营利组织
-* 💬 [iOS 设备谷歌浏览器适配问题](https://ld246.com/article/1787715678425/comment/1787933284233#comments)
-
-  > 下个版本改进 [链接]
-* 💬 [思源突然打开黑屏，无法使用求帮助！](https://ld246.com/article/1785841983312/comment/1785853167971#comments)
-
-  > 参照这个步骤试试 [链接]
-* 💬 [v3.7.3 版本钉住无图标](https://ld246.com/article/1785626077315/comment/1785678978814#comments)
-
-  > 要对文档添加图标才行
 
 
 <!--events end -->
