@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-22 10:26:53`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-23 10:27:01`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [移动端 iOS v3.8.4 选字容易进入段落选择状态](https://ld246.com/article/1790038664224/comment/1790041469213#comments)
+
+  > [图片] :bug: Keep the block multi-select toolbar above the title bar on iOS … · siyuan-note/siyuan@7ad57cd …https://ld246.com/article/1790038664224 GitHub - githu ..
 * 💬 [移动端 iOS v3.8.4 选字容易进入段落选择状态](https://ld246.com/article/1790038664224/comment/1790041469213#comments)
 
   > 进入触发条件为： 在编辑器普通块上按住 1.5 秒，无需松手就会进入多选；随后点击其他块可追加选择 手指横向或纵向移动达到 5 像素，会取消触发 如果长按已经选中了可见文字，就不会进入块多选。因此，长按文字时可能只出现系统文本选择；可尝试长按块内空白处 图片、行内公式、链接、块引用等目标不走这个长按多选入口
@@ -31,9 +34,6 @@
 * 💬 [思源应用的几个问题](https://ld246.com/article/1725157288525/comment/1788963882196#comments)
 
   > 目前 1,2,3 都无法重现，可能在其他修改中修复了。
-* 💬 [iPad 思源表格问题反馈](https://ld246.com/article/1726904815299/comment/1788963702659#comments)
-
-  > 已修复
 
 
 <!--events end -->
