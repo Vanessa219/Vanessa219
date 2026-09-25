@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-24 10:15:42`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-25 10:32:24`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [移动端 iOS v3.8.4 选字容易进入段落选择状态](https://ld246.com/article/1790038664224/comment/1790047555938#comments)
+
+  > 3.8.5 可以了嘛？
 * 🗣 [移动端 iOS v3.8.4 选字容易进入段落选择状态](https://ld246.com/article/1790038664224/comment/1790041469213#comments)
 
   > [图片] :bug: Keep the block multi-select toolbar above the title bar on iOS … · siyuan-note/siyuan@7ad57cd …https://ld246.com/article/1790038664224 GitHub - githu ..
@@ -31,9 +34,6 @@
 * 💬 [小米平板使用 esc 会导致软件错误退出](https://ld246.com/article/1759193527088/comment/1789000161561#comments)
 
   > 目前已无法重现，还有问题可继续留言。
-* 💬 [思源应用的几个问题](https://ld246.com/article/1725157288525/comment/1788963882196#comments)
-
-  > 目前 1,2,3 都无法重现，可能在其他修改中修复了。
 
 
 <!--events end -->
