@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-25 10:32:24`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-09-26 10:35:00`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [有人做过完整的思源笔记教程吗？](https://ld246.com/article/1790162469094/comment/1790308081650#comments)
+
+  > 3.8.5 的升级说明来了 62 【用思源笔记，把健身和旅行计划安排好 - 思源笔记 | 小红书 - 你的生活兴趣社区】 😆 tliwS9GUTiySqOp 😆 [链接]
 * 🗣 [移动端 iOS v3.8.4 选字容易进入段落选择状态](https://ld246.com/article/1790038664224/comment/1790047555938#comments)
 
   > 3.8.5 可以了嘛？
@@ -31,9 +34,6 @@
 * 💬 [iPad 搜索无法打开文档](https://ld246.com/article/1660469370402/comment/1789007882576#comments)
 
   > 需要双击
-* 💬 [小米平板使用 esc 会导致软件错误退出](https://ld246.com/article/1759193527088/comment/1789000161561#comments)
-
-  > 目前已无法重现，还有问题可继续留言。
 
 
 <!--events end -->
