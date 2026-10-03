@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-02 11:10:00`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-03 10:56:12`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [vditor 对 mermaid 图支持，建议最新版本](https://ld246.com/article/1790927392908/comment/1790945219513#comments)
+
+  > [链接]
 * 💬 [有人做过完整的思源笔记教程吗？](https://ld246.com/article/1790162469094/comment/1790308081650#comments)
 
   > 3.8.5 的升级说明来了 62 【用思源笔记，把健身和旅行计划安排好 - 思源笔记 | 小红书 - 你的生活兴趣社区】 😆 tliwS9GUTiySqOp 😆 [链接]
@@ -31,9 +34,6 @@
 * 💬 [3.8.5a3 列表转思维导图的优化反馈（github 又上不去了……）](https://ld246.com/article/1789777581683/comment/1789784349622#comments)
 
   > 菜单上添加了切换为列表视图 [链接] 左上角的图标是为了快速切换为列表，而且空白位置比较多，可以放一下 编辑状态时无法删除的，esc 问题见 [链接] 已修改
-* 💬 [iPad 搜索无法打开文档](https://ld246.com/article/1660469370402/comment/1789007882576#comments)
-
-  > 需要双击
 
 
 <!--events end -->
