@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-06 11:53:01`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-07 11:20:52`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [移动端选中和编辑文字很难受](https://ld246.com/article/1791297442701/comment/1791342440460#comments)
+
+  > 感谢反馈，下个版本修复 [链接]
 * 💬 [vditor 对 mermaid 图支持，建议最新版本](https://ld246.com/article/1790927392908/comment/1790945219513#comments)
 
   > [链接]
@@ -31,9 +34,6 @@
 * 💬 [iPad mini 点击左侧状态栏的“文档”“大纲”树，会自动打开点击位置的文件](https://ld246.com/article/1789745642180/comment/1789788519248#comments)
 
   > 可以打开帮助文档进行录屏，从你的描述中无法重现这些现象。
-* 💬 [3.8.5a3 列表转思维导图的优化反馈（github 又上不去了……）](https://ld246.com/article/1789777581683/comment/1789784349622#comments)
-
-  > 菜单上添加了切换为列表视图 [链接] 左上角的图标是为了快速切换为列表，而且空白位置比较多，可以放一下 编辑状态时无法删除的，esc 问题见 [链接] 已修改
 
 
 <!--events end -->
