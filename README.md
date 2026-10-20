@@ -6,10 +6,13 @@
 
 ### 我在[链滴](https://ld246.com)的近期动态
 
-⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-19 10:25:21`
+⭐️ Star [个人主页](https://github.com/Vanessa219/Vanessa219) 后会自动更新，最近更新时间：`2026-10-20 10:38:34`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [移动端选中和编辑文字很难受](https://ld246.com/article/1791297442701/comment/1792379330840#comments)
+
+  > 已针对这次反馈继续修复，跟踪 [链接]。 本次处理了反复双击选不中、切换到紧邻上方块时旧选区不更新、连续短按误触发块多选，以及系统文字菜单不显示或与思源浮层冲突的问题。
 * 💬 [ipad 端思源笔记文档无法打开](https://ld246.com/article/1792073109143/comment/1792309051616#comments)
 
   > 多点几下呢？有没有什么提示？。我这里重现不了
@@ -31,9 +34,6 @@
 * 🗣 [ipadmini 无法点击顶部菜单](https://ld246.com/article/1790824984423/comment/1791425795929#comments)
 
   > 多点几次能点出来么？
-* 💬 [ipadmini 无法点击顶部菜单](https://ld246.com/article/1790824984423/comment/1791382852924#comments)
-
-  > 我这里看了，现在没有这个问题，也没收到其他用户反馈。是不是做了什么操作导致的？
 
 
 <!--events end -->
